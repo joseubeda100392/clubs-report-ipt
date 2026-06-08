@@ -1,0 +1,2235 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Clubs de Pádel — Comunidad de Madrid</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    font-family: 'Segoe UI', system-ui, sans-serif;
+    background: #0a0d08;
+    color: #e2e8e0;
+    min-height: 100vh;
+  }
+
+  /* ── Header ── */
+  .header {
+    background: #0d120b;
+    border-bottom: 2px solid #a7fd7e30;
+    padding: 36px 48px 28px;
+  }
+  .header-inner { max-width: 1200px; margin: 0 auto; }
+  .eyebrow {
+    font-size: 11px; font-weight: 600; letter-spacing: .3em;
+    text-transform: uppercase; color: #a7fd7e; margin-bottom: 8px;
+  }
+  .header h1 {
+    font-size: clamp(1.8rem, 4vw, 3rem);
+    font-weight: 800; letter-spacing: -.02em; color: #fff;
+    line-height: 1.1;
+  }
+  .header-sub { margin-top: 8px; font-size: .9rem; color: #6b7a68; }
+  .lok-pill {
+    display: inline-flex; align-items: center; gap: 8px;
+    background: #a7fd7e12; border: 1px solid #a7fd7e30;
+    border-radius: 99px; padding: 4px 14px 4px 10px;
+    font-size: 11px; font-weight: 600; letter-spacing: .15em;
+    text-transform: uppercase; color: #a7fd7e; margin-top: 16px;
+  }
+  .lok-dot { width:7px; height:7px; border-radius:50%; background:#a7fd7e; }
+
+  /* ── Stats ── */
+  .stats-grid {
+    max-width: 1200px; margin: 32px auto 0;
+    display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px;
+    padding: 0 48px;
+  }
+  .stat-card {
+    background: #111a0f; border: 1px solid #a7fd7e18;
+    border-radius: 14px; padding: 22px 24px;
+  }
+  .stat-value {
+    font-size: 2.4rem; font-weight: 800; color: #a7fd7e;
+    line-height: 1;
+  }
+  .stat-label {
+    font-size: .75rem; font-weight: 600; letter-spacing: .12em;
+    text-transform: uppercase; color: #4a5e47; margin-top: 6px;
+  }
+
+  /* ── Layout ── */
+  .main {
+    max-width: 1200px; margin: 32px auto;
+    padding: 0 48px; display: grid;
+    grid-template-columns: 1fr 280px; gap: 24px; align-items: start;
+  }
+
+  /* ── Table ── */
+  .table-card {
+    background: #0f160d; border: 1px solid #a7fd7e14;
+    border-radius: 14px; overflow: hidden;
+  }
+  .table-header {
+    padding: 18px 20px; border-bottom: 1px solid #a7fd7e12;
+    display: flex; align-items: center; gap: 12px; flex-wrap: wrap;
+  }
+  .table-header h2 { font-size: .85rem; font-weight: 700; color: #fff; }
+  #contador { font-size: .72rem; color: #4a5e47; margin-left: 4px; }
+  .search-box {
+    margin-left: auto; background: #0a0d08; border: 1px solid #a7fd7e20;
+    border-radius: 8px; padding: 7px 14px; color: #e2e8e0;
+    font-size: .82rem; outline: none; width: 200px;
+  }
+  .search-box:focus { border-color: #a7fd7e60; }
+  .search-box::placeholder { color: #3a4a38; }
+  .table-scroll { overflow-x: auto; -webkit-overflow-scrolling: touch; }
+
+  table { width: 100%; border-collapse: collapse; font-size: .8rem; table-layout: fixed; }
+  thead th {
+    background: #0a0d08; padding: 10px 12px; text-align: left;
+    font-size: .68rem; font-weight: 700; letter-spacing: .12em;
+    text-transform: uppercase; color: #4a5e47;
+    border-bottom: 1px solid #a7fd7e12; white-space: nowrap;
+  }
+  tbody tr { border-bottom: 1px solid #a7fd7e08; transition: background .15s; }
+  tbody tr:hover { background: #a7fd7e07; }
+  td { padding: 9px 12px; vertical-align: middle; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  td a { color: #a7fd7e; text-decoration: none; font-size: .78rem; }
+  td a:hover { text-decoration: underline; }
+  .num  { color: #2d3d2b; font-size: .7rem; width: 36px; }
+  .name { color: #d4e8d0; font-weight: 600; width: 22%; }
+  .muni { color: #6b7a68; font-size: .75rem; width: 14%; }
+  .col-email { width: 26%; }
+  .col-tel   { width: 13%; }
+  .col-web   { width: 10%; }
+  .empty { color: #2d3d2b; }
+
+  /* Tags */
+  .tag { display:inline-block; padding: 2px 7px; border-radius: 4px;
+          font-size: .65rem; font-weight: 700; letter-spacing:.05em;
+          text-transform:uppercase; }
+  .tag-email { background:#a7fd7e18; color:#a7fd7e; }
+  .tag-tel   { background:#60a5fa18; color:#60a5fa; }
+  .tag-web   { background:#fb923c18; color:#fb923c; }
+  .tag-none  { background:#ffffff08; color:#4a5e47; }
+
+  /* ── Sidebar ── */
+  .sidebar { display: flex; flex-direction: column; gap: 16px; }
+  .side-card {
+    background: #0f160d; border: 1px solid #a7fd7e14;
+    border-radius: 14px; padding: 20px;
+  }
+  .side-card h3 {
+    font-size: .7rem; font-weight: 700; letter-spacing: .15em;
+    text-transform: uppercase; color: #4a5e47; margin-bottom: 14px;
+  }
+
+  /* Barras */
+  .bar-row { display: flex; align-items: center; gap: 8px; margin-bottom: 10px; }
+  .bar-label { font-size: .72rem; color: #9ab896; width: 120px; flex-shrink: 0; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .bar-track { flex: 1; background: #1a2418; border-radius: 99px; height: 6px; }
+  .bar-fill  { background: #a7fd7e; border-radius: 99px; height: 6px; transition: width .3s; }
+  .bar-count { font-size: .7rem; color: #4a5e47; width: 24px; text-align: right; flex-shrink: 0; }
+
+  /* Cobertura */
+  .coverage-item {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 8px 0; border-bottom: 1px solid #a7fd7e08; font-size: .78rem;
+  }
+  .coverage-item:last-child { border: none; }
+  .coverage-label { color: #9ab896; }
+  .coverage-pct {
+    font-weight: 700; color: #a7fd7e;
+    background: #a7fd7e14; border-radius: 6px; padding: 2px 8px;
+    font-size: .72rem;
+  }
+
+  /* Footer */
+  .footer {
+    max-width: 1200px; margin: 32px auto 48px;
+    padding: 0 48px; color: #2d3d2b; font-size: .72rem;
+    border-top: 1px solid #a7fd7e08; padding-top: 20px;
+  }
+
+  /* ── Responsive ── */
+  @media (max-width: 900px) {
+    .stats-grid { grid-template-columns: repeat(2,1fr); padding: 0 16px; margin-top: 20px; }
+    .main { grid-template-columns: 1fr; padding: 0 16px; margin-top: 20px; }
+    .header { padding: 24px 16px; }
+    .sidebar { display: contents; }
+    .side-card { display: none; }
+  }
+  @media (max-width: 600px) {
+    .stats-grid { grid-template-columns: repeat(2,1fr); gap: 10px; }
+    .stat-value { font-size: 1.8rem; }
+    .stat-card { padding: 16px; }
+    .header h1 { font-size: 1.6rem; }
+    .search-box { width: 100%; margin-left: 0; margin-top: 8px; }
+    .table-header { flex-direction: column; align-items: flex-start; }
+    .col-web { display: none; }
+    .footer { padding: 16px; margin: 16px auto; }
+  }
+</style>
+</head>
+<body>
+
+<div class="header">
+  <div class="header-inner">
+    <div class="eyebrow">Infinity Padel Tour BY LOK</div>
+    <h1>Clubs de Pádel<br>Comunidad de Madrid</h1>
+    <p class="header-sub">Directorio de contacto para captación de inscripciones</p>
+    <div class="lok-pill">
+      <span class="lok-dot"></span>
+      Generado para uso exclusivo del equipo IPT · 2026
+    </div>
+  </div>
+</div>
+
+<div class="stats-grid">
+  <div class="stat-card">
+    <div class="stat-value">235</div>
+    <div class="stat-label">Clubs identificados</div>
+  </div>
+  <div class="stat-card">
+    <div class="stat-value">187</div>
+    <div class="stat-label">Con email de contacto</div>
+  </div>
+  <div class="stat-card">
+    <div class="stat-value">141</div>
+    <div class="stat-label">Con teléfono</div>
+  </div>
+  <div class="stat-card">
+    <div class="stat-value">68</div>
+    <div class="stat-label">Municipios cubiertos</div>
+  </div>
+</div>
+
+<div class="main">
+
+  <div class="table-card">
+    <div class="table-header">
+      <h2>Listado completo de clubs <span id="contador"></span></h2>
+      <input class="search-box" type="text" id="searchInput" placeholder="Buscar club o municipio…" oninput="buscar(this.value)" onkeyup="buscar(this.value)" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false">
+    </div>
+    <div class="table-scroll">
+    <table id="clubTable">
+      <thead>
+        <tr>
+          <th>#</th>
+          <th>Club</th>
+          <th>Municipio</th>
+          <th>Email</th>
+          <th>Teléfono</th>
+          <th>Web</th>
+        </tr>
+      </thead>
+      <tbody id="tableBody">
+        
+    <tr>
+      <td class="num">1</td>
+      <td class="name">200x100 padel</td>
+      <td class="muni">Collado Villalba</td>
+      <td class="col-email"><a href="mailto:%20info@200x100padel.es">%20info@200x100padel.es</a></td>
+      <td class="col-tel"><a href="tel:918513697">918513697</a></td>
+      <td class="col-web"><a href="https://200x100padel.es" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">2</td>
+      <td class="name">AJ Trainning</td>
+      <td class="muni">Alcalá de Henares</td>
+      <td class="col-email"><a href="mailto:info@ajtrainning.com">info@ajtrainning.com</a></td>
+      <td class="col-tel"><a href="tel:686364208">686364208</a></td>
+      <td class="col-web"><span class="empty">—</span></td>
+    </tr>
+    <tr>
+      <td class="num">3</td>
+      <td class="name">Alpha Padel</td>
+      <td class="muni">Alcorcón</td>
+      <td class="col-email"><a href="mailto:alpha@alphapadel.com">alpha@alphapadel.com</a></td>
+      <td class="col-tel"><a href="tel:633285310">633285310</a></td>
+      <td class="col-web"><a href="http://www.alphapadel.com" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">4</td>
+      <td class="name">BallPadel Indoor</td>
+      <td class="muni">Alcalá de Henares</td>
+      <td class="col-email"><a href="mailto:info@ballpadel.com">info@ballpadel.com</a></td>
+      <td class="col-tel"><span class="empty">—</span></td>
+      <td class="col-web"><a href="http://www.ballpadel.com" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">5</td>
+      <td class="name">BeOne Boadilla</td>
+      <td class="muni">Boadilla del Monte</td>
+      <td class="col-email"><a href="mailto:boadilla@beone.es">boadilla@beone.es</a></td>
+      <td class="col-tel"><span class="empty">—</span></td>
+      <td class="col-web"><a href="https://beone.es" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">6</td>
+      <td class="name">Blue Exclusive Padel</td>
+      <td class="muni">Arroyomolinos</td>
+      <td class="col-email"><span class="empty">—</span></td>
+      <td class="col-tel"><a href="tel:651347526">651347526</a></td>
+      <td class="col-web"><span class="empty">—</span></td>
+    </tr>
+    <tr>
+      <td class="num">7</td>
+      <td class="name">Blue Padel Rivas</td>
+      <td class="muni">Rivas-Vaciamadrid</td>
+      <td class="col-email"><a href="mailto:recepcion@bluepadelrivas.es">recepcion@bluepadelrivas.es</a></td>
+      <td class="col-tel"><span class="empty">—</span></td>
+      <td class="col-web"><a href="http://bluepadelrivas.es" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">8</td>
+      <td class="name">Body Padel Carlos Castro</td>
+      <td class="muni">Móstoles</td>
+      <td class="col-email"><a href="mailto:bodypadelcarloscastro@gmail.com">bodypadelcarloscastro@gmail.com</a></td>
+      <td class="col-tel"><a href="tel:674482834">674482834</a></td>
+      <td class="col-web"><span class="empty">—</span></td>
+    </tr>
+    <tr>
+      <td class="num">9</td>
+      <td class="name">BPXport Los Prunos</td>
+      <td class="muni">Madrid</td>
+      <td class="col-email"><a href="mailto:losprunos@bpxport.es">losprunos@bpxport.es</a></td>
+      <td class="col-tel"><a href="tel:917432001">917432001</a></td>
+      <td class="col-web"><a href="https://www.bpxport.es/centros/prunos/" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">10</td>
+      <td class="name">C.D. Padel Lord</td>
+      <td class="muni">Madrid</td>
+      <td class="col-email"><span class="empty">—</span></td>
+      <td class="col-tel"><a href="tel:669539772">669539772</a></td>
+      <td class="col-web"><a href="https://escueladepadelord.com" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">11</td>
+      <td class="name">Campus 23</td>
+      <td class="muni">San Sebastián de los Reyes</td>
+      <td class="col-email"><a href="mailto:clubcampus23@gmail.com">clubcampus23@gmail.com</a></td>
+      <td class="col-tel"><a href="tel:655709048">655709048</a></td>
+      <td class="col-web"><a href="https://campus23.es" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">12</td>
+      <td class="name">Campus Universidad Alcalá de Henares</td>
+      <td class="muni">Alcalá de Henares</td>
+      <td class="col-email"><a href="mailto:servicio.deportes@uah.es">servicio.deportes@uah.es</a></td>
+      <td class="col-tel"><span class="empty">—</span></td>
+      <td class="col-web"><span class="empty">—</span></td>
+    </tr>
+    <tr>
+      <td class="num">13</td>
+      <td class="name">Centro de Padel Las Matillas</td>
+      <td class="muni">Arroyomolinos</td>
+      <td class="col-email"><a href="mailto:direccion.matillas@emugesa.com">direccion.matillas@emugesa.com</a></td>
+      <td class="col-tel"><a href="tel:916687962">916687962</a></td>
+      <td class="col-web"><a href="http://lasmatillas.com" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">14</td>
+      <td class="name">Centro de Pádel GSD Alcalá</td>
+      <td class="muni">Alcalá de Henares</td>
+      <td class="col-email"><a href="mailto:gsdpadel@gmail.com">gsdpadel@gmail.com</a></td>
+      <td class="col-tel"><span class="empty">—</span></td>
+      <td class="col-web"><a href="http://padel.clubdeportivogsd.com" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">15</td>
+      <td class="name">Centro Deportivo El Alamo</td>
+      <td class="muni">El Álamo</td>
+      <td class="col-email"><a href="mailto:info@centrodeportivoelalamo.es">info@centrodeportivoelalamo.es</a></td>
+      <td class="col-tel"><a href="tel:670201033">670201033</a></td>
+      <td class="col-web"><a href="http://centrodeportivoelalamo.es" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">16</td>
+      <td class="name">Centro Deportivo Municipal Faustina Valladolid</td>
+      <td class="muni">Madrid</td>
+      <td class="col-email"><a href="mailto:idmvaldebernardo@madrid.es">idmvaldebernardo@madrid.es</a></td>
+      <td class="col-tel"><a href="tel:917723591">917723591</a></td>
+      <td class="col-web"><span class="empty">—</span></td>
+    </tr>
+    <tr>
+      <td class="num">17</td>
+      <td class="name">Centro Deportivo Municipal Huerta Vieja</td>
+      <td class="muni">Majadahonda</td>
+      <td class="col-email"><a href="mailto:info@cetmajadahonda.com">info@cetmajadahonda.com</a></td>
+      <td class="col-tel"><span class="empty">—</span></td>
+      <td class="col-web"><a href="http://www.cetmajadahonda.com" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">18</td>
+      <td class="name">Centro Deportivo Puente de Praga</td>
+      <td class="muni">Madrid</td>
+      <td class="col-email"><span class="empty">—</span></td>
+      <td class="col-tel"><a href="tel:965660273">965660273</a></td>
+      <td class="col-web"><a href="http://padeltenispuentepraga.blogspot.com" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">19</td>
+      <td class="name">Centro Deportivo San Gabriel</td>
+      <td class="muni">Alcalá de Henares</td>
+      <td class="col-email"><a href="mailto:info@centrodeportivosangabriel.es">info@centrodeportivosangabriel.es</a></td>
+      <td class="col-tel"><span class="empty">—</span></td>
+      <td class="col-web"><a href="https://centrodeportivosangabriel.es" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">20</td>
+      <td class="name">Centro Deportivo San Isidro</td>
+      <td class="muni">Villanueva de la Cañada</td>
+      <td class="col-email"><span class="empty">—</span></td>
+      <td class="col-tel"><span class="empty">—</span></td>
+      <td class="col-web"><span class="empty">—</span></td>
+    </tr>
+    <tr>
+      <td class="num">21</td>
+      <td class="name">Centro Deportivo SMP</td>
+      <td class="muni">Madrid</td>
+      <td class="col-email"><a href="mailto:info@centrodeportivosmp.es">info@centrodeportivosmp.es</a></td>
+      <td class="col-tel"><span class="empty">—</span></td>
+      <td class="col-web"><a href="https://www.centrodeportivosmp.es" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">22</td>
+      <td class="name">Centro Deportivo UFV</td>
+      <td class="muni">Pozuelo de Alarcón</td>
+      <td class="col-email"><a href="mailto:info@centrodeportivoufv.com">info@centrodeportivoufv.com</a></td>
+      <td class="col-tel"><span class="empty">—</span></td>
+      <td class="col-web"><a href="https://centrodeportivoufv.com/" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">23</td>
+      <td class="name">Centro Deportivo Valdemoro Padel</td>
+      <td class="muni">Valdemoro</td>
+      <td class="col-email"><a href="mailto:info@valpadel.com">info@valpadel.com</a></td>
+      <td class="col-tel"><span class="empty">—</span></td>
+      <td class="col-web"><span class="empty">—</span></td>
+    </tr>
+    <tr>
+      <td class="num">24</td>
+      <td class="name">Centro Deportivo Villalkor</td>
+      <td class="muni">Alcorcón</td>
+      <td class="col-email"><a href="mailto:polideportivo@villalkor.com">polideportivo@villalkor.com</a></td>
+      <td class="col-tel"><span class="empty">—</span></td>
+      <td class="col-web"><a href="https://centrodeportivovillalkor.com/" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">25</td>
+      <td class="name">Centro Supera La Fuensanta</td>
+      <td class="muni">Móstoles</td>
+      <td class="col-email"><a href="mailto:fuensanta@centrosupera.com">fuensanta@centrosupera.com</a></td>
+      <td class="col-tel"><span class="empty">—</span></td>
+      <td class="col-web"><a href="https://www.centrosupera.com/lafuensanta/" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">26</td>
+      <td class="name">Centro Supera Móstoles</td>
+      <td class="muni">Móstoles</td>
+      <td class="col-email"><a href="mailto:mostoles@centrosupera.com">mostoles@centrosupera.com</a></td>
+      <td class="col-tel"><span class="empty">—</span></td>
+      <td class="col-web"><a href="https://www.centrosupera.com/mostoles/" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">27</td>
+      <td class="name">Centro Supera Parla Este</td>
+      <td class="muni">Parla</td>
+      <td class="col-email"><a href="mailto:parlaeste@centrosupera.com">parlaeste@centrosupera.com</a></td>
+      <td class="col-tel"><span class="empty">—</span></td>
+      <td class="col-web"><a href="https://www.centrosupera.com/parlaeste/" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">28</td>
+      <td class="name">Ciudad de la Raqueta</td>
+      <td class="muni">Madrid</td>
+      <td class="col-email"><a href="mailto:ciudadraqueta@ciudadraqueta.com">ciudadraqueta@ciudadraqueta.com</a></td>
+      <td class="col-tel"><a href="tel:786609356">786609356</a></td>
+      <td class="col-web"><a href="http://www.ciudadraqueta.com" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">29</td>
+      <td class="name">Ciudad Deportiva Jarama</td>
+      <td class="muni">Algete</td>
+      <td class="col-email"><a href="mailto:contacto@cdjarama.es">contacto@cdjarama.es</a></td>
+      <td class="col-tel"><a href="tel:916637663">916637663</a></td>
+      <td class="col-web"><a href="https://www.cdjarama.es" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">30</td>
+      <td class="name">Ciudad Deportiva Juan Antonio Samaranch</td>
+      <td class="muni">Colmenar Viejo</td>
+      <td class="col-email"><span class="empty">—</span></td>
+      <td class="col-tel"><a href="tel:747558028">747558028</a></td>
+      <td class="col-web"><span class="empty">—</span></td>
+    </tr>
+    <tr>
+      <td class="num">31</td>
+      <td class="name">Ciudad Deportiva Municipal El Val</td>
+      <td class="muni">Alcalá de Henares</td>
+      <td class="col-email"><a href="mailto:secretaria@oacdmalcala.org">secretaria@oacdmalcala.org</a></td>
+      <td class="col-tel"><a href="tel:918771780">918771780</a></td>
+      <td class="col-web"><a href="http://www.oacdmalcala.org/" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">32</td>
+      <td class="name">Ciudad Deportiva Valdelasfuentes</td>
+      <td class="muni">Alcobendas</td>
+      <td class="col-email"><span class="empty">—</span></td>
+      <td class="col-tel"><a href="tel:916587110">916587110</a></td>
+      <td class="col-web"><span class="empty">—</span></td>
+    </tr>
+    <tr>
+      <td class="num">33</td>
+      <td class="name">CLIPadel</td>
+      <td class="muni">Club Leganés Indoor Padel - Leganés</td>
+      <td class="col-email"><a href="mailto:recepcion@clipadel.com">recepcion@clipadel.com</a></td>
+      <td class="col-tel"><span class="empty">—</span></td>
+      <td class="col-web"><span class="empty">—</span></td>
+    </tr>
+    <tr>
+      <td class="num">34</td>
+      <td class="name">Club de Campo Villa de Madrid</td>
+      <td class="muni">Madrid</td>
+      <td class="col-email"><a href="mailto:deportes@ccvm.es">deportes@ccvm.es</a></td>
+      <td class="col-tel"><a href="tel:915502010">915502010</a></td>
+      <td class="col-web"><a href="https://www.ccvm.es" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">35</td>
+      <td class="name">Club de Golf la Dehesa</td>
+      <td class="muni">Villanueva de la Cañada</td>
+      <td class="col-email"><a href="mailto:secretaria@golfladehesa.es">secretaria@golfladehesa.es</a></td>
+      <td class="col-tel"><a href="tel:714492388">714492388</a></td>
+      <td class="col-web"><a href="https://www.golfladehesa.es" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">36</td>
+      <td class="name">Club de Golf Retamares</td>
+      <td class="muni">Valdeolmos-Alalpardo</td>
+      <td class="col-email"><a href="mailto:deportivo@retamaresgolf.com">deportivo@retamaresgolf.com</a></td>
+      <td class="col-tel"><a href="tel:916202540">916202540</a></td>
+      <td class="col-web"><a href="https://www.golfretamares.com" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">37</td>
+      <td class="name">Club de Padel Fuenlabrada</td>
+      <td class="muni">Fuenlabrada</td>
+      <td class="col-email"><a href="mailto:clubpadelfuenla@gmail.com">clubpadelfuenla@gmail.com</a></td>
+      <td class="col-tel"><a href="tel:916156839">916156839</a></td>
+      <td class="col-web"><a href="https://clubpadelfuenlabrada.es" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">38</td>
+      <td class="name">Club de Padel La Moraleja</td>
+      <td class="muni">Alcobendas</td>
+      <td class="col-email"><a href="mailto:informacion@clubpadelmoraleja.es">informacion@clubpadelmoraleja.es</a></td>
+      <td class="col-tel"><span class="empty">—</span></td>
+      <td class="col-web"><a href="https://www.clubpadelmoraleja.es" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">39</td>
+      <td class="name">Club de Pádel Almanzor</td>
+      <td class="muni">Arganda del Rey</td>
+      <td class="col-email"><a href="mailto:padelalmanzor@gmail.com">padelalmanzor@gmail.com</a></td>
+      <td class="col-tel"><a href="tel:918706804">918706804</a></td>
+      <td class="col-web"><a href="http://www.clubpadelalmanzor.com/" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">40</td>
+      <td class="name">Club de Pádel Cristalia</td>
+      <td class="muni">Madrid</td>
+      <td class="col-email"><a href="mailto:info@padelcristalia.com">info@padelcristalia.com</a></td>
+      <td class="col-tel"><a href="tel:911731932">911731932</a></td>
+      <td class="col-web"><a href="http://www.padelcristalia.com" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">41</td>
+      <td class="name">Club de Pádel La Unión</td>
+      <td class="muni">Madrid</td>
+      <td class="col-email"><a href="mailto:launionclubpadel@gmail.com">launionclubpadel@gmail.com</a></td>
+      <td class="col-tel"><span class="empty">—</span></td>
+      <td class="col-web"><a href="https://www.udmelidaolimpia.com" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">42</td>
+      <td class="name">Club de pádel Occidental Aranjuez</td>
+      <td class="muni">Aranjuez</td>
+      <td class="col-email"><a href="mailto:padeloccidental@opsgestion.com">padeloccidental@opsgestion.com</a></td>
+      <td class="col-tel"><a href="tel:693366109">693366109</a></td>
+      <td class="col-web"><span class="empty">—</span></td>
+    </tr>
+    <tr>
+      <td class="num">43</td>
+      <td class="name">Club de Pádel y Tenis Fuencarral</td>
+      <td class="muni">Madrid</td>
+      <td class="col-email"><a href="mailto:info@cpt-fuencarral.com">info@cpt-fuencarral.com</a></td>
+      <td class="col-tel"><span class="empty">—</span></td>
+      <td class="col-web"><a href="https://www.cpt-fuencarral.com" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">44</td>
+      <td class="name">Club de pádel y tenis San Martín de la Vega</td>
+      <td class="muni">San Martín de la Vega</td>
+      <td class="col-email"><a href="mailto:padelytenissmv@gmail.com">padelytenissmv@gmail.com</a></td>
+      <td class="col-tel"><a href="tel:626316446">626316446</a></td>
+      <td class="col-web"><span class="empty">—</span></td>
+    </tr>
+    <tr>
+      <td class="num">45</td>
+      <td class="name">Club de pádel y tenis Villa del Prado</td>
+      <td class="muni">Villa del Prado</td>
+      <td class="col-email"><span class="empty">—</span></td>
+      <td class="col-tel"><a href="tel:611581449">611581449</a></td>
+      <td class="col-web"><a href="https://www.villadelprado.es" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">46</td>
+      <td class="name">Club de Pádel Zola OPSGestión</td>
+      <td class="muni">Villanueva de la Cañada</td>
+      <td class="col-email"><a href="mailto:padel@livezolavf.es">padel@livezolavf.es</a></td>
+      <td class="col-tel"><a href="tel:722457368">722457368</a></td>
+      <td class="col-web"><span class="empty">—</span></td>
+    </tr>
+    <tr>
+      <td class="num">47</td>
+      <td class="name">Club De Tenis Alameda</td>
+      <td class="muni">Madrid</td>
+      <td class="col-email"><a href="mailto:info@clubalameda.com">info@clubalameda.com</a></td>
+      <td class="col-tel"><a href="tel:917410694">917410694</a></td>
+      <td class="col-web"><a href="http://www.clubalameda.com" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">48</td>
+      <td class="name">Club de Tenis Guadarrama</td>
+      <td class="muni">Guadarrama</td>
+      <td class="col-email"><a href="mailto:tenis_guadarrama@hotmail.com">tenis_guadarrama@hotmail.com</a></td>
+      <td class="col-tel"><span class="empty">—</span></td>
+      <td class="col-web"><a href="https://www.clubtenisguadarrama.es" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">49</td>
+      <td class="name">Club de Tenis La Moraleja</td>
+      <td class="muni">Alcobendas</td>
+      <td class="col-email"><a href="mailto:tenismoraleja@tenismoraleja.es">tenismoraleja@tenismoraleja.es</a></td>
+      <td class="col-tel"><a href="tel:916507161">916507161</a></td>
+      <td class="col-web"><a href="https://ctlamoraleja.es" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">50</td>
+      <td class="name">Club de Tenis Las Rozas</td>
+      <td class="muni">Las Rozas de Madrid</td>
+      <td class="col-email"><a href="mailto:info@clubtenisrozas.es">info@clubtenisrozas.es</a></td>
+      <td class="col-tel"><a href="tel:767337249">767337249</a></td>
+      <td class="col-web"><a href="https://www.clubtenisrozas.es" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">51</td>
+      <td class="name">Club de Tenis y padel Coslada</td>
+      <td class="muni">Coslada</td>
+      <td class="col-email"><a href="mailto:tenispadelcoslada@gmail.com">tenispadelcoslada@gmail.com</a></td>
+      <td class="col-tel"><a href="tel:916714910">916714910</a></td>
+      <td class="col-web"><a href="http://www.ctpcoslada.com" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">52</td>
+      <td class="name">Club De Tenis Y Padel Fuente El Saz</td>
+      <td class="muni">Fuente el Saz de Jarama</td>
+      <td class="col-email"><a href="mailto:bmatas@hotmail.com">bmatas@hotmail.com</a></td>
+      <td class="col-tel"><span class="empty">—</span></td>
+      <td class="col-web"><span class="empty">—</span></td>
+    </tr>
+    <tr>
+      <td class="num">53</td>
+      <td class="name">Club De Tenis Y Padel Villa De Leganés</td>
+      <td class="muni">Leganés</td>
+      <td class="col-email"><a href="mailto:info@padeltenisleganes.com">info@padeltenisleganes.com</a></td>
+      <td class="col-tel"><a href="tel:693643324">693643324</a></td>
+      <td class="col-web"><a href="https://www.padeltenisleganes.com" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">54</td>
+      <td class="name">Club Deportivo Brezo Osuna</td>
+      <td class="muni">Madrid</td>
+      <td class="col-email"><a href="mailto:info@club-brezo-osuna.com">info@club-brezo-osuna.com</a></td>
+      <td class="col-tel"><span class="empty">—</span></td>
+      <td class="col-web"><a href="http://club-brezo-osuna.com" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">55</td>
+      <td class="name">Club Deportivo Willy La Garena</td>
+      <td class="muni">Alcalá de Henares</td>
+      <td class="col-email"><a href="mailto:contacto@clubdeportivowillygarena.com">contacto@clubdeportivowillygarena.com</a></td>
+      <td class="col-tel"><span class="empty">—</span></td>
+      <td class="col-web"><a href="https://clubdeportivowillygarena.com/" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">56</td>
+      <td class="name">Club El Estudiante</td>
+      <td class="muni">Alcobendas</td>
+      <td class="col-email"><a href="mailto:info@clubelestudiante.com">info@clubelestudiante.com</a></td>
+      <td class="col-tel"><a href="tel:677212074">677212074</a></td>
+      <td class="col-web"><a href="https://www.clubelestudiante.com" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">57</td>
+      <td class="name">Club Indoor Padel Training</td>
+      <td class="muni">Rivas-Vaciamadrid</td>
+      <td class="col-email"><a href="mailto:info@padeltraining.com">info@padeltraining.com</a></td>
+      <td class="col-tel"><a href="tel:652797863">652797863</a></td>
+      <td class="col-web"><a href="https://www.padeltraining.com" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">58</td>
+      <td class="name">Club Internacional de Tenis de Majadahonda</td>
+      <td class="muni">Majadahonda</td>
+      <td class="col-email"><a href="mailto:info@clubinternacional.es">info@clubinternacional.es</a></td>
+      <td class="col-tel"><span class="empty">—</span></td>
+      <td class="col-web"><a href="http://www.clubinternacional.es" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">59</td>
+      <td class="name">Club Las Encinas de Boadilla</td>
+      <td class="muni">Boadilla del Monte</td>
+      <td class="col-email"><a href="mailto:clublasencinas@clublasencinas.com">clublasencinas@clublasencinas.com</a></td>
+      <td class="col-tel"><span class="empty">—</span></td>
+      <td class="col-web"><a href="https://www.clublasencinas.es" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">60</td>
+      <td class="name">Club MasPadel</td>
+      <td class="muni">Las Rozas de Madrid</td>
+      <td class="col-email"><a href="mailto:informacion@maspadel.com">informacion@maspadel.com</a></td>
+      <td class="col-tel"><a href="tel:939518241">939518241</a></td>
+      <td class="col-web"><a href="http://maspadel.com" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">61</td>
+      <td class="name">Club Mirasierra</td>
+      <td class="muni">Madrid</td>
+      <td class="col-email"><a href="mailto:informacion@clubmirasierra.com">informacion@clubmirasierra.com</a></td>
+      <td class="col-tel"><span class="empty">—</span></td>
+      <td class="col-web"><a href="http://www.clubmirasierra.com" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">62</td>
+      <td class="name">Club Nueva Cartuja</td>
+      <td class="muni">Valdetorres de Jarama</td>
+      <td class="col-email"><a href="mailto:info@clubnuevacartuja.com">info@clubnuevacartuja.com</a></td>
+      <td class="col-tel"><a href="tel:659887031">659887031</a></td>
+      <td class="col-web"><a href="https://www.clubnuevacartuja.com" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">63</td>
+      <td class="name">Club Ocapa Polideportivo Duque De Algete</td>
+      <td class="muni">Algete</td>
+      <td class="col-email"><a href="mailto:algeteocapa@gmail.com">algeteocapa@gmail.com</a></td>
+      <td class="col-tel"><a href="tel:674694456">674694456</a></td>
+      <td class="col-web"><a href="http://www.clubocapa.com" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">64</td>
+      <td class="name">Club Padel 3 Olivos</td>
+      <td class="muni">Madrid</td>
+      <td class="col-email"><a href="mailto:club3olivos@hotmail.com">club3olivos@hotmail.com</a></td>
+      <td class="col-tel"><a href="tel:647020724">647020724</a></td>
+      <td class="col-web"><a href="http://www.padel3olivos.com" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">65</td>
+      <td class="name">Club Padel Chick</td>
+      <td class="muni">Becerril de la Sierra</td>
+      <td class="col-email"><span class="empty">—</span></td>
+      <td class="col-tel"><a href="tel:608227175">608227175</a></td>
+      <td class="col-web"><span class="empty">—</span></td>
+    </tr>
+    <tr>
+      <td class="num">66</td>
+      <td class="name">Club Padel Holos</td>
+      <td class="muni">Madrid</td>
+      <td class="col-email"><a href="mailto:padelholos@gmail.com">padelholos@gmail.com</a></td>
+      <td class="col-tel"><a href="tel:618582200">618582200</a></td>
+      <td class="col-web"><a href="http://padelholos.syltek3.com" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">67</td>
+      <td class="name">Club Padel Mirasur</td>
+      <td class="muni">Pinto</td>
+      <td class="col-email"><a href="mailto:clubdepadel@colegiomirasur.com">clubdepadel@colegiomirasur.com</a></td>
+      <td class="col-tel"><span class="empty">—</span></td>
+      <td class="col-web"><a href="https://colegiomirasur.com/club-de-padel/" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">68</td>
+      <td class="name">Club Padel Soto Torrejon</td>
+      <td class="muni">Torrejón de Ardoz</td>
+      <td class="col-email"><a href="mailto:info@padelsototorrejon.es">info@padelsototorrejon.es</a></td>
+      <td class="col-tel"><a href="tel:914885134">914885134</a></td>
+      <td class="col-web"><a href="http://padelsototorrejon.com" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">69</td>
+      <td class="name">Club Six Padel Indoor</td>
+      <td class="muni">Aranjuez</td>
+      <td class="col-email"><a href="mailto:sixpadel2.0@gmail.com">sixpadel2.0@gmail.com</a></td>
+      <td class="col-tel"><a href="tel:918927482">918927482</a></td>
+      <td class="col-web"><a href="https://www.clubsixpadel.es" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">70</td>
+      <td class="name">Club Social Deportivo Parque Lisboa</td>
+      <td class="muni">Alcorcón</td>
+      <td class="col-email"><a href="mailto:info@parquelisboa.com">info@parquelisboa.com</a></td>
+      <td class="col-tel"><a href="tel:910889460">910889460</a></td>
+      <td class="col-web"><a href="http://www.parquelisboa.com" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">71</td>
+      <td class="name">Club Social Santo Domingo</td>
+      <td class="muni">Algete</td>
+      <td class="col-email"><a href="mailto:recepcion@clubsocialsantodomingo.es">recepcion@clubsocialsantodomingo.es</a></td>
+      <td class="col-tel"><a href="tel:608324130">608324130</a></td>
+      <td class="col-web"><a href="http://www.clubsocialsantodomingo.es" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">72</td>
+      <td class="name">Club Suanzes Deporte y Ocio</td>
+      <td class="muni">Madrid</td>
+      <td class="col-email"><a href="mailto:info@suanzes.club">info@suanzes.club</a></td>
+      <td class="col-tel"><span class="empty">—</span></td>
+      <td class="col-web"><a href="http://www.suanzes.club" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">73</td>
+      <td class="name">Club Tenis Chamartin</td>
+      <td class="muni">Madrid</td>
+      <td class="col-email"><a href="mailto:info@ctchamartin.es">info@ctchamartin.es</a></td>
+      <td class="col-tel"><span class="empty">—</span></td>
+      <td class="col-web"><a href="https://www.ctchamartin.es" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">74</td>
+      <td class="name">Clubpadelsur Torrejon de la Calzada</td>
+      <td class="muni">Torrejón de la Calzada</td>
+      <td class="col-email"><a href="mailto:info@clubpadelsur.es">info@clubpadelsur.es</a></td>
+      <td class="col-tel"><a href="tel:649291875">649291875</a></td>
+      <td class="col-web"><a href="http://www.clubpadelsur.es" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">75</td>
+      <td class="name">Coimbra Padel</td>
+      <td class="muni">Móstoles</td>
+      <td class="col-email"><a href="mailto:coimbrapadel@gmail.com">coimbrapadel@gmail.com</a></td>
+      <td class="col-tel"><span class="empty">—</span></td>
+      <td class="col-web"><a href="https://www.coimbrapadelmostoles.com" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">76</td>
+      <td class="name">Complejo Deportivo Los Ángeles</td>
+      <td class="muni">Getafe</td>
+      <td class="col-email"><span class="empty">—</span></td>
+      <td class="col-tel"><span class="empty">—</span></td>
+      <td class="col-web"><a href="https://complejodeportivolosangeles.com/" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">77</td>
+      <td class="name">CR5 Padel Fuente del Saz</td>
+      <td class="muni">Fuente el Saz de Jarama</td>
+      <td class="col-email"><a href="mailto:recepcion@cr5padelfuente.com">recepcion@cr5padelfuente.com</a></td>
+      <td class="col-tel"><a href="tel:608496736">608496736</a></td>
+      <td class="col-web"><a href="http://cr5padelfuenteelsaz.syltek3.com" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">78</td>
+      <td class="name">CTP Arganda del Rey</td>
+      <td class="muni">Arganda del Rey</td>
+      <td class="col-email"><a href="mailto:info@clubtenisypadelargandadelrey.com">info@clubtenisypadelargandadelrey.com</a></td>
+      <td class="col-tel"><a href="tel:691306111">691306111</a></td>
+      <td class="col-web"><a href="https://www.clubtenisypadelargandadelrey.com" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">79</td>
+      <td class="name">Cuarto Set</td>
+      <td class="muni">Padel Indoor - Colmenar Viejo</td>
+      <td class="col-email"><a href="mailto:info@elcuartoset.com">info@elcuartoset.com</a></td>
+      <td class="col-tel"><span class="empty">—</span></td>
+      <td class="col-web"><a href="http://www.elcuartoset.com" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">80</td>
+      <td class="name">Cubas Sport Club</td>
+      <td class="muni">Cubas de la Sagra</td>
+      <td class="col-email"><a href="mailto:info@cubassportclub.com">info@cubassportclub.com</a></td>
+      <td class="col-tel"><a href="tel:736313126">736313126</a></td>
+      <td class="col-web"><span class="empty">—</span></td>
+    </tr>
+    <tr>
+      <td class="num">81</td>
+      <td class="name">David Lloyd Aravaca</td>
+      <td class="muni">Madrid</td>
+      <td class="col-email"><a href="mailto:aravaca@davidlloyd.es">aravaca@davidlloyd.es</a></td>
+      <td class="col-tel"><span class="empty">—</span></td>
+      <td class="col-web"><a href="https://www.davidlloyd.es/clubs/aravaca" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">82</td>
+      <td class="name">David Lloyd La Finca</td>
+      <td class="muni">Pozuelo de Alarcón</td>
+      <td class="col-email"><span class="empty">—</span></td>
+      <td class="col-tel"><span class="empty">—</span></td>
+      <td class="col-web"><span class="empty">—</span></td>
+    </tr>
+    <tr>
+      <td class="num">83</td>
+      <td class="name">Dos Deporte Fuenlabrada</td>
+      <td class="muni">Fuenlabrada</td>
+      <td class="col-email"><a href="mailto:atencionalcliente.naranjo@dosdeporte.es">atencionalcliente.naranjo@dosdeporte.es</a></td>
+      <td class="col-tel"><span class="empty">—</span></td>
+      <td class="col-web"><a href="https://www.dosdeporte.es" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">84</td>
+      <td class="name">Dreamfit Alcorcón</td>
+      <td class="muni">Alcorcón</td>
+      <td class="col-email"><a href="mailto:padel@dreamfit.es">padel@dreamfit.es</a></td>
+      <td class="col-tel"><span class="empty">—</span></td>
+      <td class="col-web"><a href="http://www.dreamfit.es/centros/alcorcon" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">85</td>
+      <td class="name">Duet Sports Francisco Fernández Ochoa</td>
+      <td class="muni">Madrid</td>
+      <td class="col-email"><a href="mailto:ffernandez.ochoa@duetsports.com">ffernandez.ochoa@duetsports.com</a></td>
+      <td class="col-tel"><span class="empty">—</span></td>
+      <td class="col-web"><a href="https://cityofmadridfilmoffice.com/localizacion/centro-deportivo-municipal-francisco-fernandez-ochoa/" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">86</td>
+      <td class="name">Duin Sports Las Rozas</td>
+      <td class="muni">Las Rozas de Madrid</td>
+      <td class="col-email"><a href="mailto:recepcion@lasrozas.duetsports.com">recepcion@lasrozas.duetsports.com</a></td>
+      <td class="col-tel"><span class="empty">—</span></td>
+      <td class="col-web"><a href="https://www.duinclub.com" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">87</td>
+      <td class="name">Enjoy &amp; Padel Villalbilla</td>
+      <td class="muni">Villalbilla</td>
+      <td class="col-email"><a href="mailto:info@enjoyandpadel.com">info@enjoyandpadel.com</a></td>
+      <td class="col-tel"><a href="tel:653653919">653653919</a></td>
+      <td class="col-web"><a href="https://enjoyandpadel.com/" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">88</td>
+      <td class="name">Escuela de Pádel El Valle</td>
+      <td class="muni">Madrid</td>
+      <td class="col-email"><a href="mailto:info@padelelvalle.com">info@padelelvalle.com</a></td>
+      <td class="col-tel"><a href="tel:961785229">961785229</a></td>
+      <td class="col-web"><a href="http://www.padelelvalle.com" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">89</td>
+      <td class="name">Espacio Raqueta Alcalá</td>
+      <td class="muni">Alcalá de Henares</td>
+      <td class="col-email"><a href="mailto:administracion@espacioraqueta.es">administracion@espacioraqueta.es</a></td>
+      <td class="col-tel"><a href="tel:648692002">648692002</a></td>
+      <td class="col-web"><a href="http://www.espacioraqueta.es" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">90</td>
+      <td class="name">EUROINDOOR Alcorcón</td>
+      <td class="muni">Alcorcón</td>
+      <td class="col-email"><a href="mailto:euroindoorpadel@hotmail.com">euroindoorpadel@hotmail.com</a></td>
+      <td class="col-tel"><a href="tel:910256344">910256344</a></td>
+      <td class="col-web"><a href="https://www.euroindoorpadel.com" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">91</td>
+      <td class="name">Euroindoor Moraleja</td>
+      <td class="muni">Humanes de Madrid</td>
+      <td class="col-email"><a href="mailto:info@euroindoorpadel.com">info@euroindoorpadel.com</a></td>
+      <td class="col-tel"><span class="empty">—</span></td>
+      <td class="col-web"><a href="https://euroindoorpadel.es/euroindoor-moraleja/" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">92</td>
+      <td class="name">Fitness Sport Valle de las Cañas</td>
+      <td class="muni">Pozuelo de Alarcón</td>
+      <td class="col-email"><a href="mailto:clubdeportivo@fitnessports.es">clubdeportivo@fitnessports.es</a></td>
+      <td class="col-tel"><span class="empty">—</span></td>
+      <td class="col-web"><a href="http://fitnessports.eu" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">93</td>
+      <td class="name">Fitup Padel Hub</td>
+      <td class="muni">Brunete</td>
+      <td class="col-email"><span class="empty">—</span></td>
+      <td class="col-tel"><a href="tel:758977379">758977379</a></td>
+      <td class="col-web"><a href="https://fituppadelhub.es" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">94</td>
+      <td class="name">FITUP PADEL HUB PARQUE COIMBRA MOSTOLES</td>
+      <td class="muni">Móstoles</td>
+      <td class="col-email"><a href="mailto:fcarlos_de@hotmail.com">fcarlos_de@hotmail.com</a></td>
+      <td class="col-tel"><a href="tel:676697541">676697541</a></td>
+      <td class="col-web"><span class="empty">—</span></td>
+    </tr>
+    <tr>
+      <td class="num">95</td>
+      <td class="name">Forus Caja Mágica</td>
+      <td class="muni">Madrid</td>
+      <td class="col-email"><a href="mailto:infocajamagica@forus.es">infocajamagica@forus.es</a></td>
+      <td class="col-tel"><span class="empty">—</span></td>
+      <td class="col-web"><a href="https://forus.es/caja-magica" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">96</td>
+      <td class="name">Forus Fuenlabrada</td>
+      <td class="muni">Fuenlabrada</td>
+      <td class="col-email"><a href="mailto:infofuenlabrada@forus.es">infofuenlabrada@forus.es</a></td>
+      <td class="col-tel"><span class="empty">—</span></td>
+      <td class="col-web"><a href="https://forus.es/fuenlabrada" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">97</td>
+      <td class="name">Forus La Rejas Majadahonda</td>
+      <td class="muni">Majadahonda</td>
+      <td class="col-email"><a href="mailto:lasrejasopenclub@gmail.com">lasrejasopenclub@gmail.com</a></td>
+      <td class="col-tel"><span class="empty">—</span></td>
+      <td class="col-web"><a href="https://forus.es/majadahonda-2/es" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">98</td>
+      <td class="name">Forus Móstoles</td>
+      <td class="muni">Móstoles</td>
+      <td class="col-email"><a href="mailto:infomostoles@forus.es">infomostoles@forus.es</a></td>
+      <td class="col-tel"><a href="tel:917375094">917375094</a></td>
+      <td class="col-web"><a href="https://forus.es/mostoles" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">99</td>
+      <td class="name">Forus Parla</td>
+      <td class="muni">Parla</td>
+      <td class="col-email"><a href="mailto:infoparla@forus.es">infoparla@forus.es</a></td>
+      <td class="col-tel"><span class="empty">—</span></td>
+      <td class="col-web"><a href="https://forus.es/parla" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">100</td>
+      <td class="name">Funky Padel</td>
+      <td class="muni">Arganda del Rey</td>
+      <td class="col-email"><a href="mailto:central@funkypadel.es">central@funkypadel.es</a></td>
+      <td class="col-tel"><span class="empty">—</span></td>
+      <td class="col-web"><span class="empty">—</span></td>
+    </tr>
+    <tr>
+      <td class="num">101</td>
+      <td class="name">G2 Padel Indoor</td>
+      <td class="muni">Daganzo de Arriba</td>
+      <td class="col-email"><a href="mailto:info@g2padelindoor.es">info@g2padelindoor.es</a></td>
+      <td class="col-tel"><a href="tel:674611108">674611108</a></td>
+      <td class="col-web"><a href="http://www.g2padelindoor.es" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">102</td>
+      <td class="name">Galepadel Indoor La Garena</td>
+      <td class="muni">Alcalá de Henares</td>
+      <td class="col-email"><span class="empty">—</span></td>
+      <td class="col-tel"><a href="tel:658601185">658601185</a></td>
+      <td class="col-web"><a href="https://www.galepadelindoorlagarena.com/" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">103</td>
+      <td class="name">Get Indoor Padel</td>
+      <td class="muni">Getafe</td>
+      <td class="col-email"><a href="mailto:recepcion@getindoorpadel.com">recepcion@getindoorpadel.com</a></td>
+      <td class="col-tel"><a href="tel:609614847">609614847</a></td>
+      <td class="col-web"><span class="empty">—</span></td>
+    </tr>
+    <tr>
+      <td class="num">104</td>
+      <td class="name">Gimnasio Municipal Mejorada</td>
+      <td class="muni">Mejorada del Campo</td>
+      <td class="col-email"><span class="empty">—</span></td>
+      <td class="col-tel"><a href="tel:649964136">649964136</a></td>
+      <td class="col-web"><span class="empty">—</span></td>
+    </tr>
+    <tr>
+      <td class="num">105</td>
+      <td class="name">GO fit Peñagrande</td>
+      <td class="muni">Madrid</td>
+      <td class="col-email"><a href="mailto:fuencarral@go-fit.es">fuencarral@go-fit.es</a></td>
+      <td class="col-tel"><a href="tel:910884262">910884262</a></td>
+      <td class="col-web"><a href="https://go-fit.es/centros/go-fit-penagrande/" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">106</td>
+      <td class="name">Golden Padel Club</td>
+      <td class="muni">Pinto</td>
+      <td class="col-email"><a href="mailto:info@goldenpadelclub.com">info@goldenpadelclub.com</a></td>
+      <td class="col-tel"><a href="tel:626763863">626763863</a></td>
+      <td class="col-web"><a href="https://goldenpadelclub.com/" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">107</td>
+      <td class="name">Golf Park</td>
+      <td class="muni">Alcobendas</td>
+      <td class="col-email"><a href="mailto:info@golfpark.es">info@golfpark.es</a></td>
+      <td class="col-tel"><span class="empty">—</span></td>
+      <td class="col-web"><a href="http://www.golfpark.es" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">108</td>
+      <td class="name">Golf Santander &amp; Sports</td>
+      <td class="muni">Boadilla del Monte</td>
+      <td class="col-email"><a href="mailto:centrodeportivo@golfsantander.es">centrodeportivo@golfsantander.es</a></td>
+      <td class="col-tel"><a href="tel:988145238">988145238</a></td>
+      <td class="col-web"><a href="https://www.golfsantander.es/websantander/centro_deportivo" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">109</td>
+      <td class="name">Greenvilas Meco Sports Center</td>
+      <td class="muni">Meco</td>
+      <td class="col-email"><a href="mailto:greenvilas@greenvilas.es">greenvilas@greenvilas.es</a></td>
+      <td class="col-tel"><a href="tel:911615042">911615042</a></td>
+      <td class="col-web"><a href="http://www.greenvilas.es" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">110</td>
+      <td class="name">Hitpadel Indoor Coslada</td>
+      <td class="muni">Coslada</td>
+      <td class="col-email"><a href="mailto:info@hitpadel.com">info@hitpadel.com</a></td>
+      <td class="col-tel"><a href="tel:637413136">637413136</a></td>
+      <td class="col-web"><a href="http://www.hitpadel.com" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">111</td>
+      <td class="name">IberiaMart Padel Club</td>
+      <td class="muni">Madrid</td>
+      <td class="col-email"><a href="mailto:padel@iberiamart.es">padel@iberiamart.es</a></td>
+      <td class="col-tel"><a href="tel:915565965">915565965</a></td>
+      <td class="col-web"><a href="https://iberiamart.com" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">112</td>
+      <td class="name">Indie Padel Club</td>
+      <td class="muni">Madrid</td>
+      <td class="col-email"><a href="mailto:info@indiepadelclub.es">info@indiepadelclub.es</a></td>
+      <td class="col-tel"><a href="tel:683293467">683293467</a></td>
+      <td class="col-web"><a href="https://www.indiepadelclub.es/" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">113</td>
+      <td class="name">Instalación Deportiva Canal de Isabel II</td>
+      <td class="muni">Madrid</td>
+      <td class="col-email"><a href="mailto:id.canal@madrid.org">id.canal@madrid.org</a></td>
+      <td class="col-tel"><span class="empty">—</span></td>
+      <td class="col-web"><a href="http://www.comunidad.madrid/centros/instalaciones-deportivas-canal-isabel-ii" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">114</td>
+      <td class="name">La Masó Sports Club</td>
+      <td class="muni">Madrid</td>
+      <td class="col-email"><a href="mailto:info@lamasosportclub.es">info@lamasosportclub.es</a></td>
+      <td class="col-tel"><span class="empty">—</span></td>
+      <td class="col-web"><a href="http://lamasosportclub.es" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">115</td>
+      <td class="name">La Nave PadelCenter</td>
+      <td class="muni">Guadarrama</td>
+      <td class="col-email"><a href="mailto:info@lanavepadelcenter.com">info@lanavepadelcenter.com</a></td>
+      <td class="col-tel"><a href="tel:918547838">918547838</a></td>
+      <td class="col-web"><a href="https://www.lanavepadelcenter.com" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">116</td>
+      <td class="name">La Pecera Padel Club</td>
+      <td class="muni">Humanes de Madrid</td>
+      <td class="col-email"><a href="mailto:info@lapecerapadelclub.com">info@lapecerapadelclub.com</a></td>
+      <td class="col-tel"><a href="tel:942669774">942669774</a></td>
+      <td class="col-web"><a href="http://www.lapecerapadelclub.com" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">117</td>
+      <td class="name">La Vida Padel</td>
+      <td class="muni">Alcobendas</td>
+      <td class="col-email"><a href="mailto:eventos@lavidapadel.com">eventos@lavidapadel.com</a></td>
+      <td class="col-tel"><a href="tel:615507461">615507461</a></td>
+      <td class="col-web"><a href="https://lavidapadel.com" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">118</td>
+      <td class="name">Las Rozas Padel Center</td>
+      <td class="muni">Las Rozas de Madrid</td>
+      <td class="col-email"><a href="mailto:info@lasrozaspadelcenter.es">info@lasrozaspadelcenter.es</a></td>
+      <td class="col-tel"><a href="tel:683635875">683635875</a></td>
+      <td class="col-web"><a href="https://lasrozaspadelcenter.es/" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">119</td>
+      <td class="name">Las Tablas Sports Club</td>
+      <td class="muni">Madrid</td>
+      <td class="col-email"><a href="mailto:recepcion@padelmadridlastablas.es">recepcion@padelmadridlastablas.es</a></td>
+      <td class="col-tel"><a href="tel:776425954">776425954</a></td>
+      <td class="col-web"><a href="https://www.padelmadridlastablas.es" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">120</td>
+      <td class="name">Liceo Padel</td>
+      <td class="muni">Alcobendas</td>
+      <td class="col-email"><a href="mailto:liceosports@liceo-europeo.es">liceosports@liceo-europeo.es</a></td>
+      <td class="col-tel"><a href="tel:912772772">912772772</a></td>
+      <td class="col-web"><a href="https://liceosports.es/" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">121</td>
+      <td class="name">M3 Padel Center</td>
+      <td class="muni">Leganés</td>
+      <td class="col-email"><a href="mailto:info@padelcenter.com">info@padelcenter.com</a></td>
+      <td class="col-tel"><a href="tel:619604420">619604420</a></td>
+      <td class="col-web"><a href="https://m3padelcenter.com" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">122</td>
+      <td class="name">M30 School Padel Center</td>
+      <td class="muni">Madrid</td>
+      <td class="col-email"><a href="mailto:info@schoolpadelcenter.com">info@schoolpadelcenter.com</a></td>
+      <td class="col-tel"><a href="tel:664482647">664482647</a></td>
+      <td class="col-web"><a href="http://schoolpadelcenter.com" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">123</td>
+      <td class="name">Mad4Padel</td>
+      <td class="muni">Pozuelo de Alarcón</td>
+      <td class="col-email"><a href="mailto:info@mad4padel.es">info@mad4padel.es</a></td>
+      <td class="col-tel"><span class="empty">—</span></td>
+      <td class="col-web"><a href="https://www.mad4padel.es" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">124</td>
+      <td class="name">Madrid Central Padel</td>
+      <td class="muni">Madrid</td>
+      <td class="col-email"><a href="mailto:recepcion@madridcentralpadel.com">recepcion@madridcentralpadel.com</a></td>
+      <td class="col-tel"><a href="tel:608884708">608884708</a></td>
+      <td class="col-web"><a href="http://www.madridcentralpadel.com" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">125</td>
+      <td class="name">Madriz PádelSur</td>
+      <td class="muni">Getafe</td>
+      <td class="col-email"><span class="empty">—</span></td>
+      <td class="col-tel"><a href="tel:681875798">681875798</a></td>
+      <td class="col-web"><a href="https://madrizpadelsur.com" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">126</td>
+      <td class="name">MG Indoor Padel Club</td>
+      <td class="muni">Getafe</td>
+      <td class="col-email"><a href="mailto:info@mgpadel.com">info@mgpadel.com</a></td>
+      <td class="col-tel"><span class="empty">—</span></td>
+      <td class="col-web"><a href="http://mgpadel.com" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">127</td>
+      <td class="name">MOMO by Making Padel</td>
+      <td class="muni">Madrid</td>
+      <td class="col-email"><a href="mailto:makingpadel@momosportsclub.com">makingpadel@momosportsclub.com</a></td>
+      <td class="col-tel"><a href="tel:670596725">670596725</a></td>
+      <td class="col-web"><a href="https://momosportsclub.com/momo-making-padel-madrid/" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">128</td>
+      <td class="name">MVPadel Cercedilla</td>
+      <td class="muni">Cercedilla</td>
+      <td class="col-email"><a href="mailto:mvpadelcercedilla@hotmail.com">mvpadelcercedilla@hotmail.com</a></td>
+      <td class="col-tel"><a href="tel:635795072">635795072</a></td>
+      <td class="col-web"><span class="empty">—</span></td>
+    </tr>
+    <tr>
+      <td class="num">129</td>
+      <td class="name">Nexus Padel Majadahonda</td>
+      <td class="muni">Majadahonda</td>
+      <td class="col-email"><a href="mailto:info@nexuspadel.com">info@nexuspadel.com</a></td>
+      <td class="col-tel"><span class="empty">—</span></td>
+      <td class="col-web"><a href="https://nexus-padel.com/" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">130</td>
+      <td class="name">Nexus Padel Villaverde</td>
+      <td class="muni">Madrid</td>
+      <td class="col-email"><span class="empty">—</span></td>
+      <td class="col-tel"><a href="tel:694229926">694229926</a></td>
+      <td class="col-web"><a href="https://nexus-padel.com" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">131</td>
+      <td class="name">Nogalpadel Indoor Club</td>
+      <td class="muni">Humanes de Madrid</td>
+      <td class="col-email"><a href="mailto:nogalpadel@duraballos.com">nogalpadel@duraballos.com</a></td>
+      <td class="col-tel"><a href="tel:914982719">914982719</a></td>
+      <td class="col-web"><span class="empty">—</span></td>
+    </tr>
+    <tr>
+      <td class="num">132</td>
+      <td class="name">Norte Real Sport Club</td>
+      <td class="muni">San Sebastián de los Reyes</td>
+      <td class="col-email"><a href="mailto:hola@nortereal.com">hola@nortereal.com</a></td>
+      <td class="col-tel"><span class="empty">—</span></td>
+      <td class="col-web"><a href="https://www.nortereal.com" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">133</td>
+      <td class="name">Novopadel</td>
+      <td class="muni">Móstoles</td>
+      <td class="col-email"><a href="mailto:info@novopadel.com">info@novopadel.com</a></td>
+      <td class="col-tel"><a href="tel:695187669">695187669</a></td>
+      <td class="col-web"><a href="http://www.novopadel.com" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">134</td>
+      <td class="name">O2 Centro Wellness Plenilunio</td>
+      <td class="muni">Madrid</td>
+      <td class="col-email"><a href="mailto:plenilunio@o2cw.es">plenilunio@o2cw.es</a></td>
+      <td class="col-tel"><span class="empty">—</span></td>
+      <td class="col-web"><a href="https://madrid.o2cw.es/plenilunio/" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">135</td>
+      <td class="name">Ondapadel</td>
+      <td class="muni">Alcorcón</td>
+      <td class="col-email"><span class="empty">—</span></td>
+      <td class="col-tel"><span class="empty">—</span></td>
+      <td class="col-web"><a href="http://www.ondapadel.es" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">136</td>
+      <td class="name">Origen Sport</td>
+      <td class="muni">Navalcarnero</td>
+      <td class="col-email"><a href="mailto:info@origensport.es">info@origensport.es</a></td>
+      <td class="col-tel"><a href="tel:938352932">938352932</a></td>
+      <td class="col-web"><a href="https://origensport.es" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">137</td>
+      <td class="name">Pabellón Deportivo Europa Leganés</td>
+      <td class="muni">Leganés</td>
+      <td class="col-email"><a href="mailto:uadeportes@leganes.org">uadeportes@leganes.org</a></td>
+      <td class="col-tel"><a href="tel:912489517">912489517</a></td>
+      <td class="col-web"><span class="empty">—</span></td>
+    </tr>
+    <tr>
+      <td class="num">138</td>
+      <td class="name">Padel 2.0 Club Indoor</td>
+      <td class="muni">Móstoles</td>
+      <td class="col-email"><a href="mailto:info@padeldospuntocero.com">info@padeldospuntocero.com</a></td>
+      <td class="col-tel"><span class="empty">—</span></td>
+      <td class="col-web"><a href="https://www.padeldospuntocero.es/" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">139</td>
+      <td class="name">Padel Attraction Indoor</td>
+      <td class="muni">Torrejón de Ardoz</td>
+      <td class="col-email"><a href="mailto:recepcion@padelattraction.com">recepcion@padelattraction.com</a></td>
+      <td class="col-tel"><span class="empty">—</span></td>
+      <td class="col-web"><a href="http://padelattraction.com/" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">140</td>
+      <td class="name">Padel Bularas</td>
+      <td class="muni">Pozuelo de Alarcón</td>
+      <td class="col-email"><span class="empty">—</span></td>
+      <td class="col-tel"><span class="empty">—</span></td>
+      <td class="col-web"><a href="http://www.padelbularas.com" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">141</td>
+      <td class="name">Padel Club Usera</td>
+      <td class="muni">Madrid</td>
+      <td class="col-email"><a href="mailto:padelusera@gmail.com">padelusera@gmail.com</a></td>
+      <td class="col-tel"><a href="tel:632021396">632021396</a></td>
+      <td class="col-web"><a href="http://www.padelusera.com" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">142</td>
+      <td class="name">Padel Decathlon Getafe</td>
+      <td class="muni">Getafe</td>
+      <td class="col-email"><span class="empty">—</span></td>
+      <td class="col-tel"><span class="empty">—</span></td>
+      <td class="col-web"><span class="empty">—</span></td>
+    </tr>
+    <tr>
+      <td class="num">143</td>
+      <td class="name">Padel Family Indoor</td>
+      <td class="muni">Valdemoro</td>
+      <td class="col-email"><a href="mailto:%20info@padelfamily.es">%20info@padelfamily.es</a></td>
+      <td class="col-tel"><a href="tel:910325348">910325348</a></td>
+      <td class="col-web"><a href="https://www.padelfamily.es/" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">144</td>
+      <td class="name">Padel G24</td>
+      <td class="muni">Arroyomolinos</td>
+      <td class="col-email"><a href="mailto:info@padelg24.com">info@padelg24.com</a></td>
+      <td class="col-tel"><a href="tel:621096700">621096700</a></td>
+      <td class="col-web"><a href="https://www.padelg24.com" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">145</td>
+      <td class="name">Padel Go Indoor Parla</td>
+      <td class="muni">Parla</td>
+      <td class="col-email"><a href="mailto:padelgoparla@gmail.com">padelgoparla@gmail.com</a></td>
+      <td class="col-tel"><a href="tel:649533154">649533154</a></td>
+      <td class="col-web"><a href="https://www.padelgo.es" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">146</td>
+      <td class="name">Padel Hangar</td>
+      <td class="muni">Alcobendas</td>
+      <td class="col-email"><a href="mailto:escuela@padelhangar.es">escuela@padelhangar.es</a></td>
+      <td class="col-tel"><a href="tel:619783325">619783325</a></td>
+      <td class="col-web"><a href="https://padelhangar.es" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">147</td>
+      <td class="name">Padel Indoor Alcalá</td>
+      <td class="muni">Alcalá de Henares</td>
+      <td class="col-email"><a href="mailto:info@padelindooralcala.es">info@padelindooralcala.es</a></td>
+      <td class="col-tel"><a href="tel:910139830">910139830</a></td>
+      <td class="col-web"><a href="http://www.padelindooralcala.com" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">148</td>
+      <td class="name">Padel Indoor Alcorcón</td>
+      <td class="muni">Alcorcón</td>
+      <td class="col-email"><a href="mailto:info@padelindooralcorcon.com">info@padelindooralcorcon.com</a></td>
+      <td class="col-tel"><a href="tel:917528505">917528505</a></td>
+      <td class="col-web"><a href="https://padelindooralcorcon.com/" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">149</td>
+      <td class="name">Padel Indoor Cerceda</td>
+      <td class="muni">El Boalo</td>
+      <td class="col-email"><a href="mailto:info@padelindoorcerceda.es">info@padelindoorcerceda.es</a></td>
+      <td class="col-tel"><a href="tel:641768437">641768437</a></td>
+      <td class="col-web"><a href="http://www.padelindoorcerceda.es" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">150</td>
+      <td class="name">Padel Indoor Griñón</td>
+      <td class="muni">Griñón</td>
+      <td class="col-email"><a href="mailto:padelindoorgrinon@gmail.com">padelindoorgrinon@gmail.com</a></td>
+      <td class="col-tel"><span class="empty">—</span></td>
+      <td class="col-web"><span class="empty">—</span></td>
+    </tr>
+    <tr>
+      <td class="num">151</td>
+      <td class="name">Padel Indoor Punta Chica</td>
+      <td class="muni">Alcalá de Henares</td>
+      <td class="col-email"><a href="mailto:recepcion@padelpuntachica.com">recepcion@padelpuntachica.com</a></td>
+      <td class="col-tel"><a href="tel:682379930">682379930</a></td>
+      <td class="col-web"><a href="https://padelpuntachica.com/" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">152</td>
+      <td class="name">Padel Kas</td>
+      <td class="muni">Madrid</td>
+      <td class="col-email"><a href="mailto:info@padelkas.com">info@padelkas.com</a></td>
+      <td class="col-tel"><a href="tel:917729126">917729126</a></td>
+      <td class="col-web"><a href="http://www.padelkas.com" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">153</td>
+      <td class="name">Padel Norte</td>
+      <td class="muni">Alcobendas</td>
+      <td class="col-email"><a href="mailto:info@padelnorte.com">info@padelnorte.com</a></td>
+      <td class="col-tel"><a href="tel:916611693">916611693</a></td>
+      <td class="col-web"><a href="http://www.padelnorte.com" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">154</td>
+      <td class="name">Padel Para Todos</td>
+      <td class="muni">Guadarrama</td>
+      <td class="col-email"><a href="mailto:info@padelparatodos.es">info@padelparatodos.es</a></td>
+      <td class="col-tel"><a href="tel:673838706">673838706</a></td>
+      <td class="col-web"><span class="empty">—</span></td>
+    </tr>
+    <tr>
+      <td class="num">155</td>
+      <td class="name">Padel Pastrana</td>
+      <td class="muni">Madrid</td>
+      <td class="col-email"><a href="mailto:info@padelpastrana.com">info@padelpastrana.com</a></td>
+      <td class="col-tel"><a href="tel:731526120">731526120</a></td>
+      <td class="col-web"><span class="empty">—</span></td>
+    </tr>
+    <tr>
+      <td class="num">156</td>
+      <td class="name">Padel People Torrelodones</td>
+      <td class="muni">Torrelodones</td>
+      <td class="col-email"><a href="mailto:info@padelpeopletorrelodones.com">info@padelpeopletorrelodones.com</a></td>
+      <td class="col-tel"><a href="tel:646798575">646798575</a></td>
+      <td class="col-web"><a href="https://www.padelpeopletorrelodones.com" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">157</td>
+      <td class="name">Padel Rio Indoor</td>
+      <td class="muni">Velilla de San Antonio</td>
+      <td class="col-email"><a href="mailto:padelindoorrio@gmail.com">padelindoorrio@gmail.com</a></td>
+      <td class="col-tel"><span class="empty">—</span></td>
+      <td class="col-web"><a href="http://www.padelrio.es" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">158</td>
+      <td class="name">Padel Sense</td>
+      <td class="muni">Alcorcón</td>
+      <td class="col-email"><span class="empty">—</span></td>
+      <td class="col-tel"><a href="tel:672995379">672995379</a></td>
+      <td class="col-web"><span class="empty">—</span></td>
+    </tr>
+    <tr>
+      <td class="num">159</td>
+      <td class="name">Padel Sport Center Tres Cantos</td>
+      <td class="muni">Tres Cantos</td>
+      <td class="col-email"><a href="mailto:trescantos@bodyfactory.es">trescantos@bodyfactory.es</a></td>
+      <td class="col-tel"><span class="empty">—</span></td>
+      <td class="col-web"><a href="https://www.bodyfactory.es/gimnasio-sport-center-tres-cantos.html" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">160</td>
+      <td class="name">Padel Sport Home</td>
+      <td class="muni">Algete</td>
+      <td class="col-email"><a href="mailto:info@padelsporthome.com">info@padelsporthome.com</a></td>
+      <td class="col-tel"><a href="tel:916293698">916293698</a></td>
+      <td class="col-web"><a href="http://www.padelsporthome.com" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">161</td>
+      <td class="name">Padel Sport Indoor Getafe</td>
+      <td class="muni">Getafe</td>
+      <td class="col-email"><a href="mailto:padel@padelsportindoorgetafe.com">padel@padelsportindoorgetafe.com</a></td>
+      <td class="col-tel"><a href="tel:790657688">790657688</a></td>
+      <td class="col-web"><a href="http://padelsportindoorgetafe.es" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">162</td>
+      <td class="name">Padel StarVie Collado Mediano</td>
+      <td class="muni">Collado Mediano</td>
+      <td class="col-email"><a href="mailto:padelcolladomediano@starvie.com">padelcolladomediano@starvie.com</a></td>
+      <td class="col-tel"><span class="empty">—</span></td>
+      <td class="col-web"><a href="http://www.clubstarvie.matchpoint.com.es" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">163</td>
+      <td class="name">PadelSpirit Club</td>
+      <td class="muni">Madrid</td>
+      <td class="col-email"><a href="mailto:info@padelspiritclub.es">info@padelspiritclub.es</a></td>
+      <td class="col-tel"><a href="tel:617217171">617217171</a></td>
+      <td class="col-web"><a href="https://www.padelspiritclub.es" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">164</td>
+      <td class="name">Paidesport Center La Ermita</td>
+      <td class="muni">Madrid</td>
+      <td class="col-email"><span class="empty">—</span></td>
+      <td class="col-tel"><span class="empty">—</span></td>
+      <td class="col-web"><a href="http://www.paidesportcenter.com/gimnasio_La-Ermita" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">165</td>
+      <td class="name">PALAS OCIO PADEL</td>
+      <td class="muni">El Boalo</td>
+      <td class="col-email"><a href="mailto:info@palasociopadelclub.es">info@palasociopadelclub.es</a></td>
+      <td class="col-tel"><a href="tel:958065243">958065243</a></td>
+      <td class="col-web"><span class="empty">—</span></td>
+    </tr>
+    <tr>
+      <td class="num">166</td>
+      <td class="name">Parque Deportivo Puerta de Hierro</td>
+      <td class="muni">Madrid</td>
+      <td class="col-email"><a href="mailto:reservapistas@fmpadel.com">reservapistas@fmpadel.com</a></td>
+      <td class="col-tel"><a href="tel:913867358">913867358</a></td>
+      <td class="col-web"><span class="empty">—</span></td>
+    </tr>
+    <tr>
+      <td class="num">167</td>
+      <td class="name">Pinto Padel Club Deportivo Los Ángeles</td>
+      <td class="muni">Pinto</td>
+      <td class="col-email"><a href="mailto:info@pintopadel.com">info@pintopadel.com</a></td>
+      <td class="col-tel"><a href="tel:917813442">917813442</a></td>
+      <td class="col-web"><a href="http://www.pintopadel.com" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">168</td>
+      <td class="name">Planet Padel Indoor</td>
+      <td class="muni">Torrejón de Ardoz</td>
+      <td class="col-email"><a href="mailto:info@planetpadelindoor.com">info@planetpadelindoor.com</a></td>
+      <td class="col-tel"><a href="tel:760268943">760268943</a></td>
+      <td class="col-web"><a href="http://www.planetpadelindoor.com" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">169</td>
+      <td class="name">Platinium Padel</td>
+      <td class="muni">Colmenar Viejo</td>
+      <td class="col-email"><a href="mailto:info@platiniumpadel.com">info@platiniumpadel.com</a></td>
+      <td class="col-tel"><a href="tel:641314202">641314202</a></td>
+      <td class="col-web"><a href="https://www.platiniumpadel.com" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">170</td>
+      <td class="name">Polideportivo Carlos Ruiz</td>
+      <td class="muni">Pozuelo de Alarcón</td>
+      <td class="col-email"><span class="empty">—</span></td>
+      <td class="col-tel"><span class="empty">—</span></td>
+      <td class="col-web"><span class="empty">—</span></td>
+    </tr>
+    <tr>
+      <td class="num">171</td>
+      <td class="name">Polideportivo de Valdetorres del Jarama</td>
+      <td class="muni">Valdetorres de Jarama</td>
+      <td class="col-email"><span class="empty">—</span></td>
+      <td class="col-tel"><span class="empty">—</span></td>
+      <td class="col-web"><span class="empty">—</span></td>
+    </tr>
+    <tr>
+      <td class="num">172</td>
+      <td class="name">Polideportivo Dehesa de Navalcarbón</td>
+      <td class="muni">Las Rozas de Madrid</td>
+      <td class="col-email"><span class="empty">—</span></td>
+      <td class="col-tel"><span class="empty">—</span></td>
+      <td class="col-web"><span class="empty">—</span></td>
+    </tr>
+    <tr>
+      <td class="num">173</td>
+      <td class="name">Polideportivo Héctor Valero</td>
+      <td class="muni">Sevilla la Nueva</td>
+      <td class="col-email"><span class="empty">—</span></td>
+      <td class="col-tel"><a href="tel:696551165">696551165</a></td>
+      <td class="col-web"><a href="https://www.sevillalanueva.es/polideportivo-municipal-hector-valero/" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">174</td>
+      <td class="name">Polideportivo Lili Alvarez</td>
+      <td class="muni">Madrid</td>
+      <td class="col-email"><a href="mailto:secretaria@edmoratalaz.com">secretaria@edmoratalaz.com</a></td>
+      <td class="col-tel"><a href="tel:659595712">659595712</a></td>
+      <td class="col-web"><span class="empty">—</span></td>
+    </tr>
+    <tr>
+      <td class="num">175</td>
+      <td class="name">Polideportivo Municipal de Alcobendas José Caballero</td>
+      <td class="muni">Alcobendas</td>
+      <td class="col-email"><span class="empty">—</span></td>
+      <td class="col-tel"><span class="empty">—</span></td>
+      <td class="col-web"><a href="https://www.alcobendas.org/es/ayuntamiento/equipamiento-municipal/polideportivo-municipal-de-alcobendas-jose-caballero" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">176</td>
+      <td class="name">Polideportivo Municipal de Talamanca de Jarama</td>
+      <td class="muni">Talamanca de Jarama</td>
+      <td class="col-email"><span class="empty">—</span></td>
+      <td class="col-tel"><span class="empty">—</span></td>
+      <td class="col-web"><a href="https://www.talamancadejarama.org/ayuntamiento/areas-y-servicios-municipales/deporte/" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">177</td>
+      <td class="name">Polideportivo Municipal Dehesa Boyal</td>
+      <td class="muni">San Sebastián de los Reyes</td>
+      <td class="col-email"><span class="empty">—</span></td>
+      <td class="col-tel"><span class="empty">—</span></td>
+      <td class="col-web"><span class="empty">—</span></td>
+    </tr>
+    <tr>
+      <td class="num">178</td>
+      <td class="name">Polideportivo Municipal Galapagar</td>
+      <td class="muni">Galapagar</td>
+      <td class="col-email"><a href="mailto:info@sportivegalapagar.com">info@sportivegalapagar.com</a></td>
+      <td class="col-tel"><span class="empty">—</span></td>
+      <td class="col-web"><span class="empty">—</span></td>
+    </tr>
+    <tr>
+      <td class="num">179</td>
+      <td class="name">Polideportivo Municipal Paracuellos de Jarama</td>
+      <td class="muni">Paracuellos de Jarama</td>
+      <td class="col-email"><span class="empty">—</span></td>
+      <td class="col-tel"><span class="empty">—</span></td>
+      <td class="col-web"><span class="empty">—</span></td>
+    </tr>
+    <tr>
+      <td class="num">180</td>
+      <td class="name">Polideportivo Municipal Príncipe De Asturias</td>
+      <td class="muni">Colmenarejo</td>
+      <td class="col-email"><span class="empty">—</span></td>
+      <td class="col-tel"><a href="tel:918589072">918589072</a></td>
+      <td class="col-web"><span class="empty">—</span></td>
+    </tr>
+    <tr>
+      <td class="num">181</td>
+      <td class="name">Polideportivo Municipal San Fernando de Henares</td>
+      <td class="muni">San Fernando de Henares</td>
+      <td class="col-email"><span class="empty">—</span></td>
+      <td class="col-tel"><span class="empty">—</span></td>
+      <td class="col-web"><span class="empty">—</span></td>
+    </tr>
+    <tr>
+      <td class="num">182</td>
+      <td class="name">Polideportivo Municipal Torrelodones</td>
+      <td class="muni">Torrelodones</td>
+      <td class="col-email"><span class="empty">—</span></td>
+      <td class="col-tel"><span class="empty">—</span></td>
+      <td class="col-web"><a href="https://www.torrelodones.es/deportes/instalaciones/polideportivo-municipal" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">183</td>
+      <td class="name">Polideportivo Municipal Velilla de San Antonio</td>
+      <td class="muni">Velilla de San Antonio</td>
+      <td class="col-email"><span class="empty">—</span></td>
+      <td class="col-tel"><span class="empty">—</span></td>
+      <td class="col-web"><span class="empty">—</span></td>
+    </tr>
+    <tr>
+      <td class="num">184</td>
+      <td class="name">Polideportivo Municipal Villa de Meco</td>
+      <td class="muni">Meco</td>
+      <td class="col-email"><span class="empty">—</span></td>
+      <td class="col-tel"><a href="tel:918861007">918861007</a></td>
+      <td class="col-web"><span class="empty">—</span></td>
+    </tr>
+    <tr>
+      <td class="num">185</td>
+      <td class="name">Polideportivo Pradillo Pozuelo de Alarcón</td>
+      <td class="muni">Pozuelo de Alarcón</td>
+      <td class="col-email"><span class="empty">—</span></td>
+      <td class="col-tel"><span class="empty">—</span></td>
+      <td class="col-web"><span class="empty">—</span></td>
+    </tr>
+    <tr>
+      <td class="num">186</td>
+      <td class="name">Polideportivo Universidad Autónoma de Madrid</td>
+      <td class="muni">Madrid</td>
+      <td class="col-email"><span class="empty">—</span></td>
+      <td class="col-tel"><span class="empty">—</span></td>
+      <td class="col-web"><span class="empty">—</span></td>
+    </tr>
+    <tr>
+      <td class="num">187</td>
+      <td class="name">Polideportivo Vicente del Bosque</td>
+      <td class="muni">Madrid</td>
+      <td class="col-email"><span class="empty">—</span></td>
+      <td class="col-tel"><span class="empty">—</span></td>
+      <td class="col-web"><a href="http://www.barriodelpilar.com/polideportivo-vicente-del-bosque/" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">188</td>
+      <td class="name">Por Sport Indoor Padel</td>
+      <td class="muni">Griñón</td>
+      <td class="col-email"><a href="mailto:porsportindoorpadel@gmail.com">porsportindoorpadel@gmail.com</a></td>
+      <td class="col-tel"><span class="empty">—</span></td>
+      <td class="col-web"><a href="https://www.porsport.es/club-de-padel/" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">189</td>
+      <td class="name">Pozuelo Padel Club</td>
+      <td class="muni">Pozuelo de Alarcón</td>
+      <td class="col-email"><a href="mailto:info@pozuelopadelclub.es">info@pozuelopadelclub.es</a></td>
+      <td class="col-tel"><a href="tel:620650540">620650540</a></td>
+      <td class="col-web"><span class="empty">—</span></td>
+    </tr>
+    <tr>
+      <td class="num">190</td>
+      <td class="name">Pro Padel Coslada</td>
+      <td class="muni">Coslada</td>
+      <td class="col-email"><span class="empty">—</span></td>
+      <td class="col-tel"><a href="tel:623754902">623754902</a></td>
+      <td class="col-web"><span class="empty">—</span></td>
+    </tr>
+    <tr>
+      <td class="num">191</td>
+      <td class="name">PyT Villalba</td>
+      <td class="muni">Collado Villalba</td>
+      <td class="col-email"><a href="mailto:info@pytvillalba.com">info@pytvillalba.com</a></td>
+      <td class="col-tel"><a href="tel:910699111">910699111</a></td>
+      <td class="col-web"><a href="http://www.pytvillalba.com" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">192</td>
+      <td class="name">Pádel Club Arena</td>
+      <td class="muni">Navalcarnero</td>
+      <td class="col-email"><span class="empty">—</span></td>
+      <td class="col-tel"><a href="tel:681960653">681960653</a></td>
+      <td class="col-web"><span class="empty">—</span></td>
+    </tr>
+    <tr>
+      <td class="num">193</td>
+      <td class="name">Pádel Club Arganda</td>
+      <td class="muni">Arganda del Rey</td>
+      <td class="col-email"><span class="empty">—</span></td>
+      <td class="col-tel"><a href="tel:626522109">626522109</a></td>
+      <td class="col-web"><a href="https://www.padelclubarganda.es" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">194</td>
+      <td class="name">Pádel Indoor Alcalá Cisneros</td>
+      <td class="muni">Alcalá de Henares</td>
+      <td class="col-email"><a href="mailto:info@padelindooralcala.es">info@padelindooralcala.es</a></td>
+      <td class="col-tel"><a href="tel:656794920">656794920</a></td>
+      <td class="col-web"><a href="https://www.padelindooralcala.es" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">195</td>
+      <td class="name">Pádel Padre Damián</td>
+      <td class="muni">Madrid</td>
+      <td class="col-email"><a href="mailto:redes.pdamian@gmail.com">redes.pdamian@gmail.com</a></td>
+      <td class="col-tel"><a href="tel:648581658">648581658</a></td>
+      <td class="col-web"><span class="empty">—</span></td>
+    </tr>
+    <tr>
+      <td class="num">196</td>
+      <td class="name">Pádel Rubuelos Club</td>
+      <td class="muni">Casarrubuelos</td>
+      <td class="col-email"><span class="empty">—</span></td>
+      <td class="col-tel"><a href="tel:673738748">673738748</a></td>
+      <td class="col-web"><span class="empty">—</span></td>
+    </tr>
+    <tr>
+      <td class="num">197</td>
+      <td class="name">Pádel Tenis Becerril Horyzon</td>
+      <td class="muni">Becerril de la Sierra</td>
+      <td class="col-email"><span class="empty">—</span></td>
+      <td class="col-tel"><span class="empty">—</span></td>
+      <td class="col-web"><span class="empty">—</span></td>
+    </tr>
+    <tr>
+      <td class="num">198</td>
+      <td class="name">R3 Padel Mejorada</td>
+      <td class="muni">Mejorada del Campo</td>
+      <td class="col-email"><a href="mailto:r3mejoradapadelindoor@gmail.es">r3mejoradapadelindoor@gmail.es</a></td>
+      <td class="col-tel"><span class="empty">—</span></td>
+      <td class="col-web"><a href="https://r3padel.padelclick.com" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">199</td>
+      <td class="name">RACE</td>
+      <td class="muni">Real Automovil Club España - San Sebastián de los Reyes</td>
+      <td class="col-email"><a href="mailto:administracion_complejo@race.es">administracion_complejo@race.es</a></td>
+      <td class="col-tel"><span class="empty">—</span></td>
+      <td class="col-web"><a href="https://complejodeportivo.race.es" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">200</td>
+      <td class="name">Real Club de Golf La Herreria</td>
+      <td class="muni">San Lorenzo de El Escorial</td>
+      <td class="col-email"><a href="mailto:tenis@espacioherreria.club">tenis@espacioherreria.club</a></td>
+      <td class="col-tel"><a href="tel:918905111">918905111</a></td>
+      <td class="col-web"><a href="https://golfmadridlaherreria.com" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">201</td>
+      <td class="name">Real Club de Golf La Moraleja</td>
+      <td class="muni">Alcobendas</td>
+      <td class="col-email"><a href="mailto:info@realclublamoraleja.com">info@realclublamoraleja.com</a></td>
+      <td class="col-tel"><span class="empty">—</span></td>
+      <td class="col-web"><a href="http://www.realclublamoraleja.com" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">202</td>
+      <td class="name">Real Club Puerta de Hierro</td>
+      <td class="muni">Madrid</td>
+      <td class="col-email"><span class="empty">—</span></td>
+      <td class="col-tel"><span class="empty">—</span></td>
+      <td class="col-web"><a href="https://www.rcphierro.com" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">203</td>
+      <td class="name">Republic Space</td>
+      <td class="muni">Boadilla del Monte</td>
+      <td class="col-email"><a href="mailto:info@republicspace.com">info@republicspace.com</a></td>
+      <td class="col-tel"><a href="tel:911299062">911299062</a></td>
+      <td class="col-web"><a href="https://www.republicspace.com" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">204</td>
+      <td class="name">Riber padel</td>
+      <td class="muni">Alcobendas</td>
+      <td class="col-email"><a href="mailto:riberpadel@hotmail.com">riberpadel@hotmail.com</a></td>
+      <td class="col-tel"><a href="tel:989777454">989777454</a></td>
+      <td class="col-web"><span class="empty">—</span></td>
+    </tr>
+    <tr>
+      <td class="num">205</td>
+      <td class="name">Rivapadel</td>
+      <td class="muni">Rivas-Vaciamadrid</td>
+      <td class="col-email"><a href="mailto:rivapadel@gmail.com">rivapadel@gmail.com</a></td>
+      <td class="col-tel"><a href="tel:623627101">623627101</a></td>
+      <td class="col-web"><a href="http://www.rivapadel.com" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">206</td>
+      <td class="name">Rozas Club</td>
+      <td class="muni">Las Rozas de Madrid</td>
+      <td class="col-email"><a href="mailto:info@rozasclub.com">info@rozasclub.com</a></td>
+      <td class="col-tel"><a href="tel:916304900">916304900</a></td>
+      <td class="col-web"><a href="https://www.rozasclub.com" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">207</td>
+      <td class="name">RR padel indoor</td>
+      <td class="muni">Torrejón de Ardoz</td>
+      <td class="col-email"><span class="empty">—</span></td>
+      <td class="col-tel"><a href="tel:644071887">644071887</a></td>
+      <td class="col-web"><span class="empty">—</span></td>
+    </tr>
+    <tr>
+      <td class="num">208</td>
+      <td class="name">Río Arena Padel</td>
+      <td class="muni">Madrid</td>
+      <td class="col-email"><a href="mailto:info@rioarenapadel.com">info@rioarenapadel.com</a></td>
+      <td class="col-tel"><a href="tel:611043923">611043923</a></td>
+      <td class="col-web"><a href="https://www.rioarenapadel.com" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">209</td>
+      <td class="name">S7 Sport Padel Center</td>
+      <td class="muni">Fuenlabrada</td>
+      <td class="col-email"><a href="mailto:info@s7padelcenter.com">info@s7padelcenter.com</a></td>
+      <td class="col-tel"><a href="tel:722861751">722861751</a></td>
+      <td class="col-web"><a href="https://s7padelcenter.com" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">210</td>
+      <td class="name">Santo Padel Madrid</td>
+      <td class="muni">Madrid</td>
+      <td class="col-email"><span class="empty">—</span></td>
+      <td class="col-tel"><a href="tel:609009033">609009033</a></td>
+      <td class="col-web"><span class="empty">—</span></td>
+    </tr>
+    <tr>
+      <td class="num">211</td>
+      <td class="name">Set Point Padel Indoor</td>
+      <td class="muni">Getafe</td>
+      <td class="col-email"><a href="mailto:contacto@setpoint.es">contacto@setpoint.es</a></td>
+      <td class="col-tel"><a href="tel:916839189">916839189</a></td>
+      <td class="col-web"><a href="https://www.setpoint.es" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">212</td>
+      <td class="name">Seven Padel Arganda</td>
+      <td class="muni">Arganda del Rey</td>
+      <td class="col-email"><a href="mailto:sevenpadel@gmail.com">sevenpadel@gmail.com</a></td>
+      <td class="col-tel"><a href="tel:918707650">918707650</a></td>
+      <td class="col-web"><a href="https://www.clubsevenpadel.com" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">213</td>
+      <td class="name">Solana Club de Padel</td>
+      <td class="muni">Torrejón de Ardoz</td>
+      <td class="col-email"><a href="mailto:solana@padelsolana.es">solana@padelsolana.es</a></td>
+      <td class="col-tel"><a href="tel:659081938">659081938</a></td>
+      <td class="col-web"><a href="https://padelsolana.es" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">214</td>
+      <td class="name">Somontes Club Deportivo</td>
+      <td class="muni">Madrid</td>
+      <td class="col-email"><a href="mailto:cdsomontes@ilunion.com">cdsomontes@ilunion.com</a></td>
+      <td class="col-tel"><span class="empty">—</span></td>
+      <td class="col-web"><a href="http://www.cdsomontes.com" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">215</td>
+      <td class="name">Sompadel</td>
+      <td class="muni">Aldea del Fresno</td>
+      <td class="col-email"><a href="mailto:sompadel@hotmail.com">sompadel@hotmail.com</a></td>
+      <td class="col-tel"><span class="empty">—</span></td>
+      <td class="col-web"><span class="empty">—</span></td>
+    </tr>
+    <tr>
+      <td class="num">216</td>
+      <td class="name">Sport Center Manolo Santana</td>
+      <td class="muni">Boadilla del Monte</td>
+      <td class="col-email"><a href="mailto:comunicacion@santanacenter.com">comunicacion@santanacenter.com</a></td>
+      <td class="col-tel"><span class="empty">—</span></td>
+      <td class="col-web"><a href="http://santanacenter.com" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">217</td>
+      <td class="name">Tenis Padel Villalba</td>
+      <td class="muni">Collado Villalba</td>
+      <td class="col-email"><a href="mailto:info@tenispadelvillalba.com">info@tenispadelvillalba.com</a></td>
+      <td class="col-tel"><a href="tel:918323022">918323022</a></td>
+      <td class="col-web"><a href="https://www.tenispadelvillalba.com" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">218</td>
+      <td class="name">Tenis y Pádel Olivar de la Hinojosa</td>
+      <td class="muni">Madrid</td>
+      <td class="col-email"><a href="mailto:go@golfolivar.com">go@golfolivar.com</a></td>
+      <td class="col-tel"><span class="empty">—</span></td>
+      <td class="col-web"><a href="http://olivar.golf" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">219</td>
+      <td class="name">Tenis Y Pádel Soto del Real</td>
+      <td class="muni">Soto del Real</td>
+      <td class="col-email"><a href="mailto:direccion@tenisypadelsoto.es">direccion@tenisypadelsoto.es</a></td>
+      <td class="col-tel"><a href="tel:816398719">816398719</a></td>
+      <td class="col-web"><a href="http://www.padelsporthome.com" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">220</td>
+      <td class="name">TIMING TEAM  ACADEMY</td>
+      <td class="muni">Serranillos del Valle</td>
+      <td class="col-email"><a href="mailto:timingteamacademy@hotmail.com">timingteamacademy@hotmail.com</a></td>
+      <td class="col-tel"><span class="empty">—</span></td>
+      <td class="col-web"><span class="empty">—</span></td>
+    </tr>
+    <tr>
+      <td class="num">221</td>
+      <td class="name">Twinning Padel</td>
+      <td class="muni">Daganzo de Arriba</td>
+      <td class="col-email"><a href="mailto:info@twinningpadel.center">info@twinningpadel.center</a></td>
+      <td class="col-tel"><span class="empty">—</span></td>
+      <td class="col-web"><span class="empty">—</span></td>
+    </tr>
+    <tr>
+      <td class="num">222</td>
+      <td class="name">UP Center</td>
+      <td class="muni">Villanueva de la Cañada</td>
+      <td class="col-email"><a href="mailto:info@upcenter.es">info@upcenter.es</a></td>
+      <td class="col-tel"><span class="empty">—</span></td>
+      <td class="col-web"><a href="http://www.upcenter.es" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">223</td>
+      <td class="name">Venditto Padel</td>
+      <td class="muni">Madrid</td>
+      <td class="col-email"><span class="empty">—</span></td>
+      <td class="col-tel"><a href="tel:693280671">693280671</a></td>
+      <td class="col-web"><span class="empty">—</span></td>
+    </tr>
+    <tr>
+      <td class="num">224</td>
+      <td class="name">Villapadel</td>
+      <td class="muni">Villaviciosa de Odón</td>
+      <td class="col-email"><a href="mailto:villapadel@telefonica.net">villapadel@telefonica.net</a></td>
+      <td class="col-tel"><a href="tel:861020281">861020281</a></td>
+      <td class="col-web"><a href="http://www.villapadel.com" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">225</td>
+      <td class="name">Vim Padel Indoor</td>
+      <td class="muni">Madrid</td>
+      <td class="col-email"><a href="mailto:info@vimpadel.com">info@vimpadel.com</a></td>
+      <td class="col-tel"><a href="tel:687994497">687994497</a></td>
+      <td class="col-web"><a href="https://vimpadel.com" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">226</td>
+      <td class="name">Vipadel Valdemorillo</td>
+      <td class="muni">Valdemorillo</td>
+      <td class="col-email"><a href="mailto:info@valdemorillopadel.com">info@valdemorillopadel.com</a></td>
+      <td class="col-tel"><a href="tel:743446272">743446272</a></td>
+      <td class="col-web"><a href="http://valdemorillopadel.com" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">227</td>
+      <td class="name">Vipadel Villaconejos</td>
+      <td class="muni">Villaconejos</td>
+      <td class="col-email"><a href="mailto:vipadel@vipadel.org">vipadel@vipadel.org</a></td>
+      <td class="col-tel"><a href="tel:680072205">680072205</a></td>
+      <td class="col-web"><a href="http://vipadel.org/" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">228</td>
+      <td class="name">VIPLOECHES</td>
+      <td class="muni">Loeches</td>
+      <td class="col-email"><span class="empty">—</span></td>
+      <td class="col-tel"><span class="empty">—</span></td>
+      <td class="col-web"><span class="empty">—</span></td>
+    </tr>
+    <tr>
+      <td class="num">229</td>
+      <td class="name">Vita 10 Sport Club</td>
+      <td class="muni">Boadilla del Monte</td>
+      <td class="col-email"><a href="mailto:vita10@vita10.es">vita10@vita10.es</a></td>
+      <td class="col-tel"><span class="empty">—</span></td>
+      <td class="col-web"><a href="http://www.vita10.es" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">230</td>
+      <td class="name">Volea Padel Indoor</td>
+      <td class="muni">Navalcarnero</td>
+      <td class="col-email"><a href="mailto:volea@volea.es">volea@volea.es</a></td>
+      <td class="col-tel"><a href="tel:918111845">918111845</a></td>
+      <td class="col-web"><a href="https://www.voleapadel.es" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">231</td>
+      <td class="name">Wellsport Club</td>
+      <td class="muni">Madrid</td>
+      <td class="col-email"><span class="empty">—</span></td>
+      <td class="col-tel"><span class="empty">—</span></td>
+      <td class="col-web"><a href="https://www.wellsportclub.com/padel-en-madrid/" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">232</td>
+      <td class="name">WELLSPORT Padel Club</td>
+      <td class="muni">Leganés</td>
+      <td class="col-email"><a href="mailto:info@wellsportpadelclub.com">info@wellsportpadelclub.com</a></td>
+      <td class="col-tel"><a href="tel:659775662">659775662</a></td>
+      <td class="col-web"><a href="https://wellsportpadelclub.com" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">233</td>
+      <td class="name">Whiteflakes Padel Center</td>
+      <td class="muni">Alcobendas</td>
+      <td class="col-email"><a href="mailto:padel@whiteflakes.es">padel@whiteflakes.es</a></td>
+      <td class="col-tel"><a href="tel:686643017">686643017</a></td>
+      <td class="col-web"><a href="https://www.whiteflakespadel.es" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">234</td>
+      <td class="name">Zagros Sports La Moraleja</td>
+      <td class="muni">Alcobendas</td>
+      <td class="col-email"><span class="empty">—</span></td>
+      <td class="col-tel"><span class="empty">—</span></td>
+      <td class="col-web"><a href="https://www.zagrossports.com/padel-alcobendas-zagros/" target="_blank">↗ web</a></td>
+    </tr>
+    <tr>
+      <td class="num">235</td>
+      <td class="name">Zona Deportiva Club Deportivo Estoril 2</td>
+      <td class="muni">Móstoles</td>
+      <td class="col-email"><a href="mailto:deportes@clubestoril2.es">deportes@clubestoril2.es</a></td>
+      <td class="col-tel"><a href="tel:916170289">916170289</a></td>
+      <td class="col-web"><a href="https://www.clubestoril2.es" target="_blank">↗ web</a></td>
+    </tr>
+      </tbody>
+    </table>
+    </div>
+  </div>
+
+  <div class="sidebar">
+
+    <div class="side-card">
+      <h3>Top municipios</h3>
+      
+    <div class="bar-row">
+      <span class="bar-label">Madrid</span>
+      <div class="bar-track">
+        <div class="bar-fill" style="width:100%"></div>
+      </div>
+      <span class="bar-count">50</span>
+    </div>
+    <div class="bar-row">
+      <span class="bar-label">Alcobendas</span>
+      <div class="bar-track">
+        <div class="bar-fill" style="width:28%"></div>
+      </div>
+      <span class="bar-count">14</span>
+    </div>
+    <div class="bar-row">
+      <span class="bar-label">Alcalá de Henares</span>
+      <div class="bar-track">
+        <div class="bar-fill" style="width:24%"></div>
+      </div>
+      <span class="bar-count">12</span>
+    </div>
+    <div class="bar-row">
+      <span class="bar-label">Móstoles</span>
+      <div class="bar-track">
+        <div class="bar-fill" style="width:18%"></div>
+      </div>
+      <span class="bar-count">9</span>
+    </div>
+    <div class="bar-row">
+      <span class="bar-label">Alcorcón</span>
+      <div class="bar-track">
+        <div class="bar-fill" style="width:16%"></div>
+      </div>
+      <span class="bar-count">8</span>
+    </div>
+    <div class="bar-row">
+      <span class="bar-label">Pozuelo de Alarcón</span>
+      <div class="bar-track">
+        <div class="bar-fill" style="width:16%"></div>
+      </div>
+      <span class="bar-count">8</span>
+    </div>
+    <div class="bar-row">
+      <span class="bar-label">Getafe</span>
+      <div class="bar-track">
+        <div class="bar-fill" style="width:14%"></div>
+      </div>
+      <span class="bar-count">7</span>
+    </div>
+    <div class="bar-row">
+      <span class="bar-label">Boadilla del Monte</span>
+      <div class="bar-track">
+        <div class="bar-fill" style="width:12%"></div>
+      </div>
+      <span class="bar-count">6</span>
+    </div>
+    <div class="bar-row">
+      <span class="bar-label">Las Rozas de Madrid</span>
+      <div class="bar-track">
+        <div class="bar-fill" style="width:12%"></div>
+      </div>
+      <span class="bar-count">6</span>
+    </div>
+    <div class="bar-row">
+      <span class="bar-label">Arganda del Rey</span>
+      <div class="bar-track">
+        <div class="bar-fill" style="width:10%"></div>
+      </div>
+      <span class="bar-count">5</span>
+    </div>
+    </div>
+
+    <div class="side-card">
+      <h3>Cobertura de datos</h3>
+      <div class="coverage-item">
+        <span class="coverage-label">Email disponible</span>
+        <span class="coverage-pct">80%</span>
+      </div>
+      <div class="coverage-item">
+        <span class="coverage-label">Teléfono disponible</span>
+        <span class="coverage-pct">60%</span>
+      </div>
+      <div class="coverage-item">
+        <span class="coverage-label">Web disponible</span>
+        <span class="coverage-pct">75%</span>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<div class="footer">
+  Infinity Padel Tour BY LÕK · Documento interno · 235 clubs · 187 emails de contacto
+</div>
+
+<script>
+function buscar(q) {
+  q = (q || '').toLowerCase().trim();
+  var tbody = document.getElementById('tableBody');
+  var filas = tbody.getElementsByTagName('tr');
+  var visibles = 0;
+  for (var i = 0; i < filas.length; i++) {
+    var coincide = filas[i].textContent.toLowerCase().indexOf(q) >= 0;
+    filas[i].style.display = coincide ? 'table-row' : 'none';
+    if (coincide) visibles++;
+  }
+  var contador = document.getElementById('contador');
+  if (contador) contador.textContent = visibles + ' clubs';
+  /* Forzar repaint en iOS Safari */
+  tbody.style.display = 'none';
+  tbody.offsetHeight;
+  tbody.style.display = '';
+}
+</script>
+</body>
+</html>
