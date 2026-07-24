@@ -13,13 +13,15 @@ Copia el bloque completo (Para / Asunto / Cuerpo) y pégalo en el webmail. Marca
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Cde Net Sports,
+Hola,
 
-Vi que estáis en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Cde Net Sports (Madrid) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -33,13 +35,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Club Ocapa,
+Hola,
 
-Vi que estáis en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Club Ocapa (Madrid) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -53,13 +57,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Club R.e.p.,
+Hola,
 
-Vi que estáis en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Club R.e.p. (Madrid) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -73,13 +79,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Padel University,
+Hola,
 
-Vi que estáis en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Padel University (Madrid) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -93,13 +101,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Set Point Padel Indoor,
+Hola,
 
-Vi que estáis en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Set Point Padel Indoor (Madrid) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -113,13 +123,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Snobissimo Padel,
+Hola,
 
-Vi que estáis en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Snobissimo Padel (Madrid) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -133,13 +145,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Escuela De Tenis Alcala,
+Hola,
 
-Vi que estáis en Alcala De Henares — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Escuela De Tenis Alcala (Alcala De Henares) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -153,13 +167,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Cde Pala Y Raqueta Alcalá,
+Hola,
 
-Vi que estáis en Alcalá De Henares — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Cde Pala Y Raqueta Alcalá (Alcalá De Henares) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -173,13 +189,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Club Padel Indoor Alcala,
+Hola,
 
-Vi que estáis en Alcalá De Henares — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Club Padel Indoor Alcala (Alcalá De Henares) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -193,13 +211,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Club De Golf La Moraleja,
+Hola,
 
-Vi que estáis en Alcobendas — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Club De Golf La Moraleja (Alcobendas) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -213,13 +233,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Club De Padel La Moraleja,
+Hola,
 
-Vi que estáis en Alcobendas — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Club De Padel La Moraleja (Alcobendas) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -233,13 +255,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Club El Estudiante,
+Hola,
 
-Vi que estáis en Alcobendas — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Club El Estudiante (Alcobendas) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -253,13 +277,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Club Elemental Match Ball,
+Hola,
 
-Vi que estáis en Alcobendas — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Club Elemental Match Ball (Alcobendas) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -273,13 +299,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Ladeveze,
+Hola,
 
-Vi que estáis en Alcobendas — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Ladeveze (Alcobendas) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -293,13 +321,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Padel Hangar Alcobendas,
+Hola,
 
-Vi que estáis en Alcobendas — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Padel Hangar Alcobendas (Alcobendas) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -313,13 +343,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Club Deportivo Alkor-villalkor,
+Hola,
 
-Vi que estáis en Alcorcon — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Club Deportivo Alkor-villalkor (Alcorcon) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -333,13 +365,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Ondapadel,
+Hola,
 
-Vi que estáis en Alcorcon — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Ondapadel (Alcorcon) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -353,13 +387,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Cde Padel Sense,
+Hola,
 
-Vi que estáis en Alcorcón — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Cde Padel Sense (Alcorcón) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -373,13 +409,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Club Deportivo Parque De Lisboa,
+Hola,
 
-Vi que estáis en Alcorcón — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Club Deportivo Parque De Lisboa (Alcorcón) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -393,13 +431,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Mmpadel,
+Hola,
 
-Vi que estáis en Algete — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Mmpadel (Algete) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -413,13 +453,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Padel Sport Home,
+Hola,
 
-Vi que estáis en Algete — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Padel Sport Home (Algete) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -433,13 +475,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de C.d.e Pádel Club Arganda,
+Hola,
 
-Vi que estáis en Arganda Del Rey — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En C.d.e Pádel Club Arganda (Arganda Del Rey) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -453,13 +497,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Cdb Padel G24,
+Hola,
 
-Vi que estáis en Arroyomolinos — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Cdb Padel G24 (Arroyomolinos) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -473,13 +519,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Sport Club G.p,
+Hola,
 
-Vi que estáis en Arroyomolinos — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Sport Club G.p (Arroyomolinos) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -493,13 +541,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de P&t Duramonte Padel Tenis Becerril,
+Hola,
 
-Vi que estáis en Becerril De La Sierra — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En P&t Duramonte Padel Tenis Becerril (Becerril De La Sierra) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -513,13 +563,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Atp Republic Space,
+Hola,
 
-Vi que estáis en Boadilla Del Monte — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Atp Republic Space (Boadilla Del Monte) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -533,13 +585,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Cde Onlypadel,
+Hola,
 
-Vi que estáis en Boadilla Del Monte — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Cde Onlypadel (Boadilla Del Monte) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -553,13 +607,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Cde Aupa,
+Hola,
 
-Vi que estáis en Boadilla Del Monte — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Cde Aupa (Boadilla Del Monte) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -573,13 +629,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Cde Taylor Padel,
+Hola,
 
-Vi que estáis en Boadilla Del Monte — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Cde Taylor Padel (Boadilla Del Monte) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -593,13 +651,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Club Las Encinas De Boadilla,
+Hola,
 
-Vi que estáis en Boadilla Del Monte — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Club Las Encinas De Boadilla (Boadilla Del Monte) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -613,13 +673,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Gon Padel,
+Hola,
 
-Vi que estáis en Boadilla Del Monte — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Gon Padel (Boadilla Del Monte) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -633,13 +695,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Brunete Sport Club,
+Hola,
 
-Vi que estáis en Brunete — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Brunete Sport Club (Brunete) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -653,13 +717,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Club + Qpadel Paracas,
+Hola,
 
-Vi que estáis en Calle Maria Moliner 10, 3º Centro — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Club + Qpadel Paracas (Calle Maria Moliner 10, 3º Centro) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -673,13 +739,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Padel Indoor Cerceda (Pic),
+Hola,
 
-Vi que estáis en Cerceda — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Padel Indoor Cerceda (Pic) (Cerceda) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -693,13 +761,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Palas Ocio Padel Club,
+Hola,
 
-Vi que estáis en Cerceda — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Palas Ocio Padel Club (Cerceda) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -713,13 +783,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Mv Padel Cercedilla,
+Hola,
 
-Vi que estáis en Cercedilla — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Mv Padel Cercedilla (Cercedilla) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -733,13 +805,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Pyt Villalba,
+Hola,
 
-Vi que estáis en Collado Villalba — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Pyt Villalba (Collado Villalba) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -753,13 +827,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Cde Punto De Oro,
+Hola,
 
-Vi que estáis en Colmenar Viejo — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Cde Punto De Oro (Colmenar Viejo) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -773,13 +849,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de El Cuarto Set,
+Hola,
 
-Vi que estáis en Colmenar Viejo — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En El Cuarto Set (Colmenar Viejo) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -793,13 +871,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Platinium Padel,
+Hola,
 
-Vi que estáis en Colmenar Viejo — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Platinium Padel (Colmenar Viejo) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -813,13 +893,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Pádel De Precisión,
+Hola,
 
-Vi que estáis en Colmenarejo — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Pádel De Precisión (Colmenarejo) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -833,13 +915,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Cd. Tenis Y Padel Coslada,
+Hola,
 
-Vi que estáis en Coslada — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Cd. Tenis Y Padel Coslada (Coslada) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -853,13 +937,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Urban Padel Club,
+Hola,
 
-Vi que estáis en Coslada — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Urban Padel Club (Coslada) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -873,13 +959,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Cde Padel G2,
+Hola,
 
-Vi que estáis en Daganzo De Arriba — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Cde Padel G2 (Daganzo De Arriba) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -893,13 +981,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Sac.p.f. Pádel Y Pickleball De Fuenlabrada,
+Hola,
 
-Vi que estáis en Fuenlabrada — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Sac.p.f. Pádel Y Pickleball De Fuenlabrada (Fuenlabrada) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -913,13 +1003,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Get Indoor Padel,
+Hola,
 
-Vi que estáis en Getafe — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Get Indoor Padel (Getafe) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -933,13 +1025,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Mg Indoor Padel Club,
+Hola,
 
-Vi que estáis en Getafe — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Mg Indoor Padel Club (Getafe) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -953,13 +1047,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Padel Sport Indoor Getafe,
+Hola,
 
-Vi que estáis en Getafe — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Padel Sport Indoor Getafe (Getafe) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -973,13 +1069,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Conpas Padel Academy,
+Hola,
 
-Vi que estáis en Guadarrama — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Conpas Padel Academy (Guadarrama) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -993,13 +1091,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de La Nave Padelcenter,
+Hola,
 
-Vi que estáis en Guadarrama — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En La Nave Padelcenter (Guadarrama) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -1013,13 +1113,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Cde Academicos Del Padel Hoyo De Manzanares,
+Hola,
 
-Vi que estáis en Hoyo De Manzanares — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Cde Academicos Del Padel Hoyo De Manzanares (Hoyo De Manzanares) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -1033,13 +1135,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Nx3 Padelindoor,
+Hola,
 
-Vi que estáis en Humanes — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Nx3 Padelindoor (Humanes) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -1053,13 +1157,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Club De Tenis La Moraleja,
+Hola,
 
-Vi que estáis en La Moraleja — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Club De Tenis La Moraleja (La Moraleja) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -1073,13 +1179,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Club Monte Rozas,
+Hola,
 
-Vi que estáis en Las Rozas — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Club Monte Rozas (Las Rozas) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -1093,13 +1201,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Duin Sports Las Rozas,
+Hola,
 
-Vi que estáis en Las Rozas — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Duin Sports Las Rozas (Las Rozas) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -1113,13 +1223,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Maspadel,
+Hola,
 
-Vi que estáis en Las Rozas — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Maspadel (Las Rozas) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -1133,13 +1245,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Las Rozas Padel Center,
+Hola,
 
-Vi que estáis en Las Rozas De Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Las Rozas Padel Center (Las Rozas De Madrid) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -1153,13 +1267,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Single Love Padel Team,
+Hola,
 
-Vi que estáis en Las Rozas De Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Single Love Padel Team (Las Rozas De Madrid) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -1173,13 +1289,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de 4 Ever 1,
+Hola,
 
-Vi que estáis en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En 4 Ever 1 (Madrid) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -1193,13 +1311,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Ad Sporting De Hortaleza,
+Hola,
 
-Vi que estáis en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Ad Sporting De Hortaleza (Madrid) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -1213,13 +1333,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de C.d. 2 +,
+Hola,
 
-Vi que estáis en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En C.d. 2 + (Madrid) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -1233,13 +1355,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de C.d. Elemental Tres-olivos Montecarmelo,
+Hola,
 
-Vi que estáis en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En C.d. Elemental Tres-olivos Montecarmelo (Madrid) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -1253,13 +1377,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de C.d.e. Sisukas,
+Hola,
 
-Vi que estáis en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En C.d.e. Sisukas (Madrid) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -1273,13 +1399,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Cde Argaña,
+Hola,
 
-Vi que estáis en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Cde Argaña (Madrid) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -1293,13 +1421,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Cde Avanti,
+Hola,
 
-Vi que estáis en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Cde Avanti (Madrid) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -1313,13 +1443,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Cde Cuatro Raquetas Aravaca,
+Hola,
 
-Vi que estáis en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Cde Cuatro Raquetas Aravaca (Madrid) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -1333,13 +1465,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Cde Denebulosas Padel,
+Hola,
 
-Vi que estáis en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Cde Denebulosas Padel (Madrid) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -1353,13 +1487,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Cde Equipo Moraleja,
+Hola,
 
-Vi que estáis en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Cde Equipo Moraleja (Madrid) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -1373,13 +1509,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Cde M3 Sport,
+Hola,
 
-Vi que estáis en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Cde M3 Sport (Madrid) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -1393,13 +1531,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Cde Ubeat,
+Hola,
 
-Vi que estáis en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Cde Ubeat (Madrid) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -1413,13 +1553,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Cde X3 Padel,
+Hola,
 
-Vi que estáis en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Cde X3 Padel (Madrid) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -1433,13 +1575,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Chamartin F.c.,
+Hola,
 
-Vi que estáis en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Chamartin F.c. (Madrid) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -1453,13 +1597,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Ciudad De La Raqueta,
+Hola,
 
-Vi que estáis en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Ciudad De La Raqueta (Madrid) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -1473,13 +1619,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Club Alameda,
+Hola,
 
-Vi que estáis en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Club Alameda (Madrid) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -1493,13 +1641,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Club De Padel Y Tenis Fuencarral,
+Hola,
 
-Vi que estáis en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Club De Padel Y Tenis Fuencarral (Madrid) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -1513,13 +1663,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Club De Tenis Chamartin,
+Hola,
 
-Vi que estáis en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Club De Tenis Chamartin (Madrid) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -1533,13 +1685,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Club Deportivo Brezo Osuna,
+Hola,
 
-Vi que estáis en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Club Deportivo Brezo Osuna (Madrid) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -1553,13 +1707,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Club Deportivo El Valle,
+Hola,
 
-Vi que estáis en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Club Deportivo El Valle (Madrid) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -1573,13 +1729,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Club Deportivo Somontes,
+Hola,
 
-Vi que estáis en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Club Deportivo Somontes (Madrid) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -1593,13 +1751,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Club Mirasierra Asociacion Civil,
+Hola,
 
-Vi que estáis en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Club Mirasierra Asociacion Civil (Madrid) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -1613,13 +1773,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Crvz & Pdl,
+Hola,
 
-Vi que estáis en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Crvz & Pdl (Madrid) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -1633,13 +1795,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de David Lloyd Aravaca,
+Hola,
 
-Vi que estáis en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En David Lloyd Aravaca (Madrid) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -1653,13 +1817,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Föch Club,
+Hola,
 
-Vi que estáis en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Föch Club (Madrid) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -1673,13 +1839,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Frikis Legends,
+Hola,
 
-Vi que estáis en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Frikis Legends (Madrid) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -1693,13 +1861,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de La Masó Sport Club,
+Hola,
 
-Vi que estáis en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En La Masó Sport Club (Madrid) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -1713,13 +1883,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de La Union Padel Club,
+Hola,
 
-Vi que estáis en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En La Union Padel Club (Madrid) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -1733,13 +1905,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Madrid Central Padel,
+Hola,
 
-Vi que estáis en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Madrid Central Padel (Madrid) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -1753,13 +1927,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Makingpadel,
+Hola,
 
-Vi que estáis en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Makingpadel (Madrid) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -1773,13 +1949,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Padel Lord,
+Hola,
 
-Vi que estáis en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Padel Lord (Madrid) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -1793,13 +1971,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Padel Ociogim,
+Hola,
 
-Vi que estáis en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Padel Ociogim (Madrid) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -1813,13 +1993,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Padel Y Tenis Olivar De La Hinojosa,
+Hola,
 
-Vi que estáis en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Padel Y Tenis Olivar De La Hinojosa (Madrid) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -1833,13 +2015,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Padelspirit Club,
+Hola,
 
-Vi que estáis en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Padelspirit Club (Madrid) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -1853,13 +2037,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Real Club De Campo Villa De Madrid,
+Hola,
 
-Vi que estáis en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Real Club De Campo Villa De Madrid (Madrid) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -1873,13 +2059,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Real Club De La Puerta De Hierro,
+Hola,
 
-Vi que estáis en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Real Club De La Puerta De Hierro (Madrid) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -1893,13 +2081,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de San Jose Del Parque,
+Hola,
 
-Vi que estáis en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En San Jose Del Parque (Madrid) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -1913,13 +2103,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Scet El Tiro,
+Hola,
 
-Vi que estáis en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Scet El Tiro (Madrid) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -1933,13 +2125,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de School Padel Center,
+Hola,
 
-Vi que estáis en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En School Padel Center (Madrid) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -1953,13 +2147,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Club Escuela De Tenis Majadahonda,
+Hola,
 
-Vi que estáis en Majadahonda — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Club Escuela De Tenis Majadahonda (Majadahonda) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -1973,13 +2169,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Club Internacional De Tenis,
+Hola,
 
-Vi que estáis en Majadahonda — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Club Internacional De Tenis (Majadahonda) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -1993,13 +2191,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Nw Padel,
+Hola,
 
-Vi que estáis en Majadahonda — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Nw Padel (Majadahonda) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -2013,13 +2213,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de R3 Mejorada Padel,
+Hola,
 
-Vi que estáis en Mejorada Del Campo — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En R3 Mejorada Padel (Mejorada Del Campo) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -2033,13 +2235,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Cde Monteclaro,
+Hola,
 
-Vi que estáis en Mjadahonda — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Cde Monteclaro (Mjadahonda) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -2053,13 +2257,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de A5 Padel,
+Hola,
 
-Vi que estáis en Mostoles — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En A5 Padel (Mostoles) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -2073,13 +2279,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Coimbra Padel,
+Hola,
 
-Vi que estáis en Mostoles — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Coimbra Padel (Mostoles) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -2093,13 +2301,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Novopadel,
+Hola,
 
-Vi que estáis en Mostoles — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Novopadel (Mostoles) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -2113,13 +2323,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Padel 2.0,
+Hola,
 
-Vi que estáis en Mostoles — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Padel 2.0 (Mostoles) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -2133,13 +2345,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Cde Princesa,
+Hola,
 
-Vi que estáis en Móstoles — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Cde Princesa (Móstoles) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -2153,13 +2367,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Volea Pádel Indoor,
+Hola,
 
-Vi que estáis en Navalcarnero — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Volea Pádel Indoor (Navalcarnero) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -2173,13 +2389,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Miramadrid Padel Club,
+Hola,
 
-Vi que estáis en Paracuellos Del Jarama — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Miramadrid Padel Club (Paracuellos Del Jarama) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -2193,13 +2411,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Pintopadel Club Deportivo Los Angeles,
+Hola,
 
-Vi que estáis en Pinto — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Pintopadel Club Deportivo Los Angeles (Pinto) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -2213,13 +2433,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Sompadel,
+Hola,
 
-Vi que estáis en Polideportivo Municipal Rio Perales — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Sompadel (Polideportivo Municipal Rio Perales) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -2233,13 +2455,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Club Padel Pozuelo,
+Hola,
 
-Vi que estáis en Pozuelo De Alarcon — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Club Padel Pozuelo (Pozuelo De Alarcon) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -2253,13 +2477,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de David Lloyd La Finca,
+Hola,
 
-Vi que estáis en Pozuelo De Alarcon — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En David Lloyd La Finca (Pozuelo De Alarcon) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -2273,13 +2499,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Padel Winner,
+Hola,
 
-Vi que estáis en Pozuelo De Alarcon — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Padel Winner (Pozuelo De Alarcon) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -2293,13 +2521,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Pozuelo Padel Club,
+Hola,
 
-Vi que estáis en Pozuelo De Alarcon — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Pozuelo Padel Club (Pozuelo De Alarcon) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -2313,13 +2543,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Somosaguas Padel Club,
+Hola,
 
-Vi que estáis en Pozuelo De Alarcon — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Somosaguas Padel Club (Pozuelo De Alarcon) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -2333,13 +2565,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Club De Pádel Bularas,
+Hola,
 
-Vi que estáis en Pozuelo De Alarcón — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Club De Pádel Bularas (Pozuelo De Alarcón) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -2353,13 +2587,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Mad4padel,
+Hola,
 
-Vi que estáis en Pozuelo De Alarcón — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Mad4padel (Pozuelo De Alarcón) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -2373,13 +2609,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Pirikikis Padel,
+Hola,
 
-Vi que estáis en Pozuelo De Alarcón — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Pirikikis Padel (Pozuelo De Alarcón) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -2393,13 +2631,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Indoor Padel Training,
+Hola,
 
-Vi que estáis en Rivas Vaciamadrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Indoor Padel Training (Rivas Vaciamadrid) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -2413,13 +2653,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Rivapadel Sport Club,
+Hola,
 
-Vi que estáis en Rivas Vaciamadrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Rivapadel Sport Club (Rivas Vaciamadrid) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -2433,13 +2675,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Blue Padel Rivas,
+Hola,
 
-Vi que estáis en Rivas-vaciamadrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Blue Padel Rivas (Rivas-vaciamadrid) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -2453,13 +2697,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Club R.a.c.e.,
+Hola,
 
-Vi que estáis en S. S. Reyes — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Club R.a.c.e. (S. S. Reyes) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -2473,13 +2719,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Espacio Herreria Padel,
+Hola,
 
-Vi que estáis en S.lorenzo Del Escorial — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Espacio Herreria Padel (S.lorenzo Del Escorial) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -2493,13 +2741,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Club De Tenis Y Padel San Sebastian De Los Reyes,
+Hola,
 
-Vi que estáis en S.s. Reyes — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Club De Tenis Y Padel San Sebastian De Los Reyes (S.s. Reyes) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -2513,13 +2763,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Club Deportivo Elemental 11,
+Hola,
 
-Vi que estáis en S.s. Reyes — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Club Deportivo Elemental 11 (S.s. Reyes) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -2533,13 +2785,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Padel Sport Lab,
+Hola,
 
-Vi que estáis en San Sebastian De Los Reyes — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Padel Sport Lab (San Sebastian De Los Reyes) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -2553,13 +2807,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Babel,
+Hola,
 
-Vi que estáis en San Sebastián De Los Reyes — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Babel (San Sebastián De Los Reyes) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -2573,13 +2829,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Cd Jarama,
+Hola,
 
-Vi que estáis en San Sebastián De Los Reyes — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Cd Jarama (San Sebastián De Los Reyes) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -2593,13 +2851,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Norte Sport Club,
+Hola,
 
-Vi que estáis en San Sebastián De Los Reyes — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Norte Sport Club (San Sebastián De Los Reyes) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -2613,13 +2873,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Club Padel Soto Torrejon,
+Hola,
 
-Vi que estáis en Torrejon De Ardoz — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Club Padel Soto Torrejon (Torrejon De Ardoz) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -2633,13 +2895,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Padel People Torrelodones,
+Hola,
 
-Vi que estáis en Torrelodones — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Padel People Torrelodones (Torrelodones) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -2653,13 +2917,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Padel Sport Center Tres Cantos,
+Hola,
 
-Vi que estáis en Tres Cantos — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Padel Sport Center Tres Cantos (Tres Cantos) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -2673,13 +2939,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Padel Team 3c,
+Hola,
 
-Vi que estáis en Tres Cantos — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Padel Team 3c (Tres Cantos) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -2693,13 +2961,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Padel Tricantino,
+Hola,
 
-Vi que estáis en Tres Cantos — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Padel Tricantino (Tres Cantos) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -2713,13 +2983,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Vip Padel,
+Hola,
 
-Vi que estáis en Valdemorillo — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Vip Padel (Valdemorillo) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -2733,13 +3005,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Club De Padel Family,
+Hola,
 
-Vi que estáis en Valdemoro — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Club De Padel Family (Valdemoro) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -2753,13 +3027,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Padel Indoor Rio,
+Hola,
 
-Vi que estáis en Velilla De San Antonio — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Padel Indoor Rio (Velilla De San Antonio) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -2773,13 +3049,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Cdb Club De Padel Y Tenis Villa Del Prado,
+Hola,
 
-Vi que estáis en Villa Del Prado — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Cdb Club De Padel Y Tenis Villa Del Prado (Villa Del Prado) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -2793,13 +3071,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Indoor Enjoy&padel,
+Hola,
 
-Vi que estáis en Villalbilla — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Indoor Enjoy&padel (Villalbilla) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -2813,13 +3093,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Tac Tec Padel Villalbilla,
+Hola,
 
-Vi que estáis en Villalbilla — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Tac Tec Padel Villalbilla (Villalbilla) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -2833,13 +3115,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Cd Sek,
+Hola,
 
-Vi que estáis en Villanueva De La Cañada — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Cd Sek (Villanueva De La Cañada) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```
@@ -2853,13 +3137,15 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola equipo de Club Villa Padel,
+Hola,
 
-Vi que estáis en Villaviciosa De Odon — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 
-Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+En Club Villa Padel (Villaviciosa De Odon) imagino que no sois una excepción.
 
-¿Te interesa que te cuente cómo funciona en dos minutos?
+Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+
+¿Te interesa que te lo enseñe en dos minutos?
 
 www.epadelschool.com
 ```

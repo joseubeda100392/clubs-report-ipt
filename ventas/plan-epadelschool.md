@@ -56,15 +56,19 @@ Variables: `{{club}}`, `{{localidad}}`
 **Touch 1 — Día 0**
 Asunto: `bolsa de horas`
 
-> Hola equipo de {{club}},
+> Hola,
 >
-> Vi que estáis en {{localidad}} — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+> La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
 >
-> Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
+> En {{club}} ({{localidad}}) imagino que no sois una excepción.
 >
-> ¿Te interesa que te cuente cómo funciona en dos minutos?
+> Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+>
+> ¿Te interesa que te lo enseñe en dos minutos?
 >
 > www.epadelschool.com
+
+*(Cambio de enfoque: se abre con un dato de industria, no con "vi que estáis en X" — ese patrón de apertura es justo el que delata automatización masiva, según la propia skill `cold-email`.)*
 
 ---
 
