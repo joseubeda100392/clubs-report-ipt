@@ -13,9 +13,9 @@ Copia el bloque completo (Para / Asunto / Cuerpo) y pégalo en el webmail. Marca
 **Asunto:** bolsa de horas
 
 ```
-Hola Marta,
+Hola equipo de Cde Net Sports,
 
-Vi que eres presidente/a de Cde Net Sports en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -33,9 +33,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Jose,
+Hola equipo de Club Ocapa,
 
-Vi que eres presidente/a de Club Ocapa en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -53,9 +53,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Ramon,
+Hola equipo de Club R.e.p.,
 
-Vi que eres presidente/a de Club R.e.p. en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -73,9 +73,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Victor,
+Hola equipo de Padel University,
 
-Vi que eres presidente/a de Padel University en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -93,9 +93,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Alvaro,
+Hola equipo de Set Point Padel Indoor,
 
-Vi que eres presidente/a de Set Point Padel Indoor en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -113,9 +113,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Julio,
+Hola equipo de Snobissimo Padel,
 
-Vi que eres presidente/a de Snobissimo Padel en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -133,9 +133,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Jorge,
+Hola equipo de Escuela De Tenis Alcala,
 
-Vi que eres presidente/a de Escuela De Tenis Alcala en Alcala De Henares — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Alcala De Henares — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -153,9 +153,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Alberto,
+Hola equipo de Cde Pala Y Raqueta Alcalá,
 
-Vi que eres presidente/a de Cde Pala Y Raqueta Alcalá en Alcalá De Henares — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Alcalá De Henares — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -173,9 +173,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Oscar,
+Hola equipo de Club Padel Indoor Alcala,
 
-Vi que eres presidente/a de Club Padel Indoor Alcala en Alcalá De Henares — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Alcalá De Henares — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -193,9 +193,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Manuel,
+Hola equipo de Club De Golf La Moraleja,
 
-Vi que eres presidente/a de Club De Golf La Moraleja en Alcobendas — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Alcobendas — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -213,9 +213,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Cristina,
+Hola equipo de Club De Padel La Moraleja,
 
-Vi que eres presidente/a de Club De Padel La Moraleja en Alcobendas — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Alcobendas — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -233,9 +233,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Juan,
+Hola equipo de Club El Estudiante,
 
-Vi que eres presidente/a de Club El Estudiante en Alcobendas — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Alcobendas — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -253,9 +253,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Ignacio,
+Hola equipo de Club Elemental Match Ball,
 
-Vi que eres presidente/a de Club Elemental Match Ball en Alcobendas — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Alcobendas — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -273,9 +273,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Eduardo,
+Hola equipo de Ladeveze,
 
-Vi que eres presidente/a de Ladeveze en Alcobendas — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Alcobendas — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -293,9 +293,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Raul,
+Hola equipo de Padel Hangar Alcobendas,
 
-Vi que eres presidente/a de Padel Hangar Alcobendas en Alcobendas — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Alcobendas — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -313,9 +313,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Gervasio,
+Hola equipo de Club Deportivo Alkor-villalkor,
 
-Vi que eres presidente/a de Club Deportivo Alkor-villalkor en Alcorcon — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Alcorcon — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -333,9 +333,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Francisco,
+Hola equipo de Ondapadel,
 
-Vi que eres presidente/a de Ondapadel en Alcorcon — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Alcorcon — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -353,9 +353,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Joaquin,
+Hola equipo de Cde Padel Sense,
 
-Vi que eres presidente/a de Cde Padel Sense en Alcorcón — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Alcorcón — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -373,9 +373,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Luis,
+Hola equipo de Club Deportivo Parque De Lisboa,
 
-Vi que eres presidente/a de Club Deportivo Parque De Lisboa en Alcorcón — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Alcorcón — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -393,9 +393,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Enrique,
+Hola equipo de Mmpadel,
 
-Vi que eres presidente/a de Mmpadel en Algete — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Algete — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -413,9 +413,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Jose,
+Hola equipo de Padel Sport Home,
 
-Vi que eres presidente/a de Padel Sport Home en Algete — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Algete — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -433,9 +433,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Fco.,
+Hola equipo de C.d.e Pádel Club Arganda,
 
-Vi que eres presidente/a de C.d.e Pádel Club Arganda en Arganda Del Rey — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Arganda Del Rey — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -453,9 +453,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Ezequiel,
+Hola equipo de Cdb Padel G24,
 
-Vi que eres presidente/a de Cdb Padel G24 en Arroyomolinos — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Arroyomolinos — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -473,9 +473,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Jose,
+Hola equipo de Sport Club G.p,
 
-Vi que eres presidente/a de Sport Club G.p en Arroyomolinos — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Arroyomolinos — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -493,9 +493,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Ruben,
+Hola equipo de P&t Duramonte Padel Tenis Becerril,
 
-Vi que eres presidente/a de P&t Duramonte Padel Tenis Becerril en Becerril De La Sierra — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Becerril De La Sierra — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -513,9 +513,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Eduardo,
+Hola equipo de Atp Republic Space,
 
-Vi que eres presidente/a de Atp Republic Space en Boadilla Del Monte — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Boadilla Del Monte — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -533,9 +533,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Jose,
+Hola equipo de Cde Onlypadel,
 
-Vi que eres presidente/a de Cde Onlypadel en Boadilla Del Monte — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Boadilla Del Monte — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -553,9 +553,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Jose,
+Hola equipo de Cde Aupa,
 
-Vi que eres presidente/a de Cde Aupa en Boadilla Del Monte — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Boadilla Del Monte — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -573,9 +573,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Manuel,
+Hola equipo de Cde Taylor Padel,
 
-Vi que eres presidente/a de Cde Taylor Padel en Boadilla Del Monte — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Boadilla Del Monte — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -593,9 +593,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Alejandro,
+Hola equipo de Club Las Encinas De Boadilla,
 
-Vi que eres presidente/a de Club Las Encinas De Boadilla en Boadilla Del Monte — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Boadilla Del Monte — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -613,9 +613,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Gonzalo,
+Hola equipo de Gon Padel,
 
-Vi que eres presidente/a de Gon Padel en Boadilla Del Monte — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Boadilla Del Monte — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -633,9 +633,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Sergio,
+Hola equipo de Brunete Sport Club,
 
-Vi que eres presidente/a de Brunete Sport Club en Brunete — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Brunete — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -653,9 +653,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Francisco,
+Hola equipo de Club + Qpadel Paracas,
 
-Vi que eres presidente/a de Club + Qpadel Paracas en Calle Maria Moliner 10, 3º Centro — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Calle Maria Moliner 10, 3º Centro — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -673,9 +673,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Pablo,
+Hola equipo de Padel Indoor Cerceda (Pic),
 
-Vi que eres presidente/a de Padel Indoor Cerceda (Pic) en Cerceda — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Cerceda — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -693,9 +693,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Ignacio,
+Hola equipo de Palas Ocio Padel Club,
 
-Vi que eres presidente/a de Palas Ocio Padel Club en Cerceda — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Cerceda — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -713,9 +713,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Dani,
+Hola equipo de Mv Padel Cercedilla,
 
-Vi que eres presidente/a de Mv Padel Cercedilla en Cercedilla — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Cercedilla — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -733,9 +733,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Manuel,
+Hola equipo de Pyt Villalba,
 
-Vi que eres presidente/a de Pyt Villalba en Collado Villalba — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Collado Villalba — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -753,9 +753,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Mar,
+Hola equipo de Cde Punto De Oro,
 
-Vi que eres presidente/a de Cde Punto De Oro en Colmenar Viejo — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Colmenar Viejo — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -773,9 +773,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Elena,
+Hola equipo de El Cuarto Set,
 
-Vi que eres presidente/a de El Cuarto Set en Colmenar Viejo — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Colmenar Viejo — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -793,9 +793,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Paulino,
+Hola equipo de Platinium Padel,
 
-Vi que eres presidente/a de Platinium Padel en Colmenar Viejo — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Colmenar Viejo — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -813,9 +813,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Manuel,
+Hola equipo de Pádel De Precisión,
 
-Vi que eres presidente/a de Pádel De Precisión en Colmenarejo — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Colmenarejo — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -833,9 +833,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Antonio,
+Hola equipo de Cd. Tenis Y Padel Coslada,
 
-Vi que eres presidente/a de Cd. Tenis Y Padel Coslada en Coslada — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Coslada — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -853,9 +853,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Pedro,
+Hola equipo de Urban Padel Club,
 
-Vi que eres presidente/a de Urban Padel Club en Coslada — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Coslada — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -873,9 +873,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Adrian,
+Hola equipo de Cde Padel G2,
 
-Vi que eres presidente/a de Cde Padel G2 en Daganzo De Arriba — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Daganzo De Arriba — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -893,9 +893,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Emilio,
+Hola equipo de Sac.p.f. Pádel Y Pickleball De Fuenlabrada,
 
-Vi que eres presidente/a de Sac.p.f. Pádel Y Pickleball De Fuenlabrada en Fuenlabrada — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Fuenlabrada — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -913,9 +913,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Rubén,
+Hola equipo de Get Indoor Padel,
 
-Vi que eres presidente/a de Get Indoor Padel en Getafe — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Getafe — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -933,9 +933,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Arturo,
+Hola equipo de Mg Indoor Padel Club,
 
-Vi que eres presidente/a de Mg Indoor Padel Club en Getafe — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Getafe — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -953,9 +953,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Juan,
+Hola equipo de Padel Sport Indoor Getafe,
 
-Vi que eres presidente/a de Padel Sport Indoor Getafe en Getafe — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Getafe — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -973,9 +973,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Javier,
+Hola equipo de Conpas Padel Academy,
 
-Vi que eres presidente/a de Conpas Padel Academy en Guadarrama — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Guadarrama — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -993,9 +993,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Rodrigo,
+Hola equipo de La Nave Padelcenter,
 
-Vi que eres presidente/a de La Nave Padelcenter en Guadarrama — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Guadarrama — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -1013,9 +1013,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola David,
+Hola equipo de Cde Academicos Del Padel Hoyo De Manzanares,
 
-Vi que eres presidente/a de Cde Academicos Del Padel Hoyo De Manzanares en Hoyo De Manzanares — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Hoyo De Manzanares — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -1033,9 +1033,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Paola,
+Hola equipo de Nx3 Padelindoor,
 
-Vi que eres presidente/a de Nx3 Padelindoor en Humanes — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Humanes — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -1053,9 +1053,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Ralpf,
+Hola equipo de Club De Tenis La Moraleja,
 
-Vi que eres presidente/a de Club De Tenis La Moraleja en La Moraleja — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en La Moraleja — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -1073,9 +1073,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Ruben,
+Hola equipo de Club Monte Rozas,
 
-Vi que eres presidente/a de Club Monte Rozas en Las Rozas — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Las Rozas — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -1093,9 +1093,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola ÁNgel,
+Hola equipo de Duin Sports Las Rozas,
 
-Vi que eres presidente/a de Duin Sports Las Rozas en Las Rozas — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Las Rozas — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -1113,9 +1113,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Alejandro,
+Hola equipo de Maspadel,
 
-Vi que eres presidente/a de Maspadel en Las Rozas — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Las Rozas — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -1133,9 +1133,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Oscar,
+Hola equipo de Las Rozas Padel Center,
 
-Vi que eres presidente/a de Las Rozas Padel Center en Las Rozas De Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Las Rozas De Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -1153,9 +1153,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Raul,
+Hola equipo de Single Love Padel Team,
 
-Vi que eres presidente/a de Single Love Padel Team en Las Rozas De Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Las Rozas De Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -1173,9 +1173,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Maria,
+Hola equipo de 4 Ever 1,
 
-Vi que eres presidente/a de 4 Ever 1 en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -1193,9 +1193,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Miguel,
+Hola equipo de Ad Sporting De Hortaleza,
 
-Vi que eres presidente/a de Ad Sporting De Hortaleza en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -1213,9 +1213,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Pedro,
+Hola equipo de C.d. 2 +,
 
-Vi que eres presidente/a de C.d. 2 + en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -1233,9 +1233,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Alberto,
+Hola equipo de C.d. Elemental Tres-olivos Montecarmelo,
 
-Vi que eres presidente/a de C.d. Elemental Tres-olivos Montecarmelo en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -1253,9 +1253,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Ana,
+Hola equipo de C.d.e. Sisukas,
 
-Vi que eres presidente/a de C.d.e. Sisukas en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -1273,9 +1273,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Isabel,
+Hola equipo de Cde Argaña,
 
-Vi que eres presidente/a de Cde Argaña en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -1293,9 +1293,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Alejandro,
+Hola equipo de Cde Avanti,
 
-Vi que eres presidente/a de Cde Avanti en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -1313,9 +1313,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Angelica,
+Hola equipo de Cde Cuatro Raquetas Aravaca,
 
-Vi que eres presidente/a de Cde Cuatro Raquetas Aravaca en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -1333,9 +1333,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Jose,
+Hola equipo de Cde Denebulosas Padel,
 
-Vi que eres presidente/a de Cde Denebulosas Padel en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -1353,9 +1353,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Teresa,
+Hola equipo de Cde Equipo Moraleja,
 
-Vi que eres presidente/a de Cde Equipo Moraleja en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -1373,9 +1373,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Paco,
+Hola equipo de Cde M3 Sport,
 
-Vi que eres presidente/a de Cde M3 Sport en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -1393,9 +1393,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Francisco,
+Hola equipo de Cde Ubeat,
 
-Vi que eres presidente/a de Cde Ubeat en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -1413,9 +1413,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Ana,
+Hola equipo de Cde X3 Padel,
 
-Vi que eres presidente/a de Cde X3 Padel en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -1433,9 +1433,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Ricardo,
+Hola equipo de Chamartin F.c.,
 
-Vi que eres presidente/a de Chamartin F.c. en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -1453,9 +1453,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Javier,
+Hola equipo de Ciudad De La Raqueta,
 
-Vi que eres presidente/a de Ciudad De La Raqueta en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -1473,9 +1473,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Jose,
+Hola equipo de Club Alameda,
 
-Vi que eres presidente/a de Club Alameda en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -1493,9 +1493,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Rosa,
+Hola equipo de Club De Padel Y Tenis Fuencarral,
 
-Vi que eres presidente/a de Club De Padel Y Tenis Fuencarral en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -1513,9 +1513,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Nicolás,
+Hola equipo de Club De Tenis Chamartin,
 
-Vi que eres presidente/a de Club De Tenis Chamartin en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -1533,9 +1533,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Juan,
+Hola equipo de Club Deportivo Brezo Osuna,
 
-Vi que eres presidente/a de Club Deportivo Brezo Osuna en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -1553,9 +1553,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Javier,
+Hola equipo de Club Deportivo El Valle,
 
-Vi que eres presidente/a de Club Deportivo El Valle en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -1573,9 +1573,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Manuel,
+Hola equipo de Club Deportivo Somontes,
 
-Vi que eres presidente/a de Club Deportivo Somontes en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -1593,9 +1593,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Miguel,
+Hola equipo de Club Mirasierra Asociacion Civil,
 
-Vi que eres presidente/a de Club Mirasierra Asociacion Civil en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -1613,9 +1613,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Christian,
+Hola equipo de Crvz & Pdl,
 
-Vi que eres presidente/a de Crvz & Pdl en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -1633,9 +1633,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Juan,
+Hola equipo de David Lloyd Aravaca,
 
-Vi que eres presidente/a de David Lloyd Aravaca en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -1653,9 +1653,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Enrique,
+Hola equipo de Föch Club,
 
-Vi que eres presidente/a de Föch Club en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -1673,9 +1673,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Pedro,
+Hola equipo de Frikis Legends,
 
-Vi que eres presidente/a de Frikis Legends en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -1693,9 +1693,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Adriana,
+Hola equipo de La Masó Sport Club,
 
-Vi que eres presidente/a de La Masó Sport Club en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -1713,9 +1713,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Jose,
+Hola equipo de La Union Padel Club,
 
-Vi que eres presidente/a de La Union Padel Club en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -1733,9 +1733,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Jorge,
+Hola equipo de Madrid Central Padel,
 
-Vi que eres presidente/a de Madrid Central Padel en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -1753,9 +1753,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Jorge,
+Hola equipo de Makingpadel,
 
-Vi que eres presidente/a de Makingpadel en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -1773,9 +1773,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Isabel,
+Hola equipo de Padel Lord,
 
-Vi que eres presidente/a de Padel Lord en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -1793,9 +1793,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Ubaldo,
+Hola equipo de Padel Ociogim,
 
-Vi que eres presidente/a de Padel Ociogim en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -1813,9 +1813,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Carlos,
+Hola equipo de Padel Y Tenis Olivar De La Hinojosa,
 
-Vi que eres presidente/a de Padel Y Tenis Olivar De La Hinojosa en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -1833,9 +1833,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Gerardo,
+Hola equipo de Padelspirit Club,
 
-Vi que eres presidente/a de Padelspirit Club en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -1853,9 +1853,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Ana,
+Hola equipo de Real Club De Campo Villa De Madrid,
 
-Vi que eres presidente/a de Real Club De Campo Villa De Madrid en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -1873,9 +1873,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Fernando,
+Hola equipo de Real Club De La Puerta De Hierro,
 
-Vi que eres presidente/a de Real Club De La Puerta De Hierro en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -1893,9 +1893,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Eduardo,
+Hola equipo de San Jose Del Parque,
 
-Vi que eres presidente/a de San Jose Del Parque en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -1913,9 +1913,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Alvaro,
+Hola equipo de Scet El Tiro,
 
-Vi que eres presidente/a de Scet El Tiro en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -1933,9 +1933,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Ricardo,
+Hola equipo de School Padel Center,
 
-Vi que eres presidente/a de School Padel Center en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Madrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -1953,9 +1953,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Crisanto,
+Hola equipo de Club Escuela De Tenis Majadahonda,
 
-Vi que eres presidente/a de Club Escuela De Tenis Majadahonda en Majadahonda — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Majadahonda — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -1973,9 +1973,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Segundo,
+Hola equipo de Club Internacional De Tenis,
 
-Vi que eres presidente/a de Club Internacional De Tenis en Majadahonda — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Majadahonda — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -1993,9 +1993,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola ÍñIgo,
+Hola equipo de Nw Padel,
 
-Vi que eres presidente/a de Nw Padel en Majadahonda — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Majadahonda — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -2013,9 +2013,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Daniel,
+Hola equipo de R3 Mejorada Padel,
 
-Vi que eres presidente/a de R3 Mejorada Padel en Mejorada Del Campo — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Mejorada Del Campo — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -2033,9 +2033,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Antonio,
+Hola equipo de Cde Monteclaro,
 
-Vi que eres presidente/a de Cde Monteclaro en Mjadahonda — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Mjadahonda — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -2053,9 +2053,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Lisandro,
+Hola equipo de A5 Padel,
 
-Vi que eres presidente/a de A5 Padel en Mostoles — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Mostoles — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -2073,9 +2073,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Juan,
+Hola equipo de Coimbra Padel,
 
-Vi que eres presidente/a de Coimbra Padel en Mostoles — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Mostoles — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -2093,9 +2093,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Francisco,
+Hola equipo de Novopadel,
 
-Vi que eres presidente/a de Novopadel en Mostoles — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Mostoles — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -2113,9 +2113,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Gonzalo,
+Hola equipo de Padel 2.0,
 
-Vi que eres presidente/a de Padel 2.0 en Mostoles — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Mostoles — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -2133,9 +2133,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Jonatan,
+Hola equipo de Cde Princesa,
 
-Vi que eres presidente/a de Cde Princesa en Móstoles — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Móstoles — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -2153,9 +2153,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Alberto,
+Hola equipo de Volea Pádel Indoor,
 
-Vi que eres presidente/a de Volea Pádel Indoor en Navalcarnero — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Navalcarnero — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -2173,9 +2173,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Reynaldo,
+Hola equipo de Miramadrid Padel Club,
 
-Vi que eres presidente/a de Miramadrid Padel Club en Paracuellos Del Jarama — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Paracuellos Del Jarama — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -2193,9 +2193,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Daniel,
+Hola equipo de Pintopadel Club Deportivo Los Angeles,
 
-Vi que eres presidente/a de Pintopadel Club Deportivo Los Angeles en Pinto — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Pinto — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -2213,9 +2213,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Victor,
+Hola equipo de Sompadel,
 
-Vi que eres presidente/a de Sompadel en Polideportivo Municipal Rio Perales — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Polideportivo Municipal Rio Perales — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -2233,9 +2233,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Jose,
+Hola equipo de Club Padel Pozuelo,
 
-Vi que eres presidente/a de Club Padel Pozuelo en Pozuelo De Alarcon — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Pozuelo De Alarcon — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -2253,9 +2253,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Joaquin,
+Hola equipo de David Lloyd La Finca,
 
-Vi que eres presidente/a de David Lloyd La Finca en Pozuelo De Alarcon — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Pozuelo De Alarcon — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -2273,9 +2273,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Eugenio,
+Hola equipo de Padel Winner,
 
-Vi que eres presidente/a de Padel Winner en Pozuelo De Alarcon — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Pozuelo De Alarcon — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -2293,9 +2293,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Javier,
+Hola equipo de Pozuelo Padel Club,
 
-Vi que eres presidente/a de Pozuelo Padel Club en Pozuelo De Alarcon — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Pozuelo De Alarcon — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -2313,9 +2313,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Marta,
+Hola equipo de Somosaguas Padel Club,
 
-Vi que eres presidente/a de Somosaguas Padel Club en Pozuelo De Alarcon — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Pozuelo De Alarcon — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -2333,9 +2333,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola José,
+Hola equipo de Club De Pádel Bularas,
 
-Vi que eres presidente/a de Club De Pádel Bularas en Pozuelo De Alarcón — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Pozuelo De Alarcón — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -2353,9 +2353,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Jose,
+Hola equipo de Mad4padel,
 
-Vi que eres presidente/a de Mad4padel en Pozuelo De Alarcón — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Pozuelo De Alarcón — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -2373,9 +2373,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Carlos,
+Hola equipo de Pirikikis Padel,
 
-Vi que eres presidente/a de Pirikikis Padel en Pozuelo De Alarcón — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Pozuelo De Alarcón — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -2393,9 +2393,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Daniel,
+Hola equipo de Indoor Padel Training,
 
-Vi que eres presidente/a de Indoor Padel Training en Rivas Vaciamadrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Rivas Vaciamadrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -2413,9 +2413,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Alfonso,
+Hola equipo de Rivapadel Sport Club,
 
-Vi que eres presidente/a de Rivapadel Sport Club en Rivas Vaciamadrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Rivas Vaciamadrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -2433,9 +2433,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Manuel,
+Hola equipo de Blue Padel Rivas,
 
-Vi que eres presidente/a de Blue Padel Rivas en Rivas-vaciamadrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Rivas-vaciamadrid — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -2453,9 +2453,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Carmelo,
+Hola equipo de Club R.a.c.e.,
 
-Vi que eres presidente/a de Club R.a.c.e. en S. S. Reyes — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en S. S. Reyes — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -2473,9 +2473,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Fernando,
+Hola equipo de Espacio Herreria Padel,
 
-Vi que eres presidente/a de Espacio Herreria Padel en S.lorenzo Del Escorial — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en S.lorenzo Del Escorial — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -2493,9 +2493,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Rubén,
+Hola equipo de Club De Tenis Y Padel San Sebastian De Los Reyes,
 
-Vi que eres presidente/a de Club De Tenis Y Padel San Sebastian De Los Reyes en S.s. Reyes — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en S.s. Reyes — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -2513,9 +2513,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola,
+Hola equipo de Club Deportivo Elemental 11,
 
-Vi Club Deportivo Elemental 11 en S.s. Reyes — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en S.s. Reyes — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -2533,9 +2533,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Santiago,
+Hola equipo de Padel Sport Lab,
 
-Vi que eres presidente/a de Padel Sport Lab en San Sebastian De Los Reyes — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en San Sebastian De Los Reyes — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -2553,9 +2553,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Maria,
+Hola equipo de Babel,
 
-Vi que eres presidente/a de Babel en San Sebastián De Los Reyes — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en San Sebastián De Los Reyes — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -2573,9 +2573,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Ramiro,
+Hola equipo de Cd Jarama,
 
-Vi que eres presidente/a de Cd Jarama en San Sebastián De Los Reyes — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en San Sebastián De Los Reyes — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -2593,9 +2593,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Iciar,
+Hola equipo de Norte Sport Club,
 
-Vi que eres presidente/a de Norte Sport Club en San Sebastián De Los Reyes — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en San Sebastián De Los Reyes — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -2613,9 +2613,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Ali,
+Hola equipo de Club Padel Soto Torrejon,
 
-Vi que eres presidente/a de Club Padel Soto Torrejon en Torrejon De Ardoz — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Torrejon De Ardoz — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -2633,9 +2633,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Fernando,
+Hola equipo de Padel People Torrelodones,
 
-Vi que eres presidente/a de Padel People Torrelodones en Torrelodones — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Torrelodones — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -2653,9 +2653,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Gonzalo,
+Hola equipo de Padel Sport Center Tres Cantos,
 
-Vi que eres presidente/a de Padel Sport Center Tres Cantos en Tres Cantos — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Tres Cantos — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -2673,9 +2673,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Jose,
+Hola equipo de Padel Team 3c,
 
-Vi que eres presidente/a de Padel Team 3c en Tres Cantos — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Tres Cantos — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -2693,9 +2693,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Alberto,
+Hola equipo de Padel Tricantino,
 
-Vi que eres presidente/a de Padel Tricantino en Tres Cantos — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Tres Cantos — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -2713,9 +2713,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Oscar,
+Hola equipo de Vip Padel,
 
-Vi que eres presidente/a de Vip Padel en Valdemorillo — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Valdemorillo — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -2733,9 +2733,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Antonio,
+Hola equipo de Club De Padel Family,
 
-Vi que eres presidente/a de Club De Padel Family en Valdemoro — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Valdemoro — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -2753,9 +2753,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola David,
+Hola equipo de Padel Indoor Rio,
 
-Vi que eres presidente/a de Padel Indoor Rio en Velilla De San Antonio — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Velilla De San Antonio — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -2773,9 +2773,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Pablo,
+Hola equipo de Cdb Club De Padel Y Tenis Villa Del Prado,
 
-Vi que eres presidente/a de Cdb Club De Padel Y Tenis Villa Del Prado en Villa Del Prado — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Villa Del Prado — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -2793,9 +2793,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Juan,
+Hola equipo de Indoor Enjoy&padel,
 
-Vi que eres presidente/a de Indoor Enjoy&padel en Villalbilla — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Villalbilla — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -2813,9 +2813,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Lucas,
+Hola equipo de Tac Tec Padel Villalbilla,
 
-Vi que eres presidente/a de Tac Tec Padel Villalbilla en Villalbilla — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Villalbilla — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -2833,9 +2833,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Jose,
+Hola equipo de Cd Sek,
 
-Vi que eres presidente/a de Cd Sek en Villanueva De La Cañada — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Villanueva De La Cañada — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
@@ -2853,9 +2853,9 @@ www.epadelschool.com
 **Asunto:** bolsa de horas
 
 ```
-Hola Gonzalo,
+Hola equipo de Club Villa Padel,
 
-Vi que eres presidente/a de Club Villa Padel en Villaviciosa De Odon — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+Vi que estáis en Villaviciosa De Odon — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 

@@ -4,7 +4,7 @@ Basado en `index.html`: **1.250 Clubs Federados** (oficial FEP, `padelfederacion
 
 ## 0. Cambio de prioridad respecto a la versión anterior de este plan
 
-La primera versión de este plan se basaba solo en los 235 clubes de Madrid del directorio comercial, sin nombre de contacto. Ahora tenemos algo mejor: los **Clubs Federados**, con **nombre real del presidente/a en el 90% de los casos** — personalización Nivel 4 (persona real, no genérico), y son clubes con estructura oficial, no polideportivos ni negocios de dudosa actividad.
+La primera versión de este plan se basaba solo en los 235 clubes de Madrid del directorio comercial. Ahora tenemos algo mejor: los **Clubs Federados** son clubes con estructura oficial, no polideportivos ni negocios de dudosa actividad — aunque tenemos el nombre del presidente/a en el 90% de los casos, **no se usa en el saludo** (el presidente federativo casi nunca lleva el día a día), así que el copy se dirige al club por su nombre, no a una persona.
 
 **Nueva prioridad: Clubs Federados primero, empezando por Madrid. Otros Clubs queda como segunda oleada / red de seguridad.**
 
@@ -45,29 +45,33 @@ Segmentación original de Otros Clubs (sigue vigente para lo que no se solape):
 
 Mejores días: martes-jueves, 9-11h o 13-15h. Evitar lunes por la mañana y viernes por la tarde.
 
-## 4. Copy — versión Federados (personalizada, Nivel 4)
+## 4. Copy — versión Federados
 
-Variables: `{{presidente}}` (solo nombre de pila), `{{club}}`, `{{localidad}}`
+Variables: `{{club}}`, `{{localidad}}`
+
+**Decisión:** no dirigirse al presidente/a por su nombre en el saludo — en la práctica el presidente federativo casi nunca es quien lleva el día a día del club, así que asumir eso suena raro para el que lo lee. Se usa el nombre del club en el saludo en su lugar.
 
 ---
 
 **Touch 1 — Día 0**
 Asunto: `bolsa de horas`
 
-> Hola {{presidente}},
+> Hola equipo de {{club}},
 >
-> Vi que eres presidente/a de {{club}} en {{localidad}} — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+> Vi que estáis en {{localidad}} — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 >
 > Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 >
 > ¿Te interesa que te cuente cómo funciona en dos minutos?
+>
+> www.epadelschool.com
 
 ---
 
 **Touch 2 — Día 3**
 Asunto: `20h a la semana`
 
-> {{presidente}}, un dato que me hizo pensar en {{club}}: las escuelas que llevan la gestión por Excel y WhatsApp dedican de media 15-20h/semana solo a cobros, avisos y recolocar clases canceladas — eso son ~800€/mes en tiempo.
+> Un dato que me hizo pensar en {{club}}: las escuelas que llevan la gestión por Excel y WhatsApp dedican de media 15-20h/semana solo a cobros, avisos y recolocar clases canceladas — eso son ~800€/mes en tiempo.
 >
 > No es una venta agresiva, solo curiosidad: ¿cómo lo lleváis vosotros ahora mismo en {{club}}?
 
@@ -87,7 +91,7 @@ Asunto: `roi del software`
 
 > El coste suele ser lo primero que se pregunta, así que va directo: 99€/mes, sin permanencia, sin coste de alta. Si libera aunque sea una cuarta parte de esas 20h/semana, se paga solo.
 >
-> ¿Seguimos hablando o prefieres que te deje tranquilo por ahora, {{presidente}}?
+> ¿Seguimos hablando o prefieres que os deje tranquilos por ahora?
 
 ---
 
@@ -104,7 +108,7 @@ Asunto: `cierro el hilo`
 
 ---
 
-**Versión sin nombre de presidente (segmento B/Otros Clubs)**: usar `{{club}}` y `{{localidad}}` en lugar de `{{presidente}}`, quitar el "Hola {{presidente}}," inicial por "Hola,".
+Esta misma versión (saludo por nombre del club, sin nombre de presidente) sirve igual para Otros Clubs — no hace falta variante aparte.
 
 ## 5. Bloqueantes reales antes de lanzar (sin resolver todavía)
 
