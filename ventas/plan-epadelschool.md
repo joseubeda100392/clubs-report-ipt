@@ -1,34 +1,39 @@
-# Plan de venta — ePadel School → clubes de pádel Madrid
+# Plan de venta — ePadel School
 
-Basado en `index.html` (235 clubes) + skills `prospecting` y `cold-email`.
+Basado en `index.html`: **1.250 Clubs Federados** (oficial FEP, `padelfederacion.es/Clubes`) + **340 Otros Clubs** (directorios comerciales, Madrid/La Rioja/Cataluña/Andalucía/Valencia). Skills usadas: `prospecting`, `cold-email`.
 
-## 1. Segmentación (scoring por completitud de datos de contacto)
+## 0. Cambio de prioridad respecto a la versión anterior de este plan
 
-| Tier | Criterio | Nº clubes | Canal |
+La primera versión de este plan se basaba solo en los 235 clubes de Madrid del directorio comercial, sin nombre de contacto. Ahora tenemos algo mejor: los **Clubs Federados**, con **nombre real del presidente/a en el 90% de los casos** — personalización Nivel 4 (persona real, no genérico), y son clubes con estructura oficial, no polideportivos ni negocios de dudosa actividad.
+
+**Nueva prioridad: Clubs Federados primero, empezando por Madrid. Otros Clubs queda como segunda oleada / red de seguridad.**
+
+## 1. Objetivo #1 — Clubs Federados (1.250, empezar por Madrid: 144)
+
+| Segmento | Criterio | Nº clubes | Canal |
 |---|---|---|---|
-| **A — Hot** | Email + teléfono + web | 98 | Email + llamada de refuerzo |
-| **B — Warm** | Email, falta tel o web | 89 | Email |
-| **C — Cold** | Sin email, con tel o web | 34 | Llamada primero, buscar email manual |
-| **D — Skip** | Sin ningún dato de contacto | 14 | Investigación manual antes de tocar (Instagram/Google) |
+| **A — Hot** | Email + nombre presidente/a | ~1.070 | Email personalizado, dirigido a la persona |
+| **B — Warm** | Email sin nombre de presidente | ~120 | Email genérico ("Hola,") |
+| **C — Cold** | Sin email, con teléfono | ~60 | Llamada — no cubierto por `cold-email`, falta guion |
 
-Empezar por **Tier A** — mejor tasa de entrega y permite reforzar por teléfono si no hay respuesta en 7 días.
+La web ya carga la pestaña "Clubs Federados" filtrada a Madrid por defecto — es el punto de partida operativo.
 
-## 2. Prioridad geográfica (mayor concentración = mayor ROI del tiempo de outreach)
+## 2. Objetivo #2 — Otros Clubs (340, segunda oleada)
 
-1. Madrid capital — 50 clubes
-2. Alcobendas — 14
-3. Alcalá de Henares — 12
-4. Móstoles — 9
-5. Alcorcón / Pozuelo de Alarcón — 8 cada uno
-6. Getafe — 7
+Directorio comercial más amplio (incluye clubes sin registro federativo). Usar **después** de Federados, y con un aviso importante:
 
-Lanzar Madrid capital + Alcobendas como primera oleada (64 clubes, Tier A primero dentro de ese grupo).
+**⚠️ Solape con Federados**: cruce automático por nombre+municipio encontró que **~115 de los 340 "Otros Clubs" son probablemente el mismo negocio** que ya aparece en Federados bajo su nombre legal (ej. "Real Club Puerta de Hierro" ↔ "REAL CLUB DE LA PUERTA DE HIERRO"). El cruce es automático y tiene falsos positivos — no es 100% fiable — pero antes de lanzar la oleada de Otros Clubs hay que revisar contra la lista de Federados ya contactados para no escribir dos veces al mismo club con dos identidades distintas (quema credibilidad).
 
-## 3. Limitación de personalización (honesto)
+Segmentación original de Otros Clubs (sigue vigente para lo que no se solape):
 
-Solo tenemos nombre del club + municipio — sin nombre de contacto ni señal de compra (Nivel 1-2 de personalización, no Nivel 4). El ángulo es **industry insight** ("la mayoría de escuelas de pádel pierden X horas/semana en Y"), no observación individual. Para subir a Nivel 4 en Tier A haría falta 5-10 min de research manual por club (Instagram, nombre del gerente) — se puede hacer solo para los primeros 20-30 envíos de prueba.
+| Tier | Criterio | Nº clubes aprox. |
+|---|---|---|
+| Con email + tel + web | Máxima calidad | ~130 |
+| Solo email | Buena | ~100 |
+| Solo teléfono | Requiere llamada | ~60 |
+| Sin datos | Requiere research previo | ~15 |
 
-## 4. Cadencia (5 touches, gaps crecientes)
+## 3. Cadencia (5 touches, gaps crecientes) — igual para ambos objetivos
 
 | Touch | Día | Ángulo | Asunto |
 |---|---|---|---|
@@ -40,20 +45,20 @@ Solo tenemos nombre del club + municipio — sin nombre de contacto ni señal de
 
 Mejores días: martes-jueves, 9-11h o 13-15h. Evitar lunes por la mañana y viernes por la tarde.
 
-## 5. Copy de la secuencia
+## 4. Copy — versión Federados (personalizada, Nivel 4)
 
-Variables: `{{club}}`, `{{municipio}}`
+Variables: `{{presidente}}` (solo nombre de pila), `{{club}}`, `{{localidad}}`
 
 ---
 
 **Touch 1 — Día 0**
 Asunto: `bolsa de horas`
 
-> Hola,
+> Hola {{presidente}},
 >
-> Vi que {{club}} está en {{municipio}} — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
+> Vi que eres presidente/a de {{club}} en {{localidad}} — imagino que entre cancelaciones de última hora y cuadrar cobros por WhatsApp o transferencia, la gestión se come bastante tiempo cada semana.
 >
-> Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo, sin que nadie tenga que estar pendiente. En la práctica libera unas 20h/semana de gestión.
+> Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 >
 > ¿Te interesa que te cuente cómo funciona en dos minutos?
 
@@ -62,16 +67,16 @@ Asunto: `bolsa de horas`
 **Touch 2 — Día 3**
 Asunto: `20h a la semana`
 
-> Un dato que me hizo pensar en {{club}}: las escuelas que llevan la gestión por Excel y WhatsApp dedican de media 15-20h/semana solo a cobros, avisos y recolocar clases canceladas — eso son ~800€/mes en tiempo, según lo que hemos visto con otros clubes.
+> {{presidente}}, un dato que me hizo pensar en {{club}}: las escuelas que llevan la gestión por Excel y WhatsApp dedican de media 15-20h/semana solo a cobros, avisos y recolocar clases canceladas — eso son ~800€/mes en tiempo.
 >
-> No es una venta agresiva, solo curiosidad: ¿cómo lo lleváis vosotros ahora mismo?
+> No es una venta agresiva, solo curiosidad: ¿cómo lo lleváis vosotros ahora mismo en {{club}}?
 
 ---
 
 **Touch 3 — Día 7-8**
 Asunto: `cómo lo hace [club similar]`
 
-> Una escuela con un tamaño parecido a {{club}} pasó de perseguir pagos por WhatsApp a tenerlo automatizado en menos de una semana, sin frenar la operativa mientras migraban.
+> Un club de tamaño parecido a {{club}} pasó de perseguir pagos por WhatsApp a tenerlo automatizado en menos de una semana, sin frenar la operativa mientras migraban.
 >
 > Si quieres, te lo enseño en una demo de 30 min, sin compromiso ni tarjeta.
 
@@ -82,7 +87,7 @@ Asunto: `roi del software`
 
 > El coste suele ser lo primero que se pregunta, así que va directo: 99€/mes, sin permanencia, sin coste de alta. Si libera aunque sea una cuarta parte de esas 20h/semana, se paga solo.
 >
-> ¿Seguimos hablando o prefieres que te deje tranquilo por ahora?
+> ¿Seguimos hablando o prefieres que te deje tranquilo por ahora, {{presidente}}?
 
 ---
 
@@ -99,9 +104,19 @@ Asunto: `cierro el hilo`
 
 ---
 
+**Versión sin nombre de presidente (segmento B/Otros Clubs)**: usar `{{club}}` y `{{localidad}}` en lugar de `{{presidente}}`, quitar el "Hola {{presidente}}," inicial por "Hola,".
+
+## 5. Bloqueantes reales antes de lanzar (sin resolver todavía)
+
+Esto es lo que falta decidir, no más copy ni más datos:
+
+1. **Mecanismo de envío** — ¿Gmail con mail merge, herramienta de cold email (Instantly, Lemlist...), o envío manual? Sin esto no se manda nada.
+2. **Tracking** — con ~1.590 contactos entre las dos listas, hace falta un mínimo CRM/hoja de cálculo: quién recibió qué touch, cuándo, y qué respondió. Si no, la secuencia de 5 touches es imposible de mantener a mano.
+3. **Volumen diario** — cuántos envíos/día para no quemar la reputación del dominio de envío (recomendación estándar: empezar bajo, 20-30/día, subir gradualmente).
+
 ## 6. Pendiente / siguiente fase
 
 - **Infinity Padel Tour**: aún no investigado su producto/propuesta de valor — falta antes de meterlo en la secuencia. Por ahora la secuencia vende solo ePadel School.
-- **Tier C (34 clubes sin email)**: necesita guión de llamada, no está cubierto por la skill `cold-email` (solo email). Pendiente de crear si se decide atacar este tier.
-- **Tier D (14 clubes)**: requiere investigación manual antes de cualquier contacto.
-- **Nombres de contacto reales**: subiría el reply rate significativamente (Nivel 4 de personalización) — evaluar si merece la pena para Tier A.
+- **Segmento C de Federados (~60 sin email)**: necesita guion de llamada telefónica, no cubierto por `cold-email` (solo email).
+- **Deduplicación Federados↔Otros Clubs**: la lista de ~115 solapes está identificada pero no verificada club a club — revisar antes de lanzar la oleada de Otros Clubs.
+- **Resto de España en Federados**: Madrid (144) es el punto de partida; quedan ~1.100 clubes federados en las otras 48 provincias, ya cargados en la web, listos para atacar cuando Madrid valide el mensaje.
