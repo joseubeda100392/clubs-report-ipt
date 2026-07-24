@@ -146,6 +146,23 @@
     font-size: .72rem;
   }
 
+  /* Volver arriba */
+  #backToTop {
+    position: fixed; bottom: 24px; right: 24px; z-index: 100;
+    width: 46px; height: 46px; border-radius: 50%;
+    background: #a7fd7e; color: #0a0d08; border: none;
+    font-size: 1.2rem; font-weight: 800; cursor: pointer;
+    box-shadow: 0 4px 16px rgba(0,0,0,.4);
+    display: flex; align-items: center; justify-content: center;
+    opacity: 0; visibility: hidden; transform: translateY(8px);
+    transition: opacity .2s, transform .2s, visibility .2s;
+  }
+  #backToTop.show { opacity: 1; visibility: visible; transform: translateY(0); }
+  #backToTop:hover { background: #c3ffa3; }
+  @media (max-width: 600px) {
+    #backToTop { bottom: 16px; right: 16px; width: 50px; height: 50px; font-size: 1.35rem; }
+  }
+
   /* Footer */
   .footer {
     max-width: 1200px; margin: 32px auto 48px;
@@ -230,10 +247,10 @@
 </div>
 
 <div class="tabs-nav" style="max-width:1200px;margin:24px auto 0;padding:0 48px;display:flex;gap:8px;">
-  <button class="tab-btn active" id="tabBtnGeneral" onclick="showTab('general')" style="background:#a7fd7e18;border:1px solid #a7fd7e40;color:#a7fd7e;border-radius:8px;padding:8px 18px;font-size:.75rem;font-weight:700;letter-spacing:.05em;text-transform:uppercase;cursor:pointer;">Todos los Clubs</button>
-  <button class="tab-btn" id="tabBtnFed" onclick="showTab('federados')" style="background:#0f160d;border:1px solid #a7fd7e14;color:#9ab896;border-radius:8px;padding:8px 18px;font-size:.75rem;font-weight:700;letter-spacing:.05em;text-transform:uppercase;cursor:pointer;">Clubs Federados</button>
+  <button class="tab-btn active" id="tabBtnFed" onclick="showTab('federados')" style="background:#a7fd7e18;border:1px solid #a7fd7e40;color:#a7fd7e;border-radius:8px;padding:8px 18px;font-size:.75rem;font-weight:700;letter-spacing:.05em;text-transform:uppercase;cursor:pointer;">Clubs Federados</button>
+  <button class="tab-btn" id="tabBtnGeneral" onclick="showTab('general')" style="background:#0f160d;border:1px solid #a7fd7e14;color:#9ab896;border-radius:8px;padding:8px 18px;font-size:.75rem;font-weight:700;letter-spacing:.05em;text-transform:uppercase;cursor:pointer;">Clubs Madrid</button>
 </div>
-<div class="main" id="panelGeneral">
+<div class="main" id="panelGeneral" style="display:none"
 
   <div class="table-card">
     <div class="table-header">
@@ -2416,7 +2433,7 @@
 
 
 
-<div class="fed-wrap" id="panelFederados" style="display:none">
+<div class="fed-wrap" id="panelFederados">
   <div class="table-card">
     <div class="table-header">
       <h2>Clubs Federados <span id="contadorFed"></span></h2>
@@ -2452,7 +2469,7 @@
         <option value="leon">León</option>
         <option value="lleida">Lleida</option>
         <option value="lugo">Lugo</option>
-        <option value="madrid">Madrid</option>
+        <option value="madrid" selected>Madrid</option>
         <option value="murcia">Murcia</option>
         <option value="malaga">Málaga</option>
         <option value="navarra">Navarra</option>
@@ -12497,8 +12514,10 @@
 </div>
 
 <div class="footer">
-  Infinity Padel Tour BY LÕK · Documento interno · 235 clubs · 187 emails de contacto
+  Infinity Padel Tour BY LÕK · Documento interno · 340 clubs · 277 emails de contacto · 1250 clubs federados
 </div>
+
+<button id="backToTop" onclick="window.scrollTo({top:0,behavior:'smooth'})" aria-label="Volver arriba" title="Volver arriba">↑</button>
 
 <script>
 function buscar(q) {
@@ -12557,6 +12576,17 @@ function buscarFed(q) {
   var contador = document.getElementById('contadorFed');
   if (contador) contador.textContent = visibles + ' clubs';
 }
+
+var backToTopBtn = document.getElementById('backToTop');
+window.addEventListener('scroll', function() {
+  if (window.scrollY > 400) {
+    backToTopBtn.classList.add('show');
+  } else {
+    backToTopBtn.classList.remove('show');
+  }
+}, { passive: true });
+
+buscarFed('');
 </script>
 </body>
 </html>
