@@ -99,11 +99,10 @@
   td { padding: 9px 12px; vertical-align: middle; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
   td a { color: #a7fd7e; text-decoration: none; font-size: .78rem; }
   td a:hover { text-decoration: underline; }
-  .num  { color: #2d3d2b; font-size: .7rem; width: 36px; }
-  .name { color: #d4e8d0; font-weight: 600; width: 22%; }
-  .muni { color: #6b7a68; font-size: .75rem; width: 14%; }
-  .col-email { width: 26%; }
-  .col-tel   { width: 13%; }
+  .name { color: #d4e8d0; font-weight: 600; width: 26%; white-space: normal; word-break: break-word; }
+  .muni { color: #6b7a68; font-size: .75rem; width: 16%; white-space: normal; word-break: break-word; }
+  .col-email { width: 29%; white-space: normal; word-break: break-all; }
+  .col-tel   { width: 14%; white-space: normal; }
   .col-web   { width: 10%; }
   .empty { color: #2d3d2b; }
 
@@ -169,8 +168,7 @@
     .header h1 { font-size: 1.6rem; }
     .search-box { width: 100%; margin-left: 0; margin-top: 8px; }
     .table-header { flex-direction: column; align-items: flex-start; }
-    .col-web { display: none; }
-    #clubTable thead th:last-child { display: none; }
+    #clubTable { table-layout: auto; min-width: 600px; }
     .footer { padding: 16px; margin: 16px auto; }
   }
 
@@ -266,7 +264,6 @@
     <table id="clubTable">
       <thead>
         <tr>
-          <th>#</th>
           <th>Club</th>
           <th>Municipio</th>
           <th>Email</th>
@@ -276,2721 +273,2041 @@
       </thead>
       <tbody id="tableBody">
         
-    <tr data-provincia="madrid">
-      <td class="num">1</td>
-      <td class="name">200x100 padel</td>
+    <tr data-provincia="madrid">      <td class="name">200x100 padel</td>
       <td class="muni">Collado Villalba</td>
       <td class="col-email"><a href="mailto:%20info@200x100padel.es">%20info@200x100padel.es</a></td>
       <td class="col-tel"><a href="tel:918513697">918513697</a></td>
       <td class="col-web"><a href="https://200x100padel.es" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">2</td>
-      <td class="name">AJ Trainning</td>
+    <tr data-provincia="madrid">      <td class="name">AJ Trainning</td>
       <td class="muni">Alcalá de Henares</td>
       <td class="col-email"><a href="mailto:info@ajtrainning.com">info@ajtrainning.com</a></td>
       <td class="col-tel"><a href="tel:686364208">686364208</a></td>
       <td class="col-web"><span class="empty">—</span></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">3</td>
-      <td class="name">Alpha Padel</td>
+    <tr data-provincia="madrid">      <td class="name">Alpha Padel</td>
       <td class="muni">Alcorcón</td>
       <td class="col-email"><a href="mailto:alpha@alphapadel.com">alpha@alphapadel.com</a></td>
       <td class="col-tel"><a href="tel:633285310">633285310</a></td>
       <td class="col-web"><a href="http://www.alphapadel.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">4</td>
-      <td class="name">BallPadel Indoor</td>
+    <tr data-provincia="madrid">      <td class="name">BallPadel Indoor</td>
       <td class="muni">Alcalá de Henares</td>
       <td class="col-email"><a href="mailto:info@ballpadel.com">info@ballpadel.com</a></td>
       <td class="col-tel"><span class="empty">—</span></td>
       <td class="col-web"><a href="http://www.ballpadel.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">5</td>
-      <td class="name">BeOne Boadilla</td>
+    <tr data-provincia="madrid">      <td class="name">BeOne Boadilla</td>
       <td class="muni">Boadilla del Monte</td>
       <td class="col-email"><a href="mailto:boadilla@beone.es">boadilla@beone.es</a></td>
       <td class="col-tel"><span class="empty">—</span></td>
       <td class="col-web"><a href="https://beone.es" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">6</td>
-      <td class="name">Blue Exclusive Padel</td>
+    <tr data-provincia="madrid">      <td class="name">Blue Exclusive Padel</td>
       <td class="muni">Arroyomolinos</td>
       <td class="col-email"><span class="empty">—</span></td>
       <td class="col-tel"><a href="tel:651347526">651347526</a></td>
       <td class="col-web"><span class="empty">—</span></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">7</td>
-      <td class="name">Blue Padel Rivas</td>
+    <tr data-provincia="madrid">      <td class="name">Blue Padel Rivas</td>
       <td class="muni">Rivas-Vaciamadrid</td>
       <td class="col-email"><a href="mailto:recepcion@bluepadelrivas.es">recepcion@bluepadelrivas.es</a></td>
       <td class="col-tel"><span class="empty">—</span></td>
       <td class="col-web"><a href="http://bluepadelrivas.es" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">8</td>
-      <td class="name">Body Padel Carlos Castro</td>
+    <tr data-provincia="madrid">      <td class="name">Body Padel Carlos Castro</td>
       <td class="muni">Móstoles</td>
       <td class="col-email"><a href="mailto:bodypadelcarloscastro@gmail.com">bodypadelcarloscastro@gmail.com</a></td>
       <td class="col-tel"><a href="tel:674482834">674482834</a></td>
       <td class="col-web"><span class="empty">—</span></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">9</td>
-      <td class="name">BPXport Los Prunos</td>
+    <tr data-provincia="madrid">      <td class="name">BPXport Los Prunos</td>
       <td class="muni">Madrid</td>
       <td class="col-email"><a href="mailto:losprunos@bpxport.es">losprunos@bpxport.es</a></td>
       <td class="col-tel"><a href="tel:917432001">917432001</a></td>
       <td class="col-web"><a href="https://www.bpxport.es/centros/prunos/" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">10</td>
-      <td class="name">C.D. Padel Lord</td>
+    <tr data-provincia="madrid">      <td class="name">C.D. Padel Lord</td>
       <td class="muni">Madrid</td>
       <td class="col-email"><span class="empty">—</span></td>
       <td class="col-tel"><a href="tel:669539772">669539772</a></td>
       <td class="col-web"><a href="https://escueladepadelord.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">11</td>
-      <td class="name">Campus 23</td>
+    <tr data-provincia="madrid">      <td class="name">Campus 23</td>
       <td class="muni">San Sebastián de los Reyes</td>
       <td class="col-email"><a href="mailto:clubcampus23@gmail.com">clubcampus23@gmail.com</a></td>
       <td class="col-tel"><a href="tel:655709048">655709048</a></td>
       <td class="col-web"><a href="https://campus23.es" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">12</td>
-      <td class="name">Campus Universidad Alcalá de Henares</td>
+    <tr data-provincia="madrid">      <td class="name">Campus Universidad Alcalá de Henares</td>
       <td class="muni">Alcalá de Henares</td>
       <td class="col-email"><a href="mailto:servicio.deportes@uah.es">servicio.deportes@uah.es</a></td>
       <td class="col-tel"><span class="empty">—</span></td>
       <td class="col-web"><span class="empty">—</span></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">13</td>
-      <td class="name">Centro de Padel Las Matillas</td>
+    <tr data-provincia="madrid">      <td class="name">Centro de Padel Las Matillas</td>
       <td class="muni">Arroyomolinos</td>
       <td class="col-email"><a href="mailto:direccion.matillas@emugesa.com">direccion.matillas@emugesa.com</a></td>
       <td class="col-tel"><a href="tel:916687962">916687962</a></td>
       <td class="col-web"><a href="http://lasmatillas.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">14</td>
-      <td class="name">Centro de Pádel GSD Alcalá</td>
+    <tr data-provincia="madrid">      <td class="name">Centro de Pádel GSD Alcalá</td>
       <td class="muni">Alcalá de Henares</td>
       <td class="col-email"><a href="mailto:gsdpadel@gmail.com">gsdpadel@gmail.com</a></td>
       <td class="col-tel"><span class="empty">—</span></td>
       <td class="col-web"><a href="http://padel.clubdeportivogsd.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">15</td>
-      <td class="name">Centro Deportivo El Alamo</td>
+    <tr data-provincia="madrid">      <td class="name">Centro Deportivo El Alamo</td>
       <td class="muni">El Álamo</td>
       <td class="col-email"><a href="mailto:info@centrodeportivoelalamo.es">info@centrodeportivoelalamo.es</a></td>
       <td class="col-tel"><a href="tel:670201033">670201033</a></td>
       <td class="col-web"><a href="http://centrodeportivoelalamo.es" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">16</td>
-      <td class="name">Centro Deportivo Municipal Faustina Valladolid</td>
+    <tr data-provincia="madrid">      <td class="name">Centro Deportivo Municipal Faustina Valladolid</td>
       <td class="muni">Madrid</td>
       <td class="col-email"><a href="mailto:idmvaldebernardo@madrid.es">idmvaldebernardo@madrid.es</a></td>
       <td class="col-tel"><a href="tel:917723591">917723591</a></td>
       <td class="col-web"><span class="empty">—</span></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">17</td>
-      <td class="name">Centro Deportivo Municipal Huerta Vieja</td>
+    <tr data-provincia="madrid">      <td class="name">Centro Deportivo Municipal Huerta Vieja</td>
       <td class="muni">Majadahonda</td>
       <td class="col-email"><a href="mailto:info@cetmajadahonda.com">info@cetmajadahonda.com</a></td>
       <td class="col-tel"><span class="empty">—</span></td>
       <td class="col-web"><a href="http://www.cetmajadahonda.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">18</td>
-      <td class="name">Centro Deportivo Puente de Praga</td>
+    <tr data-provincia="madrid">      <td class="name">Centro Deportivo Puente de Praga</td>
       <td class="muni">Madrid</td>
       <td class="col-email"><a href="mailto:puentepraga@schoolpadelcenter.com">puentepraga@schoolpadelcenter.com</a></td>
       <td class="col-tel"><a href="tel:965660273">965660273</a></td>
       <td class="col-web"><a href="http://padeltenispuentepraga.blogspot.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">19</td>
-      <td class="name">Centro Deportivo San Gabriel</td>
+    <tr data-provincia="madrid">      <td class="name">Centro Deportivo San Gabriel</td>
       <td class="muni">Alcalá de Henares</td>
       <td class="col-email"><a href="mailto:info@centrodeportivosangabriel.es">info@centrodeportivosangabriel.es</a></td>
       <td class="col-tel"><span class="empty">—</span></td>
       <td class="col-web"><a href="https://centrodeportivosangabriel.es" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">20</td>
-      <td class="name">Centro Deportivo San Isidro</td>
+    <tr data-provincia="madrid">      <td class="name">Centro Deportivo San Isidro</td>
       <td class="muni">Villanueva de la Cañada</td>
       <td class="col-email"><a href="mailto:deportes@ayto-villacanada.es">deportes@ayto-villacanada.es</a></td>
       <td class="col-tel"><span class="empty">—</span></td>
       <td class="col-web"><span class="empty">—</span></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">21</td>
-      <td class="name">Centro Deportivo SMP</td>
+    <tr data-provincia="madrid">      <td class="name">Centro Deportivo SMP</td>
       <td class="muni">Madrid</td>
       <td class="col-email"><a href="mailto:info@centrodeportivosmp.es">info@centrodeportivosmp.es</a></td>
       <td class="col-tel"><span class="empty">—</span></td>
       <td class="col-web"><a href="https://www.centrodeportivosmp.es" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">22</td>
-      <td class="name">Centro Deportivo UFV</td>
+    <tr data-provincia="madrid">      <td class="name">Centro Deportivo UFV</td>
       <td class="muni">Pozuelo de Alarcón</td>
       <td class="col-email"><a href="mailto:info@centrodeportivoufv.com">info@centrodeportivoufv.com</a></td>
       <td class="col-tel"><span class="empty">—</span></td>
       <td class="col-web"><a href="https://centrodeportivoufv.com/" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">23</td>
-      <td class="name">Centro Deportivo Valdemoro Padel</td>
+    <tr data-provincia="madrid">      <td class="name">Centro Deportivo Valdemoro Padel</td>
       <td class="muni">Valdemoro</td>
       <td class="col-email"><a href="mailto:info@valpadel.com">info@valpadel.com</a></td>
       <td class="col-tel"><span class="empty">—</span></td>
       <td class="col-web"><span class="empty">—</span></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">24</td>
-      <td class="name">Centro Deportivo Villalkor</td>
+    <tr data-provincia="madrid">      <td class="name">Centro Deportivo Villalkor</td>
       <td class="muni">Alcorcón</td>
       <td class="col-email"><a href="mailto:polideportivo@villalkor.com">polideportivo@villalkor.com</a></td>
       <td class="col-tel"><span class="empty">—</span></td>
       <td class="col-web"><a href="https://centrodeportivovillalkor.com/" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">25</td>
-      <td class="name">Centro Supera La Fuensanta</td>
+    <tr data-provincia="madrid">      <td class="name">Centro Supera La Fuensanta</td>
       <td class="muni">Móstoles</td>
       <td class="col-email"><a href="mailto:fuensanta@centrosupera.com">fuensanta@centrosupera.com</a></td>
       <td class="col-tel"><span class="empty">—</span></td>
       <td class="col-web"><a href="https://www.centrosupera.com/lafuensanta/" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">26</td>
-      <td class="name">Centro Supera Móstoles</td>
+    <tr data-provincia="madrid">      <td class="name">Centro Supera Móstoles</td>
       <td class="muni">Móstoles</td>
       <td class="col-email"><a href="mailto:mostoles@centrosupera.com">mostoles@centrosupera.com</a></td>
       <td class="col-tel"><span class="empty">—</span></td>
       <td class="col-web"><a href="https://www.centrosupera.com/mostoles/" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">27</td>
-      <td class="name">Centro Supera Parla Este</td>
+    <tr data-provincia="madrid">      <td class="name">Centro Supera Parla Este</td>
       <td class="muni">Parla</td>
       <td class="col-email"><a href="mailto:parlaeste@centrosupera.com">parlaeste@centrosupera.com</a></td>
       <td class="col-tel"><span class="empty">—</span></td>
       <td class="col-web"><a href="https://www.centrosupera.com/parlaeste/" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">28</td>
-      <td class="name">Ciudad de la Raqueta</td>
+    <tr data-provincia="madrid">      <td class="name">Ciudad de la Raqueta</td>
       <td class="muni">Madrid</td>
       <td class="col-email"><a href="mailto:ciudadraqueta@ciudadraqueta.com">ciudadraqueta@ciudadraqueta.com</a></td>
       <td class="col-tel"><a href="tel:786609356">786609356</a></td>
       <td class="col-web"><a href="http://www.ciudadraqueta.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">29</td>
-      <td class="name">Ciudad Deportiva Jarama</td>
+    <tr data-provincia="madrid">      <td class="name">Ciudad Deportiva Jarama</td>
       <td class="muni">Algete</td>
       <td class="col-email"><a href="mailto:contacto@cdjarama.es">contacto@cdjarama.es</a></td>
       <td class="col-tel"><a href="tel:916637663">916637663</a></td>
       <td class="col-web"><a href="https://www.cdjarama.es" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">30</td>
-      <td class="name">Ciudad Deportiva Juan Antonio Samaranch</td>
+    <tr data-provincia="madrid">      <td class="name">Ciudad Deportiva Juan Antonio Samaranch</td>
       <td class="muni">Colmenar Viejo</td>
       <td class="col-email"><a href="mailto:ciudadeportivajas@mistral2010.com">ciudadeportivajas@mistral2010.com</a></td>
       <td class="col-tel"><a href="tel:747558028">747558028</a></td>
       <td class="col-web"><span class="empty">—</span></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">31</td>
-      <td class="name">Ciudad Deportiva Municipal El Val</td>
+    <tr data-provincia="madrid">      <td class="name">Ciudad Deportiva Municipal El Val</td>
       <td class="muni">Alcalá de Henares</td>
       <td class="col-email"><a href="mailto:secretaria@oacdmalcala.org">secretaria@oacdmalcala.org</a></td>
       <td class="col-tel"><a href="tel:918771780">918771780</a></td>
       <td class="col-web"><a href="http://www.oacdmalcala.org/" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">32</td>
-      <td class="name">Ciudad Deportiva Valdelasfuentes</td>
+    <tr data-provincia="madrid">      <td class="name">Ciudad Deportiva Valdelasfuentes</td>
       <td class="muni">Alcobendas</td>
       <td class="col-email"><a href="mailto:info@tenisypadelciudadalcobendas.com">info@tenisypadelciudadalcobendas.com</a></td>
       <td class="col-tel"><a href="tel:916587110">916587110</a></td>
       <td class="col-web"><span class="empty">—</span></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">33</td>
-      <td class="name">CLIPadel</td>
+    <tr data-provincia="madrid">      <td class="name">CLIPadel</td>
       <td class="muni">Club Leganés Indoor Padel - Leganés</td>
       <td class="col-email"><a href="mailto:recepcion@clipadel.com">recepcion@clipadel.com</a></td>
       <td class="col-tel"><span class="empty">—</span></td>
       <td class="col-web"><span class="empty">—</span></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">34</td>
-      <td class="name">Club de Campo Villa de Madrid</td>
+    <tr data-provincia="madrid">      <td class="name">Club de Campo Villa de Madrid</td>
       <td class="muni">Madrid</td>
       <td class="col-email"><a href="mailto:deportes@ccvm.es">deportes@ccvm.es</a></td>
       <td class="col-tel"><a href="tel:915502010">915502010</a></td>
       <td class="col-web"><a href="https://www.ccvm.es" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">35</td>
-      <td class="name">Club de Golf la Dehesa</td>
+    <tr data-provincia="madrid">      <td class="name">Club de Golf la Dehesa</td>
       <td class="muni">Villanueva de la Cañada</td>
       <td class="col-email"><a href="mailto:secretaria@golfladehesa.es">secretaria@golfladehesa.es</a></td>
       <td class="col-tel"><a href="tel:714492388">714492388</a></td>
       <td class="col-web"><a href="https://www.golfladehesa.es" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">36</td>
-      <td class="name">Club de Golf Retamares</td>
+    <tr data-provincia="madrid">      <td class="name">Club de Golf Retamares</td>
       <td class="muni">Valdeolmos-Alalpardo</td>
       <td class="col-email"><a href="mailto:deportivo@retamaresgolf.com">deportivo@retamaresgolf.com</a></td>
       <td class="col-tel"><a href="tel:916202540">916202540</a></td>
       <td class="col-web"><a href="https://www.golfretamares.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">37</td>
-      <td class="name">Club de Padel Fuenlabrada</td>
+    <tr data-provincia="madrid">      <td class="name">Club de Padel Fuenlabrada</td>
       <td class="muni">Fuenlabrada</td>
       <td class="col-email"><a href="mailto:clubpadelfuenla@gmail.com">clubpadelfuenla@gmail.com</a></td>
       <td class="col-tel"><a href="tel:916156839">916156839</a></td>
       <td class="col-web"><a href="https://clubpadelfuenlabrada.es" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">38</td>
-      <td class="name">Club de Padel La Moraleja</td>
+    <tr data-provincia="madrid">      <td class="name">Club de Padel La Moraleja</td>
       <td class="muni">Alcobendas</td>
       <td class="col-email"><a href="mailto:informacion@clubpadelmoraleja.es">informacion@clubpadelmoraleja.es</a></td>
       <td class="col-tel"><span class="empty">—</span></td>
       <td class="col-web"><a href="https://www.clubpadelmoraleja.es" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">39</td>
-      <td class="name">Club de Pádel Almanzor</td>
+    <tr data-provincia="madrid">      <td class="name">Club de Pádel Almanzor</td>
       <td class="muni">Arganda del Rey</td>
       <td class="col-email"><a href="mailto:padelalmanzor@gmail.com">padelalmanzor@gmail.com</a></td>
       <td class="col-tel"><a href="tel:918706804">918706804</a></td>
       <td class="col-web"><a href="http://www.clubpadelalmanzor.com/" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">40</td>
-      <td class="name">Club de Pádel Cristalia</td>
+    <tr data-provincia="madrid">      <td class="name">Club de Pádel Cristalia</td>
       <td class="muni">Madrid</td>
       <td class="col-email"><a href="mailto:info@padelcristalia.com">info@padelcristalia.com</a></td>
       <td class="col-tel"><a href="tel:911731932">911731932</a></td>
       <td class="col-web"><a href="http://www.padelcristalia.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">41</td>
-      <td class="name">Club de Pádel La Unión</td>
+    <tr data-provincia="madrid">      <td class="name">Club de Pádel La Unión</td>
       <td class="muni">Madrid</td>
       <td class="col-email"><a href="mailto:launionclubpadel@gmail.com">launionclubpadel@gmail.com</a></td>
       <td class="col-tel"><span class="empty">—</span></td>
       <td class="col-web"><a href="https://www.udmelidaolimpia.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">42</td>
-      <td class="name">Club de pádel Occidental Aranjuez</td>
+    <tr data-provincia="madrid">      <td class="name">Club de pádel Occidental Aranjuez</td>
       <td class="muni">Aranjuez</td>
       <td class="col-email"><a href="mailto:padeloccidental@opsgestion.com">padeloccidental@opsgestion.com</a></td>
       <td class="col-tel"><a href="tel:693366109">693366109</a></td>
       <td class="col-web"><span class="empty">—</span></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">43</td>
-      <td class="name">Club de Pádel y Tenis Fuencarral</td>
+    <tr data-provincia="madrid">      <td class="name">Club de Pádel y Tenis Fuencarral</td>
       <td class="muni">Madrid</td>
       <td class="col-email"><a href="mailto:info@cpt-fuencarral.com">info@cpt-fuencarral.com</a></td>
       <td class="col-tel"><span class="empty">—</span></td>
       <td class="col-web"><a href="https://www.cpt-fuencarral.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">44</td>
-      <td class="name">Club de pádel y tenis San Martín de la Vega</td>
+    <tr data-provincia="madrid">      <td class="name">Club de pádel y tenis San Martín de la Vega</td>
       <td class="muni">San Martín de la Vega</td>
       <td class="col-email"><a href="mailto:padelytenissmv@gmail.com">padelytenissmv@gmail.com</a></td>
       <td class="col-tel"><a href="tel:626316446">626316446</a></td>
       <td class="col-web"><span class="empty">—</span></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">45</td>
-      <td class="name">Club de pádel y tenis Villa del Prado</td>
+    <tr data-provincia="madrid">      <td class="name">Club de pádel y tenis Villa del Prado</td>
       <td class="muni">Villa del Prado</td>
       <td class="col-email"><span class="empty">—</span></td>
       <td class="col-tel"><a href="tel:611581449">611581449</a></td>
       <td class="col-web"><a href="https://www.villadelprado.es" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">46</td>
-      <td class="name">Club de Pádel Zola OPSGestión</td>
+    <tr data-provincia="madrid">      <td class="name">Club de Pádel Zola OPSGestión</td>
       <td class="muni">Villanueva de la Cañada</td>
       <td class="col-email"><a href="mailto:padel@livezolavf.es">padel@livezolavf.es</a></td>
       <td class="col-tel"><a href="tel:722457368">722457368</a></td>
       <td class="col-web"><span class="empty">—</span></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">47</td>
-      <td class="name">Club De Tenis Alameda</td>
+    <tr data-provincia="madrid">      <td class="name">Club De Tenis Alameda</td>
       <td class="muni">Madrid</td>
       <td class="col-email"><a href="mailto:info@clubalameda.com">info@clubalameda.com</a></td>
       <td class="col-tel"><a href="tel:917410694">917410694</a></td>
       <td class="col-web"><a href="http://www.clubalameda.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">48</td>
-      <td class="name">Club de Tenis Guadarrama</td>
+    <tr data-provincia="madrid">      <td class="name">Club de Tenis Guadarrama</td>
       <td class="muni">Guadarrama</td>
       <td class="col-email"><a href="mailto:tenis_guadarrama@hotmail.com">tenis_guadarrama@hotmail.com</a></td>
       <td class="col-tel"><span class="empty">—</span></td>
       <td class="col-web"><a href="https://www.clubtenisguadarrama.es" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">49</td>
-      <td class="name">Club de Tenis La Moraleja</td>
+    <tr data-provincia="madrid">      <td class="name">Club de Tenis La Moraleja</td>
       <td class="muni">Alcobendas</td>
       <td class="col-email"><a href="mailto:tenismoraleja@tenismoraleja.es">tenismoraleja@tenismoraleja.es</a></td>
       <td class="col-tel"><a href="tel:916507161">916507161</a></td>
       <td class="col-web"><a href="https://ctlamoraleja.es" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">50</td>
-      <td class="name">Club de Tenis Las Rozas</td>
+    <tr data-provincia="madrid">      <td class="name">Club de Tenis Las Rozas</td>
       <td class="muni">Las Rozas de Madrid</td>
       <td class="col-email"><a href="mailto:info@clubtenisrozas.es">info@clubtenisrozas.es</a></td>
       <td class="col-tel"><a href="tel:767337249">767337249</a></td>
       <td class="col-web"><a href="https://www.clubtenisrozas.es" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">51</td>
-      <td class="name">Club de Tenis y padel Coslada</td>
+    <tr data-provincia="madrid">      <td class="name">Club de Tenis y padel Coslada</td>
       <td class="muni">Coslada</td>
       <td class="col-email"><a href="mailto:tenispadelcoslada@gmail.com">tenispadelcoslada@gmail.com</a></td>
       <td class="col-tel"><a href="tel:916714910">916714910</a></td>
       <td class="col-web"><a href="http://www.ctpcoslada.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">52</td>
-      <td class="name">Club De Tenis Y Padel Fuente El Saz</td>
+    <tr data-provincia="madrid">      <td class="name">Club De Tenis Y Padel Fuente El Saz</td>
       <td class="muni">Fuente el Saz de Jarama</td>
       <td class="col-email"><a href="mailto:bmatas@hotmail.com">bmatas@hotmail.com</a></td>
       <td class="col-tel"><span class="empty">—</span></td>
       <td class="col-web"><span class="empty">—</span></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">53</td>
-      <td class="name">Club De Tenis Y Padel Villa De Leganés</td>
+    <tr data-provincia="madrid">      <td class="name">Club De Tenis Y Padel Villa De Leganés</td>
       <td class="muni">Leganés</td>
       <td class="col-email"><a href="mailto:info@padeltenisleganes.com">info@padeltenisleganes.com</a></td>
       <td class="col-tel"><a href="tel:693643324">693643324</a></td>
       <td class="col-web"><a href="https://www.padeltenisleganes.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">54</td>
-      <td class="name">Club Deportivo Brezo Osuna</td>
+    <tr data-provincia="madrid">      <td class="name">Club Deportivo Brezo Osuna</td>
       <td class="muni">Madrid</td>
       <td class="col-email"><a href="mailto:info@club-brezo-osuna.com">info@club-brezo-osuna.com</a></td>
       <td class="col-tel"><span class="empty">—</span></td>
       <td class="col-web"><a href="http://club-brezo-osuna.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">55</td>
-      <td class="name">Club Deportivo Willy La Garena</td>
+    <tr data-provincia="madrid">      <td class="name">Club Deportivo Willy La Garena</td>
       <td class="muni">Alcalá de Henares</td>
       <td class="col-email"><a href="mailto:contacto@clubdeportivowillygarena.com">contacto@clubdeportivowillygarena.com</a></td>
       <td class="col-tel"><span class="empty">—</span></td>
       <td class="col-web"><a href="https://clubdeportivowillygarena.com/" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">56</td>
-      <td class="name">Club El Estudiante</td>
+    <tr data-provincia="madrid">      <td class="name">Club El Estudiante</td>
       <td class="muni">Alcobendas</td>
       <td class="col-email"><a href="mailto:info@clubelestudiante.com">info@clubelestudiante.com</a></td>
       <td class="col-tel"><a href="tel:677212074">677212074</a></td>
       <td class="col-web"><a href="https://www.clubelestudiante.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">57</td>
-      <td class="name">Club Indoor Padel Training</td>
+    <tr data-provincia="madrid">      <td class="name">Club Indoor Padel Training</td>
       <td class="muni">Rivas-Vaciamadrid</td>
       <td class="col-email"><a href="mailto:info@padeltraining.com">info@padeltraining.com</a></td>
       <td class="col-tel"><a href="tel:652797863">652797863</a></td>
       <td class="col-web"><a href="https://www.padeltraining.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">58</td>
-      <td class="name">Club Internacional de Tenis de Majadahonda</td>
+    <tr data-provincia="madrid">      <td class="name">Club Internacional de Tenis de Majadahonda</td>
       <td class="muni">Majadahonda</td>
       <td class="col-email"><a href="mailto:info@clubinternacional.es">info@clubinternacional.es</a></td>
       <td class="col-tel"><span class="empty">—</span></td>
       <td class="col-web"><a href="http://www.clubinternacional.es" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">59</td>
-      <td class="name">Club Las Encinas de Boadilla</td>
+    <tr data-provincia="madrid">      <td class="name">Club Las Encinas de Boadilla</td>
       <td class="muni">Boadilla del Monte</td>
       <td class="col-email"><a href="mailto:clublasencinas@clublasencinas.com">clublasencinas@clublasencinas.com</a></td>
       <td class="col-tel"><span class="empty">—</span></td>
       <td class="col-web"><a href="https://www.clublasencinas.es" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">60</td>
-      <td class="name">Club MasPadel</td>
+    <tr data-provincia="madrid">      <td class="name">Club MasPadel</td>
       <td class="muni">Las Rozas de Madrid</td>
       <td class="col-email"><a href="mailto:informacion@maspadel.com">informacion@maspadel.com</a></td>
       <td class="col-tel"><a href="tel:939518241">939518241</a></td>
       <td class="col-web"><a href="http://maspadel.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">61</td>
-      <td class="name">Club Mirasierra</td>
+    <tr data-provincia="madrid">      <td class="name">Club Mirasierra</td>
       <td class="muni">Madrid</td>
       <td class="col-email"><a href="mailto:informacion@clubmirasierra.com">informacion@clubmirasierra.com</a></td>
       <td class="col-tel"><span class="empty">—</span></td>
       <td class="col-web"><a href="http://www.clubmirasierra.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">62</td>
-      <td class="name">Club Nueva Cartuja</td>
+    <tr data-provincia="madrid">      <td class="name">Club Nueva Cartuja</td>
       <td class="muni">Valdetorres de Jarama</td>
       <td class="col-email"><a href="mailto:info@clubnuevacartuja.com">info@clubnuevacartuja.com</a></td>
       <td class="col-tel"><a href="tel:659887031">659887031</a></td>
       <td class="col-web"><a href="https://www.clubnuevacartuja.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">63</td>
-      <td class="name">Club Ocapa Polideportivo Duque De Algete</td>
+    <tr data-provincia="madrid">      <td class="name">Club Ocapa Polideportivo Duque De Algete</td>
       <td class="muni">Algete</td>
       <td class="col-email"><a href="mailto:algeteocapa@gmail.com">algeteocapa@gmail.com</a></td>
       <td class="col-tel"><a href="tel:674694456">674694456</a></td>
       <td class="col-web"><a href="http://www.clubocapa.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">64</td>
-      <td class="name">Club Padel 3 Olivos</td>
+    <tr data-provincia="madrid">      <td class="name">Club Padel 3 Olivos</td>
       <td class="muni">Madrid</td>
       <td class="col-email"><a href="mailto:club3olivos@hotmail.com">club3olivos@hotmail.com</a></td>
       <td class="col-tel"><a href="tel:647020724">647020724</a></td>
       <td class="col-web"><a href="http://www.padel3olivos.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">65</td>
-      <td class="name">Club Padel Chick</td>
+    <tr data-provincia="madrid">      <td class="name">Club Padel Chick</td>
       <td class="muni">Becerril de la Sierra</td>
       <td class="col-email"><a href="mailto:clubpadelchick@gmail.com">clubpadelchick@gmail.com</a></td>
       <td class="col-tel"><a href="tel:608227175">608227175</a></td>
       <td class="col-web"><span class="empty">—</span></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">66</td>
-      <td class="name">Club Padel Holos</td>
+    <tr data-provincia="madrid">      <td class="name">Club Padel Holos</td>
       <td class="muni">Madrid</td>
       <td class="col-email"><a href="mailto:padelholos@gmail.com">padelholos@gmail.com</a></td>
       <td class="col-tel"><a href="tel:618582200">618582200</a></td>
       <td class="col-web"><a href="http://padelholos.syltek3.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">67</td>
-      <td class="name">Club Padel Mirasur</td>
+    <tr data-provincia="madrid">      <td class="name">Club Padel Mirasur</td>
       <td class="muni">Pinto</td>
       <td class="col-email"><a href="mailto:clubdepadel@colegiomirasur.com">clubdepadel@colegiomirasur.com</a></td>
       <td class="col-tel"><span class="empty">—</span></td>
       <td class="col-web"><a href="https://colegiomirasur.com/club-de-padel/" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">68</td>
-      <td class="name">Club Padel Soto Torrejon</td>
+    <tr data-provincia="madrid">      <td class="name">Club Padel Soto Torrejon</td>
       <td class="muni">Torrejón de Ardoz</td>
       <td class="col-email"><a href="mailto:info@padelsototorrejon.es">info@padelsototorrejon.es</a></td>
       <td class="col-tel"><a href="tel:914885134">914885134</a></td>
       <td class="col-web"><a href="http://padelsototorrejon.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">69</td>
-      <td class="name">Club Six Padel Indoor</td>
+    <tr data-provincia="madrid">      <td class="name">Club Six Padel Indoor</td>
       <td class="muni">Aranjuez</td>
       <td class="col-email"><a href="mailto:sixpadel2.0@gmail.com">sixpadel2.0@gmail.com</a></td>
       <td class="col-tel"><a href="tel:918927482">918927482</a></td>
       <td class="col-web"><a href="https://www.clubsixpadel.es" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">70</td>
-      <td class="name">Club Social Deportivo Parque Lisboa</td>
+    <tr data-provincia="madrid">      <td class="name">Club Social Deportivo Parque Lisboa</td>
       <td class="muni">Alcorcón</td>
       <td class="col-email"><a href="mailto:info@parquelisboa.com">info@parquelisboa.com</a></td>
       <td class="col-tel"><a href="tel:910889460">910889460</a></td>
       <td class="col-web"><a href="http://www.parquelisboa.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">71</td>
-      <td class="name">Club Social Santo Domingo</td>
+    <tr data-provincia="madrid">      <td class="name">Club Social Santo Domingo</td>
       <td class="muni">Algete</td>
       <td class="col-email"><a href="mailto:recepcion@clubsocialsantodomingo.es">recepcion@clubsocialsantodomingo.es</a></td>
       <td class="col-tel"><a href="tel:608324130">608324130</a></td>
       <td class="col-web"><a href="http://www.clubsocialsantodomingo.es" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">72</td>
-      <td class="name">Club Suanzes Deporte y Ocio</td>
+    <tr data-provincia="madrid">      <td class="name">Club Suanzes Deporte y Ocio</td>
       <td class="muni">Madrid</td>
       <td class="col-email"><a href="mailto:info@suanzes.club">info@suanzes.club</a></td>
       <td class="col-tel"><span class="empty">—</span></td>
       <td class="col-web"><a href="http://www.suanzes.club" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">73</td>
-      <td class="name">Club Tenis Chamartin</td>
+    <tr data-provincia="madrid">      <td class="name">Club Tenis Chamartin</td>
       <td class="muni">Madrid</td>
       <td class="col-email"><a href="mailto:info@ctchamartin.es">info@ctchamartin.es</a></td>
       <td class="col-tel"><span class="empty">—</span></td>
       <td class="col-web"><a href="https://www.ctchamartin.es" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">74</td>
-      <td class="name">Clubpadelsur Torrejon de la Calzada</td>
+    <tr data-provincia="madrid">      <td class="name">Clubpadelsur Torrejon de la Calzada</td>
       <td class="muni">Torrejón de la Calzada</td>
       <td class="col-email"><a href="mailto:info@clubpadelsur.es">info@clubpadelsur.es</a></td>
       <td class="col-tel"><a href="tel:649291875">649291875</a></td>
       <td class="col-web"><a href="http://www.clubpadelsur.es" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">75</td>
-      <td class="name">Coimbra Padel</td>
+    <tr data-provincia="madrid">      <td class="name">Coimbra Padel</td>
       <td class="muni">Móstoles</td>
       <td class="col-email"><a href="mailto:coimbrapadel@gmail.com">coimbrapadel@gmail.com</a></td>
       <td class="col-tel"><span class="empty">—</span></td>
       <td class="col-web"><a href="https://www.coimbrapadelmostoles.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">76</td>
-      <td class="name">Complejo Deportivo Los Ángeles</td>
+    <tr data-provincia="madrid">      <td class="name">Complejo Deportivo Los Ángeles</td>
       <td class="muni">Getafe</td>
       <td class="col-email"><a href="mailto:info@complejodeportivolosangeles.com">info@complejodeportivolosangeles.com</a></td>
       <td class="col-tel"><span class="empty">—</span></td>
       <td class="col-web"><a href="https://complejodeportivolosangeles.com/" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">77</td>
-      <td class="name">CR5 Padel Fuente del Saz</td>
+    <tr data-provincia="madrid">      <td class="name">CR5 Padel Fuente del Saz</td>
       <td class="muni">Fuente el Saz de Jarama</td>
       <td class="col-email"><a href="mailto:recepcion@cr5padelfuente.com">recepcion@cr5padelfuente.com</a></td>
       <td class="col-tel"><a href="tel:608496736">608496736</a></td>
       <td class="col-web"><a href="http://cr5padelfuenteelsaz.syltek3.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">78</td>
-      <td class="name">CTP Arganda del Rey</td>
+    <tr data-provincia="madrid">      <td class="name">CTP Arganda del Rey</td>
       <td class="muni">Arganda del Rey</td>
       <td class="col-email"><a href="mailto:info@clubtenisypadelargandadelrey.com">info@clubtenisypadelargandadelrey.com</a></td>
       <td class="col-tel"><a href="tel:691306111">691306111</a></td>
       <td class="col-web"><a href="https://www.clubtenisypadelargandadelrey.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">79</td>
-      <td class="name">Cuarto Set</td>
+    <tr data-provincia="madrid">      <td class="name">Cuarto Set</td>
       <td class="muni">Padel Indoor - Colmenar Viejo</td>
       <td class="col-email"><a href="mailto:info@elcuartoset.com">info@elcuartoset.com</a></td>
       <td class="col-tel"><span class="empty">—</span></td>
       <td class="col-web"><a href="http://www.elcuartoset.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">80</td>
-      <td class="name">Cubas Sport Club</td>
+    <tr data-provincia="madrid">      <td class="name">Cubas Sport Club</td>
       <td class="muni">Cubas de la Sagra</td>
       <td class="col-email"><a href="mailto:info@cubassportclub.com">info@cubassportclub.com</a></td>
       <td class="col-tel"><a href="tel:736313126">736313126</a></td>
       <td class="col-web"><span class="empty">—</span></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">81</td>
-      <td class="name">David Lloyd Aravaca</td>
+    <tr data-provincia="madrid">      <td class="name">David Lloyd Aravaca</td>
       <td class="muni">Madrid</td>
       <td class="col-email"><a href="mailto:aravaca@davidlloyd.es">aravaca@davidlloyd.es</a></td>
       <td class="col-tel"><span class="empty">—</span></td>
       <td class="col-web"><a href="https://www.davidlloyd.es/clubs/aravaca" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">82</td>
-      <td class="name">David Lloyd La Finca</td>
+    <tr data-provincia="madrid">      <td class="name">David Lloyd La Finca</td>
       <td class="muni">Pozuelo de Alarcón</td>
       <td class="col-email"><a href="mailto:lafinca@davidlloyd.es">lafinca@davidlloyd.es</a></td>
       <td class="col-tel"><a href="tel:917997080">917997080</a></td>
       <td class="col-web"><a href="https://www.davidlloyd.es" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">83</td>
-      <td class="name">Dos Deporte Fuenlabrada</td>
+    <tr data-provincia="madrid">      <td class="name">Dos Deporte Fuenlabrada</td>
       <td class="muni">Fuenlabrada</td>
       <td class="col-email"><a href="mailto:atencionalcliente.naranjo@dosdeporte.es">atencionalcliente.naranjo@dosdeporte.es</a></td>
       <td class="col-tel"><span class="empty">—</span></td>
       <td class="col-web"><a href="https://www.dosdeporte.es" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">84</td>
-      <td class="name">Dreamfit Alcorcón</td>
+    <tr data-provincia="madrid">      <td class="name">Dreamfit Alcorcón</td>
       <td class="muni">Alcorcón</td>
       <td class="col-email"><a href="mailto:padel@dreamfit.es">padel@dreamfit.es</a></td>
       <td class="col-tel"><span class="empty">—</span></td>
       <td class="col-web"><a href="http://www.dreamfit.es/centros/alcorcon" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">85</td>
-      <td class="name">Duet Sports Francisco Fernández Ochoa</td>
+    <tr data-provincia="madrid">      <td class="name">Duet Sports Francisco Fernández Ochoa</td>
       <td class="muni">Madrid</td>
       <td class="col-email"><a href="mailto:ffernandez.ochoa@duetsports.com">ffernandez.ochoa@duetsports.com</a></td>
       <td class="col-tel"><span class="empty">—</span></td>
       <td class="col-web"><a href="https://cityofmadridfilmoffice.com/localizacion/centro-deportivo-municipal-francisco-fernandez-ochoa/" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">86</td>
-      <td class="name">Duin Sports Las Rozas</td>
+    <tr data-provincia="madrid">      <td class="name">Duin Sports Las Rozas</td>
       <td class="muni">Las Rozas de Madrid</td>
       <td class="col-email"><a href="mailto:recepcion@lasrozas.duetsports.com">recepcion@lasrozas.duetsports.com</a></td>
       <td class="col-tel"><span class="empty">—</span></td>
       <td class="col-web"><a href="https://www.duinclub.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">87</td>
-      <td class="name">Enjoy &amp; Padel Villalbilla</td>
+    <tr data-provincia="madrid">      <td class="name">Enjoy &amp; Padel Villalbilla</td>
       <td class="muni">Villalbilla</td>
       <td class="col-email"><a href="mailto:info@enjoyandpadel.com">info@enjoyandpadel.com</a></td>
       <td class="col-tel"><a href="tel:653653919">653653919</a></td>
       <td class="col-web"><a href="https://enjoyandpadel.com/" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">88</td>
-      <td class="name">Escuela de Pádel El Valle</td>
+    <tr data-provincia="madrid">      <td class="name">Escuela de Pádel El Valle</td>
       <td class="muni">Madrid</td>
       <td class="col-email"><a href="mailto:info@padelelvalle.com">info@padelelvalle.com</a></td>
       <td class="col-tel"><a href="tel:961785229">961785229</a></td>
       <td class="col-web"><a href="http://www.padelelvalle.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">89</td>
-      <td class="name">Espacio Raqueta Alcalá</td>
+    <tr data-provincia="madrid">      <td class="name">Espacio Raqueta Alcalá</td>
       <td class="muni">Alcalá de Henares</td>
       <td class="col-email"><a href="mailto:administracion@espacioraqueta.es">administracion@espacioraqueta.es</a></td>
       <td class="col-tel"><a href="tel:648692002">648692002</a></td>
       <td class="col-web"><a href="http://www.espacioraqueta.es" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">90</td>
-      <td class="name">EUROINDOOR Alcorcón</td>
+    <tr data-provincia="madrid">      <td class="name">EUROINDOOR Alcorcón</td>
       <td class="muni">Alcorcón</td>
       <td class="col-email"><a href="mailto:euroindoorpadel@hotmail.com">euroindoorpadel@hotmail.com</a></td>
       <td class="col-tel"><a href="tel:910256344">910256344</a></td>
       <td class="col-web"><a href="https://www.euroindoorpadel.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">91</td>
-      <td class="name">Euroindoor Moraleja</td>
+    <tr data-provincia="madrid">      <td class="name">Euroindoor Moraleja</td>
       <td class="muni">Humanes de Madrid</td>
       <td class="col-email"><a href="mailto:info@euroindoorpadel.com">info@euroindoorpadel.com</a></td>
       <td class="col-tel"><span class="empty">—</span></td>
       <td class="col-web"><a href="https://euroindoorpadel.es/euroindoor-moraleja/" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">92</td>
-      <td class="name">Fitness Sport Valle de las Cañas</td>
+    <tr data-provincia="madrid">      <td class="name">Fitness Sport Valle de las Cañas</td>
       <td class="muni">Pozuelo de Alarcón</td>
       <td class="col-email"><a href="mailto:clubdeportivo@fitnessports.es">clubdeportivo@fitnessports.es</a></td>
       <td class="col-tel"><span class="empty">—</span></td>
       <td class="col-web"><a href="http://fitnessports.eu" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">93</td>
-      <td class="name">Fitup Padel Hub</td>
+    <tr data-provincia="madrid">      <td class="name">Fitup Padel Hub</td>
       <td class="muni">Brunete</td>
       <td class="col-email"><a href="mailto:brunete@fituppadelhub.com">brunete@fituppadelhub.com</a></td>
       <td class="col-tel"><a href="tel:758977379">758977379</a></td>
       <td class="col-web"><a href="https://fituppadelhub.es" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">94</td>
-      <td class="name">FITUP PADEL HUB PARQUE COIMBRA MOSTOLES</td>
+    <tr data-provincia="madrid">      <td class="name">FITUP PADEL HUB PARQUE COIMBRA MOSTOLES</td>
       <td class="muni">Móstoles</td>
       <td class="col-email"><a href="mailto:fcarlos_de@hotmail.com">fcarlos_de@hotmail.com</a></td>
       <td class="col-tel"><a href="tel:676697541">676697541</a></td>
       <td class="col-web"><span class="empty">—</span></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">95</td>
-      <td class="name">Forus Caja Mágica</td>
+    <tr data-provincia="madrid">      <td class="name">Forus Caja Mágica</td>
       <td class="muni">Madrid</td>
       <td class="col-email"><a href="mailto:infocajamagica@forus.es">infocajamagica@forus.es</a></td>
       <td class="col-tel"><span class="empty">—</span></td>
       <td class="col-web"><a href="https://forus.es/caja-magica" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">96</td>
-      <td class="name">Forus Fuenlabrada</td>
+    <tr data-provincia="madrid">      <td class="name">Forus Fuenlabrada</td>
       <td class="muni">Fuenlabrada</td>
       <td class="col-email"><a href="mailto:infofuenlabrada@forus.es">infofuenlabrada@forus.es</a></td>
       <td class="col-tel"><span class="empty">—</span></td>
       <td class="col-web"><a href="https://forus.es/fuenlabrada" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">97</td>
-      <td class="name">Forus La Rejas Majadahonda</td>
+    <tr data-provincia="madrid">      <td class="name">Forus La Rejas Majadahonda</td>
       <td class="muni">Majadahonda</td>
       <td class="col-email"><a href="mailto:lasrejasopenclub@gmail.com">lasrejasopenclub@gmail.com</a></td>
       <td class="col-tel"><span class="empty">—</span></td>
       <td class="col-web"><a href="https://forus.es/majadahonda-2/es" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">98</td>
-      <td class="name">Forus Móstoles</td>
+    <tr data-provincia="madrid">      <td class="name">Forus Móstoles</td>
       <td class="muni">Móstoles</td>
       <td class="col-email"><a href="mailto:infomostoles@forus.es">infomostoles@forus.es</a></td>
       <td class="col-tel"><a href="tel:917375094">917375094</a></td>
       <td class="col-web"><a href="https://forus.es/mostoles" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">99</td>
-      <td class="name">Forus Parla</td>
+    <tr data-provincia="madrid">      <td class="name">Forus Parla</td>
       <td class="muni">Parla</td>
       <td class="col-email"><a href="mailto:infoparla@forus.es">infoparla@forus.es</a></td>
       <td class="col-tel"><span class="empty">—</span></td>
       <td class="col-web"><a href="https://forus.es/parla" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">100</td>
-      <td class="name">Funky Padel</td>
+    <tr data-provincia="madrid">      <td class="name">Funky Padel</td>
       <td class="muni">Arganda del Rey</td>
       <td class="col-email"><a href="mailto:central@funkypadel.es">central@funkypadel.es</a></td>
       <td class="col-tel"><span class="empty">—</span></td>
       <td class="col-web"><span class="empty">—</span></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">101</td>
-      <td class="name">G2 Padel Indoor</td>
+    <tr data-provincia="madrid">      <td class="name">G2 Padel Indoor</td>
       <td class="muni">Daganzo de Arriba</td>
       <td class="col-email"><a href="mailto:info@g2padelindoor.es">info@g2padelindoor.es</a></td>
       <td class="col-tel"><a href="tel:674611108">674611108</a></td>
       <td class="col-web"><a href="http://www.g2padelindoor.es" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">102</td>
-      <td class="name">Galepadel Indoor La Garena</td>
+    <tr data-provincia="madrid">      <td class="name">Galepadel Indoor La Garena</td>
       <td class="muni">Alcalá de Henares</td>
       <td class="col-email"><span class="empty">—</span></td>
       <td class="col-tel"><a href="tel:658601185">658601185</a></td>
       <td class="col-web"><a href="https://www.galepadelindoorlagarena.com/" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">103</td>
-      <td class="name">Get Indoor Padel</td>
+    <tr data-provincia="madrid">      <td class="name">Get Indoor Padel</td>
       <td class="muni">Getafe</td>
       <td class="col-email"><a href="mailto:recepcion@getindoorpadel.com">recepcion@getindoorpadel.com</a></td>
       <td class="col-tel"><a href="tel:609614847">609614847</a></td>
       <td class="col-web"><span class="empty">—</span></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">104</td>
-      <td class="name">Gimnasio Municipal Mejorada</td>
+    <tr data-provincia="madrid">      <td class="name">Gimnasio Municipal Mejorada</td>
       <td class="muni">Mejorada del Campo</td>
       <td class="col-email"><span class="empty">—</span></td>
       <td class="col-tel"><a href="tel:649964136">649964136</a></td>
       <td class="col-web"><span class="empty">—</span></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">105</td>
-      <td class="name">GO fit Peñagrande</td>
+    <tr data-provincia="madrid">      <td class="name">GO fit Peñagrande</td>
       <td class="muni">Madrid</td>
       <td class="col-email"><a href="mailto:fuencarral@go-fit.es">fuencarral@go-fit.es</a></td>
       <td class="col-tel"><a href="tel:910884262">910884262</a></td>
       <td class="col-web"><a href="https://go-fit.es/centros/go-fit-penagrande/" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">106</td>
-      <td class="name">Golden Padel Club</td>
+    <tr data-provincia="madrid">      <td class="name">Golden Padel Club</td>
       <td class="muni">Pinto</td>
       <td class="col-email"><a href="mailto:info@goldenpadelclub.com">info@goldenpadelclub.com</a></td>
       <td class="col-tel"><a href="tel:626763863">626763863</a></td>
       <td class="col-web"><a href="https://goldenpadelclub.com/" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">107</td>
-      <td class="name">Golf Park</td>
+    <tr data-provincia="madrid">      <td class="name">Golf Park</td>
       <td class="muni">Alcobendas</td>
       <td class="col-email"><a href="mailto:info@golfpark.es">info@golfpark.es</a></td>
       <td class="col-tel"><span class="empty">—</span></td>
       <td class="col-web"><a href="http://www.golfpark.es" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">108</td>
-      <td class="name">Golf Santander &amp; Sports</td>
+    <tr data-provincia="madrid">      <td class="name">Golf Santander &amp; Sports</td>
       <td class="muni">Boadilla del Monte</td>
       <td class="col-email"><a href="mailto:centrodeportivo@golfsantander.es">centrodeportivo@golfsantander.es</a></td>
       <td class="col-tel"><a href="tel:988145238">988145238</a></td>
       <td class="col-web"><a href="https://www.golfsantander.es/websantander/centro_deportivo" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">109</td>
-      <td class="name">Greenvilas Meco Sports Center</td>
+    <tr data-provincia="madrid">      <td class="name">Greenvilas Meco Sports Center</td>
       <td class="muni">Meco</td>
       <td class="col-email"><a href="mailto:greenvilas@greenvilas.es">greenvilas@greenvilas.es</a></td>
       <td class="col-tel"><a href="tel:911615042">911615042</a></td>
       <td class="col-web"><a href="http://www.greenvilas.es" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">110</td>
-      <td class="name">Hitpadel Indoor Coslada</td>
+    <tr data-provincia="madrid">      <td class="name">Hitpadel Indoor Coslada</td>
       <td class="muni">Coslada</td>
       <td class="col-email"><a href="mailto:info@hitpadel.com">info@hitpadel.com</a></td>
       <td class="col-tel"><a href="tel:637413136">637413136</a></td>
       <td class="col-web"><a href="http://www.hitpadel.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">111</td>
-      <td class="name">IberiaMart Padel Club</td>
+    <tr data-provincia="madrid">      <td class="name">IberiaMart Padel Club</td>
       <td class="muni">Madrid</td>
       <td class="col-email"><a href="mailto:padel@iberiamart.es">padel@iberiamart.es</a></td>
       <td class="col-tel"><a href="tel:915565965">915565965</a></td>
       <td class="col-web"><a href="https://iberiamart.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">112</td>
-      <td class="name">Indie Padel Club</td>
+    <tr data-provincia="madrid">      <td class="name">Indie Padel Club</td>
       <td class="muni">Madrid</td>
       <td class="col-email"><a href="mailto:info@indiepadelclub.es">info@indiepadelclub.es</a></td>
       <td class="col-tel"><a href="tel:683293467">683293467</a></td>
       <td class="col-web"><a href="https://www.indiepadelclub.es/" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">113</td>
-      <td class="name">Instalación Deportiva Canal de Isabel II</td>
+    <tr data-provincia="madrid">      <td class="name">Instalación Deportiva Canal de Isabel II</td>
       <td class="muni">Madrid</td>
       <td class="col-email"><a href="mailto:id.canal@madrid.org">id.canal@madrid.org</a></td>
       <td class="col-tel"><span class="empty">—</span></td>
       <td class="col-web"><a href="http://www.comunidad.madrid/centros/instalaciones-deportivas-canal-isabel-ii" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">114</td>
-      <td class="name">La Masó Sports Club</td>
+    <tr data-provincia="madrid">      <td class="name">La Masó Sports Club</td>
       <td class="muni">Madrid</td>
       <td class="col-email"><a href="mailto:info@lamasosportclub.es">info@lamasosportclub.es</a></td>
       <td class="col-tel"><span class="empty">—</span></td>
       <td class="col-web"><a href="http://lamasosportclub.es" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">115</td>
-      <td class="name">La Nave PadelCenter</td>
+    <tr data-provincia="madrid">      <td class="name">La Nave PadelCenter</td>
       <td class="muni">Guadarrama</td>
       <td class="col-email"><a href="mailto:info@lanavepadelcenter.com">info@lanavepadelcenter.com</a></td>
       <td class="col-tel"><a href="tel:918547838">918547838</a></td>
       <td class="col-web"><a href="https://www.lanavepadelcenter.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">116</td>
-      <td class="name">La Pecera Padel Club</td>
+    <tr data-provincia="madrid">      <td class="name">La Pecera Padel Club</td>
       <td class="muni">Humanes de Madrid</td>
       <td class="col-email"><a href="mailto:info@lapecerapadelclub.com">info@lapecerapadelclub.com</a></td>
       <td class="col-tel"><a href="tel:942669774">942669774</a></td>
       <td class="col-web"><a href="http://www.lapecerapadelclub.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">117</td>
-      <td class="name">La Vida Padel</td>
+    <tr data-provincia="madrid">      <td class="name">La Vida Padel</td>
       <td class="muni">Alcobendas</td>
       <td class="col-email"><a href="mailto:eventos@lavidapadel.com">eventos@lavidapadel.com</a></td>
       <td class="col-tel"><a href="tel:615507461">615507461</a></td>
       <td class="col-web"><a href="https://lavidapadel.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">118</td>
-      <td class="name">Las Rozas Padel Center</td>
+    <tr data-provincia="madrid">      <td class="name">Las Rozas Padel Center</td>
       <td class="muni">Las Rozas de Madrid</td>
       <td class="col-email"><a href="mailto:info@lasrozaspadelcenter.es">info@lasrozaspadelcenter.es</a></td>
       <td class="col-tel"><a href="tel:683635875">683635875</a></td>
       <td class="col-web"><a href="https://lasrozaspadelcenter.es/" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">119</td>
-      <td class="name">Las Tablas Sports Club</td>
+    <tr data-provincia="madrid">      <td class="name">Las Tablas Sports Club</td>
       <td class="muni">Madrid</td>
       <td class="col-email"><a href="mailto:recepcion@padelmadridlastablas.es">recepcion@padelmadridlastablas.es</a></td>
       <td class="col-tel"><a href="tel:776425954">776425954</a></td>
       <td class="col-web"><a href="https://www.padelmadridlastablas.es" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">120</td>
-      <td class="name">Liceo Padel</td>
+    <tr data-provincia="madrid">      <td class="name">Liceo Padel</td>
       <td class="muni">Alcobendas</td>
       <td class="col-email"><a href="mailto:liceosports@liceo-europeo.es">liceosports@liceo-europeo.es</a></td>
       <td class="col-tel"><a href="tel:912772772">912772772</a></td>
       <td class="col-web"><a href="https://liceosports.es/" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">121</td>
-      <td class="name">M3 Padel Center</td>
+    <tr data-provincia="madrid">      <td class="name">M3 Padel Center</td>
       <td class="muni">Leganés</td>
       <td class="col-email"><a href="mailto:info@padelcenter.com">info@padelcenter.com</a></td>
       <td class="col-tel"><a href="tel:619604420">619604420</a></td>
       <td class="col-web"><a href="https://m3padelcenter.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">122</td>
-      <td class="name">M30 School Padel Center</td>
+    <tr data-provincia="madrid">      <td class="name">M30 School Padel Center</td>
       <td class="muni">Madrid</td>
       <td class="col-email"><a href="mailto:info@schoolpadelcenter.com">info@schoolpadelcenter.com</a></td>
       <td class="col-tel"><a href="tel:664482647">664482647</a></td>
       <td class="col-web"><a href="http://schoolpadelcenter.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">123</td>
-      <td class="name">Mad4Padel</td>
+    <tr data-provincia="madrid">      <td class="name">Mad4Padel</td>
       <td class="muni">Pozuelo de Alarcón</td>
       <td class="col-email"><a href="mailto:info@mad4padel.es">info@mad4padel.es</a></td>
       <td class="col-tel"><span class="empty">—</span></td>
       <td class="col-web"><a href="https://www.mad4padel.es" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">124</td>
-      <td class="name">Madrid Central Padel</td>
+    <tr data-provincia="madrid">      <td class="name">Madrid Central Padel</td>
       <td class="muni">Madrid</td>
       <td class="col-email"><a href="mailto:recepcion@madridcentralpadel.com">recepcion@madridcentralpadel.com</a></td>
       <td class="col-tel"><a href="tel:608884708">608884708</a></td>
       <td class="col-web"><a href="http://www.madridcentralpadel.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">125</td>
-      <td class="name">Madriz PádelSur</td>
+    <tr data-provincia="madrid">      <td class="name">Madriz PádelSur</td>
       <td class="muni">Getafe</td>
       <td class="col-email"><span class="empty">—</span></td>
       <td class="col-tel"><a href="tel:681875798">681875798</a></td>
       <td class="col-web"><a href="https://madrizpadelsur.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">126</td>
-      <td class="name">MG Indoor Padel Club</td>
+    <tr data-provincia="madrid">      <td class="name">MG Indoor Padel Club</td>
       <td class="muni">Getafe</td>
       <td class="col-email"><a href="mailto:info@mgpadel.com">info@mgpadel.com</a></td>
       <td class="col-tel"><span class="empty">—</span></td>
       <td class="col-web"><a href="http://mgpadel.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">127</td>
-      <td class="name">MOMO by Making Padel</td>
+    <tr data-provincia="madrid">      <td class="name">MOMO by Making Padel</td>
       <td class="muni">Madrid</td>
       <td class="col-email"><a href="mailto:makingpadel@momosportsclub.com">makingpadel@momosportsclub.com</a></td>
       <td class="col-tel"><a href="tel:670596725">670596725</a></td>
       <td class="col-web"><a href="https://momosportsclub.com/momo-making-padel-madrid/" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">128</td>
-      <td class="name">MVPadel Cercedilla</td>
+    <tr data-provincia="madrid">      <td class="name">MVPadel Cercedilla</td>
       <td class="muni">Cercedilla</td>
       <td class="col-email"><a href="mailto:mvpadelcercedilla@hotmail.com">mvpadelcercedilla@hotmail.com</a></td>
       <td class="col-tel"><a href="tel:635795072">635795072</a></td>
       <td class="col-web"><span class="empty">—</span></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">129</td>
-      <td class="name">Nexus Padel Majadahonda</td>
+    <tr data-provincia="madrid">      <td class="name">Nexus Padel Majadahonda</td>
       <td class="muni">Majadahonda</td>
       <td class="col-email"><a href="mailto:info@nexuspadel.com">info@nexuspadel.com</a></td>
       <td class="col-tel"><span class="empty">—</span></td>
       <td class="col-web"><a href="https://nexus-padel.com/" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">130</td>
-      <td class="name">Nexus Padel Villaverde</td>
+    <tr data-provincia="madrid">      <td class="name">Nexus Padel Villaverde</td>
       <td class="muni">Madrid</td>
       <td class="col-email"><span class="empty">—</span></td>
       <td class="col-tel"><a href="tel:694229926">694229926</a></td>
       <td class="col-web"><a href="https://nexus-padel.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">131</td>
-      <td class="name">Nogalpadel Indoor Club</td>
+    <tr data-provincia="madrid">      <td class="name">Nogalpadel Indoor Club</td>
       <td class="muni">Humanes de Madrid</td>
       <td class="col-email"><a href="mailto:nogalpadel@duraballos.com">nogalpadel@duraballos.com</a></td>
       <td class="col-tel"><a href="tel:914982719">914982719</a></td>
       <td class="col-web"><span class="empty">—</span></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">132</td>
-      <td class="name">Norte Real Sport Club</td>
+    <tr data-provincia="madrid">      <td class="name">Norte Real Sport Club</td>
       <td class="muni">San Sebastián de los Reyes</td>
       <td class="col-email"><a href="mailto:hola@nortereal.com">hola@nortereal.com</a></td>
       <td class="col-tel"><span class="empty">—</span></td>
       <td class="col-web"><a href="https://www.nortereal.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">133</td>
-      <td class="name">Novopadel</td>
+    <tr data-provincia="madrid">      <td class="name">Novopadel</td>
       <td class="muni">Móstoles</td>
       <td class="col-email"><a href="mailto:info@novopadel.com">info@novopadel.com</a></td>
       <td class="col-tel"><a href="tel:695187669">695187669</a></td>
       <td class="col-web"><a href="http://www.novopadel.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">134</td>
-      <td class="name">O2 Centro Wellness Plenilunio</td>
+    <tr data-provincia="madrid">      <td class="name">O2 Centro Wellness Plenilunio</td>
       <td class="muni">Madrid</td>
       <td class="col-email"><a href="mailto:plenilunio@o2cw.es">plenilunio@o2cw.es</a></td>
       <td class="col-tel"><span class="empty">—</span></td>
       <td class="col-web"><a href="https://madrid.o2cw.es/plenilunio/" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">135</td>
-      <td class="name">Ondapadel</td>
+    <tr data-provincia="madrid">      <td class="name">Ondapadel</td>
       <td class="muni">Alcorcón</td>
       <td class="col-email"><a href="mailto:info@ondapadel.es">info@ondapadel.es</a></td>
       <td class="col-tel"><a href="tel:672460888">672460888</a></td>
       <td class="col-web"><a href="http://www.ondapadel.es" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">136</td>
-      <td class="name">Origen Sport</td>
+    <tr data-provincia="madrid">      <td class="name">Origen Sport</td>
       <td class="muni">Navalcarnero</td>
       <td class="col-email"><a href="mailto:info@origensport.es">info@origensport.es</a></td>
       <td class="col-tel"><a href="tel:938352932">938352932</a></td>
       <td class="col-web"><a href="https://origensport.es" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">137</td>
-      <td class="name">Pabellón Deportivo Europa Leganés</td>
+    <tr data-provincia="madrid">      <td class="name">Pabellón Deportivo Europa Leganés</td>
       <td class="muni">Leganés</td>
       <td class="col-email"><a href="mailto:uadeportes@leganes.org">uadeportes@leganes.org</a></td>
       <td class="col-tel"><a href="tel:912489517">912489517</a></td>
       <td class="col-web"><span class="empty">—</span></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">138</td>
-      <td class="name">Padel 2.0 Club Indoor</td>
+    <tr data-provincia="madrid">      <td class="name">Padel 2.0 Club Indoor</td>
       <td class="muni">Móstoles</td>
       <td class="col-email"><a href="mailto:info@padeldospuntocero.com">info@padeldospuntocero.com</a></td>
       <td class="col-tel"><span class="empty">—</span></td>
       <td class="col-web"><a href="https://www.padeldospuntocero.es/" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">139</td>
-      <td class="name">Padel Attraction Indoor</td>
+    <tr data-provincia="madrid">      <td class="name">Padel Attraction Indoor</td>
       <td class="muni">Torrejón de Ardoz</td>
       <td class="col-email"><a href="mailto:recepcion@padelattraction.com">recepcion@padelattraction.com</a></td>
       <td class="col-tel"><span class="empty">—</span></td>
       <td class="col-web"><a href="http://padelattraction.com/" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">140</td>
-      <td class="name">Padel Bularas</td>
+    <tr data-provincia="madrid">      <td class="name">Padel Bularas</td>
       <td class="muni">Pozuelo de Alarcón</td>
       <td class="col-email"><a href="mailto:direccion@padelbularas.com">direccion@padelbularas.com</a></td>
       <td class="col-tel"><a href="tel:689484944">689484944</a></td>
       <td class="col-web"><a href="http://www.padelbularas.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">141</td>
-      <td class="name">Padel Club Usera</td>
+    <tr data-provincia="madrid">      <td class="name">Padel Club Usera</td>
       <td class="muni">Madrid</td>
       <td class="col-email"><a href="mailto:padelusera@gmail.com">padelusera@gmail.com</a></td>
       <td class="col-tel"><a href="tel:632021396">632021396</a></td>
       <td class="col-web"><a href="http://www.padelusera.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">142</td>
-      <td class="name">Padel Decathlon Getafe</td>
+    <tr data-provincia="madrid">      <td class="name">Padel Decathlon Getafe</td>
       <td class="muni">Getafe</td>
       <td class="col-email"><span class="empty">—</span></td>
       <td class="col-tel"><a href="tel:916918540">916918540</a></td>
       <td class="col-web"><a href="https://www.decathlon.es" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">143</td>
-      <td class="name">Padel Family Indoor</td>
+    <tr data-provincia="madrid">      <td class="name">Padel Family Indoor</td>
       <td class="muni">Valdemoro</td>
       <td class="col-email"><a href="mailto:%20info@padelfamily.es">%20info@padelfamily.es</a></td>
       <td class="col-tel"><a href="tel:910325348">910325348</a></td>
       <td class="col-web"><a href="https://www.padelfamily.es/" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">144</td>
-      <td class="name">Padel G24</td>
+    <tr data-provincia="madrid">      <td class="name">Padel G24</td>
       <td class="muni">Arroyomolinos</td>
       <td class="col-email"><a href="mailto:info@padelg24.com">info@padelg24.com</a></td>
       <td class="col-tel"><a href="tel:621096700">621096700</a></td>
       <td class="col-web"><a href="https://www.padelg24.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">145</td>
-      <td class="name">Padel Go Indoor Parla</td>
+    <tr data-provincia="madrid">      <td class="name">Padel Go Indoor Parla</td>
       <td class="muni">Parla</td>
       <td class="col-email"><a href="mailto:padelgoparla@gmail.com">padelgoparla@gmail.com</a></td>
       <td class="col-tel"><a href="tel:649533154">649533154</a></td>
       <td class="col-web"><a href="https://www.padelgo.es" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">146</td>
-      <td class="name">Padel Hangar</td>
+    <tr data-provincia="madrid">      <td class="name">Padel Hangar</td>
       <td class="muni">Alcobendas</td>
       <td class="col-email"><a href="mailto:escuela@padelhangar.es">escuela@padelhangar.es</a></td>
       <td class="col-tel"><a href="tel:619783325">619783325</a></td>
       <td class="col-web"><a href="https://padelhangar.es" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">147</td>
-      <td class="name">Padel Indoor Alcalá</td>
+    <tr data-provincia="madrid">      <td class="name">Padel Indoor Alcalá</td>
       <td class="muni">Alcalá de Henares</td>
       <td class="col-email"><a href="mailto:info@padelindooralcala.es">info@padelindooralcala.es</a></td>
       <td class="col-tel"><a href="tel:910139830">910139830</a></td>
       <td class="col-web"><a href="http://www.padelindooralcala.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">148</td>
-      <td class="name">Padel Indoor Alcorcón</td>
+    <tr data-provincia="madrid">      <td class="name">Padel Indoor Alcorcón</td>
       <td class="muni">Alcorcón</td>
       <td class="col-email"><a href="mailto:info@padelindooralcorcon.com">info@padelindooralcorcon.com</a></td>
       <td class="col-tel"><a href="tel:917528505">917528505</a></td>
       <td class="col-web"><a href="https://padelindooralcorcon.com/" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">149</td>
-      <td class="name">Padel Indoor Cerceda</td>
+    <tr data-provincia="madrid">      <td class="name">Padel Indoor Cerceda</td>
       <td class="muni">El Boalo</td>
       <td class="col-email"><a href="mailto:info@padelindoorcerceda.es">info@padelindoorcerceda.es</a></td>
       <td class="col-tel"><a href="tel:641768437">641768437</a></td>
       <td class="col-web"><a href="http://www.padelindoorcerceda.es" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">150</td>
-      <td class="name">Padel Indoor Griñón</td>
+    <tr data-provincia="madrid">      <td class="name">Padel Indoor Griñón</td>
       <td class="muni">Griñón</td>
       <td class="col-email"><a href="mailto:padelindoorgrinon@gmail.com">padelindoorgrinon@gmail.com</a></td>
       <td class="col-tel"><span class="empty">—</span></td>
       <td class="col-web"><span class="empty">—</span></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">151</td>
-      <td class="name">Padel Indoor Punta Chica</td>
+    <tr data-provincia="madrid">      <td class="name">Padel Indoor Punta Chica</td>
       <td class="muni">Alcalá de Henares</td>
       <td class="col-email"><a href="mailto:recepcion@padelpuntachica.com">recepcion@padelpuntachica.com</a></td>
       <td class="col-tel"><a href="tel:682379930">682379930</a></td>
       <td class="col-web"><a href="https://padelpuntachica.com/" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">152</td>
-      <td class="name">Padel Kas</td>
+    <tr data-provincia="madrid">      <td class="name">Padel Kas</td>
       <td class="muni">Madrid</td>
       <td class="col-email"><a href="mailto:info@padelkas.com">info@padelkas.com</a></td>
       <td class="col-tel"><a href="tel:917729126">917729126</a></td>
       <td class="col-web"><a href="http://www.padelkas.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">153</td>
-      <td class="name">Padel Norte</td>
+    <tr data-provincia="madrid">      <td class="name">Padel Norte</td>
       <td class="muni">Alcobendas</td>
       <td class="col-email"><a href="mailto:info@padelnorte.com">info@padelnorte.com</a></td>
       <td class="col-tel"><a href="tel:916611693">916611693</a></td>
       <td class="col-web"><a href="http://www.padelnorte.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">154</td>
-      <td class="name">Padel Para Todos</td>
+    <tr data-provincia="madrid">      <td class="name">Padel Para Todos</td>
       <td class="muni">Guadarrama</td>
       <td class="col-email"><a href="mailto:info@padelparatodos.es">info@padelparatodos.es</a></td>
       <td class="col-tel"><a href="tel:673838706">673838706</a></td>
       <td class="col-web"><span class="empty">—</span></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">155</td>
-      <td class="name">Padel Pastrana</td>
+    <tr data-provincia="madrid">      <td class="name">Padel Pastrana</td>
       <td class="muni">Madrid</td>
       <td class="col-email"><a href="mailto:info@padelpastrana.com">info@padelpastrana.com</a></td>
       <td class="col-tel"><a href="tel:731526120">731526120</a></td>
       <td class="col-web"><span class="empty">—</span></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">156</td>
-      <td class="name">Padel People Torrelodones</td>
+    <tr data-provincia="madrid">      <td class="name">Padel People Torrelodones</td>
       <td class="muni">Torrelodones</td>
       <td class="col-email"><a href="mailto:info@padelpeopletorrelodones.com">info@padelpeopletorrelodones.com</a></td>
       <td class="col-tel"><a href="tel:646798575">646798575</a></td>
       <td class="col-web"><a href="https://www.padelpeopletorrelodones.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">157</td>
-      <td class="name">Padel Rio Indoor</td>
+    <tr data-provincia="madrid">      <td class="name">Padel Rio Indoor</td>
       <td class="muni">Velilla de San Antonio</td>
       <td class="col-email"><a href="mailto:padelindoorrio@gmail.com">padelindoorrio@gmail.com</a></td>
       <td class="col-tel"><span class="empty">—</span></td>
       <td class="col-web"><a href="http://www.padelrio.es" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">158</td>
-      <td class="name">Padel Sense</td>
+    <tr data-provincia="madrid">      <td class="name">Padel Sense</td>
       <td class="muni">Alcorcón</td>
       <td class="col-email"><span class="empty">—</span></td>
       <td class="col-tel"><a href="tel:672995379">672995379</a></td>
       <td class="col-web"><span class="empty">—</span></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">159</td>
-      <td class="name">Padel Sport Center Tres Cantos</td>
+    <tr data-provincia="madrid">      <td class="name">Padel Sport Center Tres Cantos</td>
       <td class="muni">Tres Cantos</td>
       <td class="col-email"><a href="mailto:trescantos@bodyfactory.es">trescantos@bodyfactory.es</a></td>
       <td class="col-tel"><span class="empty">—</span></td>
       <td class="col-web"><a href="https://www.bodyfactory.es/gimnasio-sport-center-tres-cantos.html" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">160</td>
-      <td class="name">Padel Sport Home</td>
+    <tr data-provincia="madrid">      <td class="name">Padel Sport Home</td>
       <td class="muni">Algete</td>
       <td class="col-email"><a href="mailto:info@padelsporthome.com">info@padelsporthome.com</a></td>
       <td class="col-tel"><a href="tel:916293698">916293698</a></td>
       <td class="col-web"><a href="http://www.padelsporthome.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">161</td>
-      <td class="name">Padel Sport Indoor Getafe</td>
+    <tr data-provincia="madrid">      <td class="name">Padel Sport Indoor Getafe</td>
       <td class="muni">Getafe</td>
       <td class="col-email"><a href="mailto:padel@padelsportindoorgetafe.com">padel@padelsportindoorgetafe.com</a></td>
       <td class="col-tel"><a href="tel:790657688">790657688</a></td>
       <td class="col-web"><a href="http://padelsportindoorgetafe.es" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">162</td>
-      <td class="name">Padel StarVie Collado Mediano</td>
+    <tr data-provincia="madrid">      <td class="name">Padel StarVie Collado Mediano</td>
       <td class="muni">Collado Mediano</td>
       <td class="col-email"><a href="mailto:padelcolladomediano@starvie.com">padelcolladomediano@starvie.com</a></td>
       <td class="col-tel"><span class="empty">—</span></td>
       <td class="col-web"><a href="http://www.clubstarvie.matchpoint.com.es" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">163</td>
-      <td class="name">PadelSpirit Club</td>
+    <tr data-provincia="madrid">      <td class="name">PadelSpirit Club</td>
       <td class="muni">Madrid</td>
       <td class="col-email"><a href="mailto:info@padelspiritclub.es">info@padelspiritclub.es</a></td>
       <td class="col-tel"><a href="tel:617217171">617217171</a></td>
       <td class="col-web"><a href="https://www.padelspiritclub.es" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">164</td>
-      <td class="name">Paidesport Center La Ermita</td>
+    <tr data-provincia="madrid">      <td class="name">Paidesport Center La Ermita</td>
       <td class="muni">Madrid</td>
       <td class="col-email"><span class="empty">—</span></td>
       <td class="col-tel"><a href="tel:914700000">914700000</a></td>
       <td class="col-web"><a href="http://www.paidesportcenter.com/gimnasio_La-Ermita" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">165</td>
-      <td class="name">PALAS OCIO PADEL</td>
+    <tr data-provincia="madrid">      <td class="name">PALAS OCIO PADEL</td>
       <td class="muni">El Boalo</td>
       <td class="col-email"><a href="mailto:info@palasociopadelclub.es">info@palasociopadelclub.es</a></td>
       <td class="col-tel"><a href="tel:958065243">958065243</a></td>
       <td class="col-web"><span class="empty">—</span></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">166</td>
-      <td class="name">Parque Deportivo Puerta de Hierro</td>
+    <tr data-provincia="madrid">      <td class="name">Parque Deportivo Puerta de Hierro</td>
       <td class="muni">Madrid</td>
       <td class="col-email"><a href="mailto:reservapistas@fmpadel.com">reservapistas@fmpadel.com</a></td>
       <td class="col-tel"><a href="tel:913867358">913867358</a></td>
       <td class="col-web"><span class="empty">—</span></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">167</td>
-      <td class="name">Pinto Padel Club Deportivo Los Ángeles</td>
+    <tr data-provincia="madrid">      <td class="name">Pinto Padel Club Deportivo Los Ángeles</td>
       <td class="muni">Pinto</td>
       <td class="col-email"><a href="mailto:info@pintopadel.com">info@pintopadel.com</a></td>
       <td class="col-tel"><a href="tel:917813442">917813442</a></td>
       <td class="col-web"><a href="http://www.pintopadel.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">168</td>
-      <td class="name">Planet Padel Indoor</td>
+    <tr data-provincia="madrid">      <td class="name">Planet Padel Indoor</td>
       <td class="muni">Torrejón de Ardoz</td>
       <td class="col-email"><a href="mailto:info@planetpadelindoor.com">info@planetpadelindoor.com</a></td>
       <td class="col-tel"><a href="tel:760268943">760268943</a></td>
       <td class="col-web"><a href="http://www.planetpadelindoor.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">169</td>
-      <td class="name">Platinium Padel</td>
+    <tr data-provincia="madrid">      <td class="name">Platinium Padel</td>
       <td class="muni">Colmenar Viejo</td>
       <td class="col-email"><a href="mailto:info@platiniumpadel.com">info@platiniumpadel.com</a></td>
       <td class="col-tel"><a href="tel:641314202">641314202</a></td>
       <td class="col-web"><a href="https://www.platiniumpadel.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">170</td>
-      <td class="name">Polideportivo Carlos Ruiz</td>
+    <tr data-provincia="madrid">      <td class="name">Polideportivo Carlos Ruiz</td>
       <td class="muni">Pozuelo de Alarcón</td>
       <td class="col-email"><a href="mailto:deportes@pozuelo.madrid">deportes@pozuelo.madrid</a></td>
       <td class="col-tel"><span class="empty">—</span></td>
       <td class="col-web"><span class="empty">—</span></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">171</td>
-      <td class="name">Polideportivo de Valdetorres del Jarama</td>
+    <tr data-provincia="madrid">      <td class="name">Polideportivo de Valdetorres del Jarama</td>
       <td class="muni">Valdetorres de Jarama</td>
       <td class="col-email"><a href="mailto:info@ayto-valdetorresdejarama.es">info@ayto-valdetorresdejarama.es</a></td>
       <td class="col-tel"><a href="tel:918414143">918414143</a></td>
       <td class="col-web"><span class="empty">—</span></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">172</td>
-      <td class="name">Polideportivo Dehesa de Navalcarbón</td>
+    <tr data-provincia="madrid">      <td class="name">Polideportivo Dehesa de Navalcarbón</td>
       <td class="muni">Las Rozas de Madrid</td>
       <td class="col-email"><span class="empty">—</span></td>
       <td class="col-tel"><a href="tel:917579811">917579811</a></td>
       <td class="col-web"><span class="empty">—</span></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">173</td>
-      <td class="name">Polideportivo Héctor Valero</td>
+    <tr data-provincia="madrid">      <td class="name">Polideportivo Héctor Valero</td>
       <td class="muni">Sevilla la Nueva</td>
       <td class="col-email"><a href="mailto:informacion@sevillalanueva.es">informacion@sevillalanueva.es</a></td>
       <td class="col-tel"><a href="tel:696551165">696551165</a></td>
       <td class="col-web"><a href="https://www.sevillalanueva.es/polideportivo-municipal-hector-valero/" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">174</td>
-      <td class="name">Polideportivo Lili Alvarez</td>
+    <tr data-provincia="madrid">      <td class="name">Polideportivo Lili Alvarez</td>
       <td class="muni">Madrid</td>
       <td class="col-email"><a href="mailto:secretaria@edmoratalaz.com">secretaria@edmoratalaz.com</a></td>
       <td class="col-tel"><a href="tel:659595712">659595712</a></td>
       <td class="col-web"><span class="empty">—</span></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">175</td>
-      <td class="name">Polideportivo Municipal de Alcobendas José Caballero</td>
+    <tr data-provincia="madrid">      <td class="name">Polideportivo Municipal de Alcobendas José Caballero</td>
       <td class="muni">Alcobendas</td>
       <td class="col-email"><a href="mailto:info@tenisypadelciudadalcobendas.com">info@tenisypadelciudadalcobendas.com</a></td>
       <td class="col-tel"><span class="empty">—</span></td>
       <td class="col-web"><a href="https://www.alcobendas.org/es/ayuntamiento/equipamiento-municipal/polideportivo-municipal-de-alcobendas-jose-caballero" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">176</td>
-      <td class="name">Polideportivo Municipal de Talamanca de Jarama</td>
+    <tr data-provincia="madrid">      <td class="name">Polideportivo Municipal de Talamanca de Jarama</td>
       <td class="muni">Talamanca de Jarama</td>
       <td class="col-email"><a href="mailto:club.raqueta.talamanca@hotmail.com">club.raqueta.talamanca@hotmail.com</a></td>
       <td class="col-tel"><span class="empty">—</span></td>
       <td class="col-web"><a href="https://www.talamancadejarama.org/ayuntamiento/areas-y-servicios-municipales/deporte/" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">177</td>
-      <td class="name">Polideportivo Municipal Dehesa Boyal</td>
+    <tr data-provincia="madrid">      <td class="name">Polideportivo Municipal Dehesa Boyal</td>
       <td class="muni">San Sebastián de los Reyes</td>
       <td class="col-email"><a href="mailto:info.dehesa@sansedeporte.com">info.dehesa@sansedeporte.com</a></td>
       <td class="col-tel"><span class="empty">—</span></td>
       <td class="col-web"><span class="empty">—</span></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">178</td>
-      <td class="name">Polideportivo Municipal Galapagar</td>
+    <tr data-provincia="madrid">      <td class="name">Polideportivo Municipal Galapagar</td>
       <td class="muni">Galapagar</td>
       <td class="col-email"><a href="mailto:info@sportivegalapagar.com">info@sportivegalapagar.com</a></td>
       <td class="col-tel"><span class="empty">—</span></td>
       <td class="col-web"><span class="empty">—</span></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">179</td>
-      <td class="name">Polideportivo Municipal Paracuellos de Jarama</td>
+    <tr data-provincia="madrid">      <td class="name">Polideportivo Municipal Paracuellos de Jarama</td>
       <td class="muni">Paracuellos de Jarama</td>
       <td class="col-email"><span class="empty">—</span></td>
       <td class="col-tel"><span class="empty">—</span></td>
       <td class="col-web"><span class="empty">—</span></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">180</td>
-      <td class="name">Polideportivo Municipal Príncipe De Asturias</td>
+    <tr data-provincia="madrid">      <td class="name">Polideportivo Municipal Príncipe De Asturias</td>
       <td class="muni">Colmenarejo</td>
       <td class="col-email"><span class="empty">—</span></td>
       <td class="col-tel"><a href="tel:918589072">918589072</a></td>
       <td class="col-web"><span class="empty">—</span></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">181</td>
-      <td class="name">Polideportivo Municipal San Fernando de Henares</td>
+    <tr data-provincia="madrid">      <td class="name">Polideportivo Municipal San Fernando de Henares</td>
       <td class="muni">San Fernando de Henares</td>
       <td class="col-email"><a href="mailto:jaimepadeltenis@gmail.com">jaimepadeltenis@gmail.com</a></td>
       <td class="col-tel"><a href="tel:916719911">916719911</a></td>
       <td class="col-web"><span class="empty">—</span></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">182</td>
-      <td class="name">Polideportivo Municipal Torrelodones</td>
+    <tr data-provincia="madrid">      <td class="name">Polideportivo Municipal Torrelodones</td>
       <td class="muni">Torrelodones</td>
       <td class="col-email"><span class="empty">—</span></td>
       <td class="col-tel"><span class="empty">—</span></td>
       <td class="col-web"><a href="https://www.torrelodones.es/deportes/instalaciones/polideportivo-municipal" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">183</td>
-      <td class="name">Polideportivo Municipal Velilla de San Antonio</td>
+    <tr data-provincia="madrid">      <td class="name">Polideportivo Municipal Velilla de San Antonio</td>
       <td class="muni">Velilla de San Antonio</td>
       <td class="col-email"><a href="mailto:idmvelilla@ayto-velilla.es">idmvelilla@ayto-velilla.es</a></td>
       <td class="col-tel"><a href="tel:916605000">916605000</a></td>
       <td class="col-web"><span class="empty">—</span></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">184</td>
-      <td class="name">Polideportivo Municipal Villa de Meco</td>
+    <tr data-provincia="madrid">      <td class="name">Polideportivo Municipal Villa de Meco</td>
       <td class="muni">Meco</td>
       <td class="col-email"><span class="empty">—</span></td>
       <td class="col-tel"><a href="tel:918861007">918861007</a></td>
       <td class="col-web"><span class="empty">—</span></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">185</td>
-      <td class="name">Polideportivo Pradillo Pozuelo de Alarcón</td>
+    <tr data-provincia="madrid">      <td class="name">Polideportivo Pradillo Pozuelo de Alarcón</td>
       <td class="muni">Pozuelo de Alarcón</td>
       <td class="col-email"><a href="mailto:deportes@pozuelo.madrid">deportes@pozuelo.madrid</a></td>
       <td class="col-tel"><a href="tel:913510626">913510626</a></td>
       <td class="col-web"><span class="empty">—</span></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">186</td>
-      <td class="name">Polideportivo Universidad Autónoma de Madrid</td>
+    <tr data-provincia="madrid">      <td class="name">Polideportivo Universidad Autónoma de Madrid</td>
       <td class="muni">Madrid</td>
       <td class="col-email"><span class="empty">—</span></td>
       <td class="col-tel"><span class="empty">—</span></td>
       <td class="col-web"><span class="empty">—</span></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">187</td>
-      <td class="name">Polideportivo Vicente del Bosque</td>
+    <tr data-provincia="madrid">      <td class="name">Polideportivo Vicente del Bosque</td>
       <td class="muni">Madrid</td>
       <td class="col-email"><a href="mailto:idmbpilar@madrid.es">idmbpilar@madrid.es</a></td>
       <td class="col-tel"><span class="empty">—</span></td>
       <td class="col-web"><a href="http://www.barriodelpilar.com/polideportivo-vicente-del-bosque/" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">188</td>
-      <td class="name">Por Sport Indoor Padel</td>
+    <tr data-provincia="madrid">      <td class="name">Por Sport Indoor Padel</td>
       <td class="muni">Griñón</td>
       <td class="col-email"><a href="mailto:porsportindoorpadel@gmail.com">porsportindoorpadel@gmail.com</a></td>
       <td class="col-tel"><span class="empty">—</span></td>
       <td class="col-web"><a href="https://www.porsport.es/club-de-padel/" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">189</td>
-      <td class="name">Pozuelo Padel Club</td>
+    <tr data-provincia="madrid">      <td class="name">Pozuelo Padel Club</td>
       <td class="muni">Pozuelo de Alarcón</td>
       <td class="col-email"><a href="mailto:info@pozuelopadelclub.es">info@pozuelopadelclub.es</a></td>
       <td class="col-tel"><a href="tel:620650540">620650540</a></td>
       <td class="col-web"><span class="empty">—</span></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">190</td>
-      <td class="name">Pro Padel Coslada</td>
+    <tr data-provincia="madrid">      <td class="name">Pro Padel Coslada</td>
       <td class="muni">Coslada</td>
       <td class="col-email"><span class="empty">—</span></td>
       <td class="col-tel"><a href="tel:623754902">623754902</a></td>
       <td class="col-web"><span class="empty">—</span></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">191</td>
-      <td class="name">PyT Villalba</td>
+    <tr data-provincia="madrid">      <td class="name">PyT Villalba</td>
       <td class="muni">Collado Villalba</td>
       <td class="col-email"><a href="mailto:info@pytvillalba.com">info@pytvillalba.com</a></td>
       <td class="col-tel"><a href="tel:910699111">910699111</a></td>
       <td class="col-web"><a href="http://www.pytvillalba.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">192</td>
-      <td class="name">Pádel Club Arena</td>
+    <tr data-provincia="madrid">      <td class="name">Pádel Club Arena</td>
       <td class="muni">Navalcarnero</td>
       <td class="col-email"><a href="mailto:info@padelarena.com">info@padelarena.com</a></td>
       <td class="col-tel"><a href="tel:681960653">681960653</a></td>
       <td class="col-web"><span class="empty">—</span></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">193</td>
-      <td class="name">Pádel Club Arganda</td>
+    <tr data-provincia="madrid">      <td class="name">Pádel Club Arganda</td>
       <td class="muni">Arganda del Rey</td>
       <td class="col-email"><span class="empty">—</span></td>
       <td class="col-tel"><a href="tel:626522109">626522109</a></td>
       <td class="col-web"><a href="https://www.padelclubarganda.es" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">194</td>
-      <td class="name">Pádel Indoor Alcalá Cisneros</td>
+    <tr data-provincia="madrid">      <td class="name">Pádel Indoor Alcalá Cisneros</td>
       <td class="muni">Alcalá de Henares</td>
       <td class="col-email"><a href="mailto:info@padelindooralcala.es">info@padelindooralcala.es</a></td>
       <td class="col-tel"><a href="tel:656794920">656794920</a></td>
       <td class="col-web"><a href="https://www.padelindooralcala.es" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">195</td>
-      <td class="name">Pádel Padre Damián</td>
+    <tr data-provincia="madrid">      <td class="name">Pádel Padre Damián</td>
       <td class="muni">Madrid</td>
       <td class="col-email"><a href="mailto:redes.pdamian@gmail.com">redes.pdamian@gmail.com</a></td>
       <td class="col-tel"><a href="tel:648581658">648581658</a></td>
       <td class="col-web"><span class="empty">—</span></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">196</td>
-      <td class="name">Pádel Rubuelos Club</td>
+    <tr data-provincia="madrid">      <td class="name">Pádel Rubuelos Club</td>
       <td class="muni">Casarrubuelos</td>
       <td class="col-email"><a href="mailto:info@padelrubuelos.es">info@padelrubuelos.es</a></td>
       <td class="col-tel"><a href="tel:673738748">673738748</a></td>
       <td class="col-web"><a href="https://padelrubuelos.es" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">197</td>
-      <td class="name">Pádel Tenis Becerril Horyzon</td>
+    <tr data-provincia="madrid">      <td class="name">Pádel Tenis Becerril Horyzon</td>
       <td class="muni">Becerril de la Sierra</td>
       <td class="col-email"><span class="empty">—</span></td>
       <td class="col-tel"><a href="tel:676417610">676417610</a></td>
       <td class="col-web"><span class="empty">—</span></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">198</td>
-      <td class="name">R3 Padel Mejorada</td>
+    <tr data-provincia="madrid">      <td class="name">R3 Padel Mejorada</td>
       <td class="muni">Mejorada del Campo</td>
       <td class="col-email"><a href="mailto:r3mejoradapadelindoor@gmail.es">r3mejoradapadelindoor@gmail.es</a></td>
       <td class="col-tel"><span class="empty">—</span></td>
       <td class="col-web"><a href="https://r3padel.padelclick.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">199</td>
-      <td class="name">RACE</td>
+    <tr data-provincia="madrid">      <td class="name">RACE</td>
       <td class="muni">Real Automovil Club España - San Sebastián de los Reyes</td>
       <td class="col-email"><a href="mailto:administracion_complejo@race.es">administracion_complejo@race.es</a></td>
       <td class="col-tel"><span class="empty">—</span></td>
       <td class="col-web"><a href="https://complejodeportivo.race.es" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">200</td>
-      <td class="name">Real Club de Golf La Herreria</td>
+    <tr data-provincia="madrid">      <td class="name">Real Club de Golf La Herreria</td>
       <td class="muni">San Lorenzo de El Escorial</td>
       <td class="col-email"><a href="mailto:tenis@espacioherreria.club">tenis@espacioherreria.club</a></td>
       <td class="col-tel"><a href="tel:918905111">918905111</a></td>
       <td class="col-web"><a href="https://golfmadridlaherreria.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">201</td>
-      <td class="name">Real Club de Golf La Moraleja</td>
+    <tr data-provincia="madrid">      <td class="name">Real Club de Golf La Moraleja</td>
       <td class="muni">Alcobendas</td>
       <td class="col-email"><a href="mailto:info@realclublamoraleja.com">info@realclublamoraleja.com</a></td>
       <td class="col-tel"><span class="empty">—</span></td>
       <td class="col-web"><a href="http://www.realclublamoraleja.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">202</td>
-      <td class="name">Real Club Puerta de Hierro</td>
+    <tr data-provincia="madrid">      <td class="name">Real Club Puerta de Hierro</td>
       <td class="muni">Madrid</td>
       <td class="col-email"><a href="mailto:lmalonso@rcphierro.com">lmalonso@rcphierro.com</a></td>
       <td class="col-tel"><a href="tel:913161745">913161745</a></td>
       <td class="col-web"><a href="https://www.rcphierro.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">203</td>
-      <td class="name">Republic Space</td>
+    <tr data-provincia="madrid">      <td class="name">Republic Space</td>
       <td class="muni">Boadilla del Monte</td>
       <td class="col-email"><a href="mailto:info@republicspace.com">info@republicspace.com</a></td>
       <td class="col-tel"><a href="tel:911299062">911299062</a></td>
       <td class="col-web"><a href="https://www.republicspace.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">204</td>
-      <td class="name">Riber padel</td>
+    <tr data-provincia="madrid">      <td class="name">Riber padel</td>
       <td class="muni">Alcobendas</td>
       <td class="col-email"><a href="mailto:riberpadel@hotmail.com">riberpadel@hotmail.com</a></td>
       <td class="col-tel"><a href="tel:989777454">989777454</a></td>
       <td class="col-web"><span class="empty">—</span></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">205</td>
-      <td class="name">Rivapadel</td>
+    <tr data-provincia="madrid">      <td class="name">Rivapadel</td>
       <td class="muni">Rivas-Vaciamadrid</td>
       <td class="col-email"><a href="mailto:rivapadel@gmail.com">rivapadel@gmail.com</a></td>
       <td class="col-tel"><a href="tel:623627101">623627101</a></td>
       <td class="col-web"><a href="http://www.rivapadel.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">206</td>
-      <td class="name">Rozas Club</td>
+    <tr data-provincia="madrid">      <td class="name">Rozas Club</td>
       <td class="muni">Las Rozas de Madrid</td>
       <td class="col-email"><a href="mailto:info@rozasclub.com">info@rozasclub.com</a></td>
       <td class="col-tel"><a href="tel:916304900">916304900</a></td>
       <td class="col-web"><a href="https://www.rozasclub.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">207</td>
-      <td class="name">RR padel indoor</td>
+    <tr data-provincia="madrid">      <td class="name">RR padel indoor</td>
       <td class="muni">Torrejón de Ardoz</td>
       <td class="col-email"><span class="empty">—</span></td>
       <td class="col-tel"><a href="tel:644071887">644071887</a></td>
       <td class="col-web"><span class="empty">—</span></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">208</td>
-      <td class="name">Río Arena Padel</td>
+    <tr data-provincia="madrid">      <td class="name">Río Arena Padel</td>
       <td class="muni">Madrid</td>
       <td class="col-email"><a href="mailto:info@rioarenapadel.com">info@rioarenapadel.com</a></td>
       <td class="col-tel"><a href="tel:611043923">611043923</a></td>
       <td class="col-web"><a href="https://www.rioarenapadel.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">209</td>
-      <td class="name">S7 Sport Padel Center</td>
+    <tr data-provincia="madrid">      <td class="name">S7 Sport Padel Center</td>
       <td class="muni">Fuenlabrada</td>
       <td class="col-email"><a href="mailto:info@s7padelcenter.com">info@s7padelcenter.com</a></td>
       <td class="col-tel"><a href="tel:722861751">722861751</a></td>
       <td class="col-web"><a href="https://s7padelcenter.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">210</td>
-      <td class="name">Santo Padel Madrid</td>
+    <tr data-provincia="madrid">      <td class="name">Santo Padel Madrid</td>
       <td class="muni">Madrid</td>
       <td class="col-email"><span class="empty">—</span></td>
       <td class="col-tel"><a href="tel:609009033">609009033</a></td>
       <td class="col-web"><span class="empty">—</span></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">211</td>
-      <td class="name">Set Point Padel Indoor</td>
+    <tr data-provincia="madrid">      <td class="name">Set Point Padel Indoor</td>
       <td class="muni">Getafe</td>
       <td class="col-email"><a href="mailto:contacto@setpoint.es">contacto@setpoint.es</a></td>
       <td class="col-tel"><a href="tel:916839189">916839189</a></td>
       <td class="col-web"><a href="https://www.setpoint.es" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">212</td>
-      <td class="name">Seven Padel Arganda</td>
+    <tr data-provincia="madrid">      <td class="name">Seven Padel Arganda</td>
       <td class="muni">Arganda del Rey</td>
       <td class="col-email"><a href="mailto:sevenpadel@gmail.com">sevenpadel@gmail.com</a></td>
       <td class="col-tel"><a href="tel:918707650">918707650</a></td>
       <td class="col-web"><a href="https://www.clubsevenpadel.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">213</td>
-      <td class="name">Solana Club de Padel</td>
+    <tr data-provincia="madrid">      <td class="name">Solana Club de Padel</td>
       <td class="muni">Torrejón de Ardoz</td>
       <td class="col-email"><a href="mailto:solana@padelsolana.es">solana@padelsolana.es</a></td>
       <td class="col-tel"><a href="tel:659081938">659081938</a></td>
       <td class="col-web"><a href="https://padelsolana.es" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">214</td>
-      <td class="name">Somontes Club Deportivo</td>
+    <tr data-provincia="madrid">      <td class="name">Somontes Club Deportivo</td>
       <td class="muni">Madrid</td>
       <td class="col-email"><a href="mailto:cdsomontes@ilunion.com">cdsomontes@ilunion.com</a></td>
       <td class="col-tel"><span class="empty">—</span></td>
       <td class="col-web"><a href="http://www.cdsomontes.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">215</td>
-      <td class="name">Sompadel</td>
+    <tr data-provincia="madrid">      <td class="name">Sompadel</td>
       <td class="muni">Aldea del Fresno</td>
       <td class="col-email"><a href="mailto:sompadel@hotmail.com">sompadel@hotmail.com</a></td>
       <td class="col-tel"><span class="empty">—</span></td>
       <td class="col-web"><span class="empty">—</span></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">216</td>
-      <td class="name">Sport Center Manolo Santana</td>
+    <tr data-provincia="madrid">      <td class="name">Sport Center Manolo Santana</td>
       <td class="muni">Boadilla del Monte</td>
       <td class="col-email"><a href="mailto:comunicacion@santanacenter.com">comunicacion@santanacenter.com</a></td>
       <td class="col-tel"><span class="empty">—</span></td>
       <td class="col-web"><a href="http://santanacenter.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">217</td>
-      <td class="name">Tenis Padel Villalba</td>
+    <tr data-provincia="madrid">      <td class="name">Tenis Padel Villalba</td>
       <td class="muni">Collado Villalba</td>
       <td class="col-email"><a href="mailto:info@tenispadelvillalba.com">info@tenispadelvillalba.com</a></td>
       <td class="col-tel"><a href="tel:918323022">918323022</a></td>
       <td class="col-web"><a href="https://www.tenispadelvillalba.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">218</td>
-      <td class="name">Tenis y Pádel Olivar de la Hinojosa</td>
+    <tr data-provincia="madrid">      <td class="name">Tenis y Pádel Olivar de la Hinojosa</td>
       <td class="muni">Madrid</td>
       <td class="col-email"><a href="mailto:go@golfolivar.com">go@golfolivar.com</a></td>
       <td class="col-tel"><span class="empty">—</span></td>
       <td class="col-web"><a href="http://olivar.golf" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">219</td>
-      <td class="name">Tenis Y Pádel Soto del Real</td>
+    <tr data-provincia="madrid">      <td class="name">Tenis Y Pádel Soto del Real</td>
       <td class="muni">Soto del Real</td>
       <td class="col-email"><a href="mailto:direccion@tenisypadelsoto.es">direccion@tenisypadelsoto.es</a></td>
       <td class="col-tel"><a href="tel:816398719">816398719</a></td>
       <td class="col-web"><a href="http://www.padelsporthome.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">220</td>
-      <td class="name">TIMING TEAM  ACADEMY</td>
+    <tr data-provincia="madrid">      <td class="name">TIMING TEAM  ACADEMY</td>
       <td class="muni">Serranillos del Valle</td>
       <td class="col-email"><a href="mailto:timingteamacademy@hotmail.com">timingteamacademy@hotmail.com</a></td>
       <td class="col-tel"><span class="empty">—</span></td>
       <td class="col-web"><span class="empty">—</span></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">221</td>
-      <td class="name">Twinning Padel</td>
+    <tr data-provincia="madrid">      <td class="name">Twinning Padel</td>
       <td class="muni">Daganzo de Arriba</td>
       <td class="col-email"><a href="mailto:info@twinningpadel.center">info@twinningpadel.center</a></td>
       <td class="col-tel"><span class="empty">—</span></td>
       <td class="col-web"><span class="empty">—</span></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">222</td>
-      <td class="name">UP Center</td>
+    <tr data-provincia="madrid">      <td class="name">UP Center</td>
       <td class="muni">Villanueva de la Cañada</td>
       <td class="col-email"><a href="mailto:info@upcenter.es">info@upcenter.es</a></td>
       <td class="col-tel"><span class="empty">—</span></td>
       <td class="col-web"><a href="http://www.upcenter.es" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">223</td>
-      <td class="name">Venditto Padel</td>
+    <tr data-provincia="madrid">      <td class="name">Venditto Padel</td>
       <td class="muni">Madrid</td>
       <td class="col-email"><span class="empty">—</span></td>
       <td class="col-tel"><a href="tel:693280671">693280671</a></td>
       <td class="col-web"><span class="empty">—</span></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">224</td>
-      <td class="name">Villapadel</td>
+    <tr data-provincia="madrid">      <td class="name">Villapadel</td>
       <td class="muni">Villaviciosa de Odón</td>
       <td class="col-email"><a href="mailto:villapadel@telefonica.net">villapadel@telefonica.net</a></td>
       <td class="col-tel"><a href="tel:861020281">861020281</a></td>
       <td class="col-web"><a href="http://www.villapadel.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">225</td>
-      <td class="name">Vim Padel Indoor</td>
+    <tr data-provincia="madrid">      <td class="name">Vim Padel Indoor</td>
       <td class="muni">Madrid</td>
       <td class="col-email"><a href="mailto:info@vimpadel.com">info@vimpadel.com</a></td>
       <td class="col-tel"><a href="tel:687994497">687994497</a></td>
       <td class="col-web"><a href="https://vimpadel.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">226</td>
-      <td class="name">Vipadel Valdemorillo</td>
+    <tr data-provincia="madrid">      <td class="name">Vipadel Valdemorillo</td>
       <td class="muni">Valdemorillo</td>
       <td class="col-email"><a href="mailto:info@valdemorillopadel.com">info@valdemorillopadel.com</a></td>
       <td class="col-tel"><a href="tel:743446272">743446272</a></td>
       <td class="col-web"><a href="http://valdemorillopadel.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">227</td>
-      <td class="name">Vipadel Villaconejos</td>
+    <tr data-provincia="madrid">      <td class="name">Vipadel Villaconejos</td>
       <td class="muni">Villaconejos</td>
       <td class="col-email"><a href="mailto:vipadel@vipadel.org">vipadel@vipadel.org</a></td>
       <td class="col-tel"><a href="tel:680072205">680072205</a></td>
       <td class="col-web"><a href="http://vipadel.org/" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">228</td>
-      <td class="name">VIPLOECHES</td>
+    <tr data-provincia="madrid">      <td class="name">VIPLOECHES</td>
       <td class="muni">Loeches</td>
       <td class="col-email"><span class="empty">—</span></td>
       <td class="col-tel"><a href="tel:918308250">918308250</a></td>
       <td class="col-web"><a href="http://www.viploeches.es" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">229</td>
-      <td class="name">Vita 10 Sport Club</td>
+    <tr data-provincia="madrid">      <td class="name">Vita 10 Sport Club</td>
       <td class="muni">Boadilla del Monte</td>
       <td class="col-email"><a href="mailto:vita10@vita10.es">vita10@vita10.es</a></td>
       <td class="col-tel"><span class="empty">—</span></td>
       <td class="col-web"><a href="http://www.vita10.es" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">230</td>
-      <td class="name">Volea Padel Indoor</td>
+    <tr data-provincia="madrid">      <td class="name">Volea Padel Indoor</td>
       <td class="muni">Navalcarnero</td>
       <td class="col-email"><a href="mailto:volea@volea.es">volea@volea.es</a></td>
       <td class="col-tel"><a href="tel:918111845">918111845</a></td>
       <td class="col-web"><a href="https://www.voleapadel.es" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">231</td>
-      <td class="name">Wellsport Club</td>
+    <tr data-provincia="madrid">      <td class="name">Wellsport Club</td>
       <td class="muni">Madrid</td>
       <td class="col-email"><a href="mailto:padel@wellsportclub.com">padel@wellsportclub.com</a></td>
       <td class="col-tel"><a href="tel:679212160">679212160</a></td>
       <td class="col-web"><a href="https://www.wellsportclub.com/padel-en-madrid/" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">232</td>
-      <td class="name">WELLSPORT Padel Club</td>
+    <tr data-provincia="madrid">      <td class="name">WELLSPORT Padel Club</td>
       <td class="muni">Leganés</td>
       <td class="col-email"><a href="mailto:info@wellsportpadelclub.com">info@wellsportpadelclub.com</a></td>
       <td class="col-tel"><a href="tel:659775662">659775662</a></td>
       <td class="col-web"><a href="https://wellsportpadelclub.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">233</td>
-      <td class="name">Whiteflakes Padel Center</td>
+    <tr data-provincia="madrid">      <td class="name">Whiteflakes Padel Center</td>
       <td class="muni">Alcobendas</td>
       <td class="col-email"><a href="mailto:padel@whiteflakes.es">padel@whiteflakes.es</a></td>
       <td class="col-tel"><a href="tel:686643017">686643017</a></td>
       <td class="col-web"><a href="https://www.whiteflakespadel.es" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">234</td>
-      <td class="name">Zagros Sports La Moraleja</td>
+    <tr data-provincia="madrid">      <td class="name">Zagros Sports La Moraleja</td>
       <td class="muni">Alcobendas</td>
       <td class="col-email"><a href="mailto:recepcion.lm@zagrossports.com">recepcion.lm@zagrossports.com</a></td>
       <td class="col-tel"><span class="empty">—</span></td>
       <td class="col-web"><a href="https://www.zagrossports.com/padel-alcobendas-zagros/" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="madrid">
-      <td class="num">235</td>
-      <td class="name">Zona Deportiva Club Deportivo Estoril 2</td>
+    <tr data-provincia="madrid">      <td class="name">Zona Deportiva Club Deportivo Estoril 2</td>
       <td class="muni">Móstoles</td>
       <td class="col-email"><a href="mailto:deportes@clubestoril2.es">deportes@clubestoril2.es</a></td>
       <td class="col-tel"><a href="tel:916170289">916170289</a></td>
       <td class="col-web"><a href="https://www.clubestoril2.es" target="_blank">↗ web</a></td>
     </tr>
-        <tr data-provincia="la-rioja">
-      <td class="num">236</td>
-      <td class="name">Alos Pádel Indoor</td>
+        <tr data-provincia="la-rioja">      <td class="name">Alos Pádel Indoor</td>
       <td class="muni">Logroño</td>
       <td class="col-email"><a href="mailto:oscar@alospadelindoor.com">oscar@alospadelindoor.com</a></td>
       <td class="col-tel"><a href="tel:941265060">941265060</a></td>
       <td class="col-web"><a href="http://www.alospadelindoor.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="la-rioja">
-      <td class="num">237</td>
-      <td class="name">Padel La Ribera</td>
+    <tr data-provincia="la-rioja">      <td class="name">Padel La Ribera</td>
       <td class="muni">Logroño</td>
       <td class="col-email"><span class="empty">—</span></td>
       <td class="col-tel"><a href="tel:646593407">646593407</a></td>
       <td class="col-web"><span class="empty">—</span></td>
     </tr>
-    <tr data-provincia="la-rioja">
-      <td class="num">238</td>
-      <td class="name">Inpadel</td>
+    <tr data-provincia="la-rioja">      <td class="name">Inpadel</td>
       <td class="muni">Calahorra</td>
       <td class="col-email"><a href="mailto:eduardo@in-padel.es">eduardo@in-padel.es</a></td>
       <td class="col-tel"><a href="tel:603450093">603450093</a></td>
       <td class="col-web"><a href="https://in-padel.es" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="la-rioja">
-      <td class="num">239</td>
-      <td class="name">Ebropádel Indoor Club Alfaro</td>
+    <tr data-provincia="la-rioja">      <td class="name">Ebropádel Indoor Club Alfaro</td>
       <td class="muni">Alfaro</td>
       <td class="col-email"><a href="mailto:padelreunido@gmail.com">padelreunido@gmail.com</a></td>
       <td class="col-tel"><a href="tel:624224493">624224493</a></td>
       <td class="col-web"><a href="https://ebropadel.matchpoint.com.es" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="barcelona">
-      <td class="num">240</td>
-      <td class="name">Padel Top Club Barcelona</td>
+    <tr data-provincia="barcelona">      <td class="name">Padel Top Club Barcelona</td>
       <td class="muni">L'Hospitalet de Llobregat</td>
       <td class="col-email"><a href="mailto:padeltopclub@hotmail.com">padeltopclub@hotmail.com</a></td>
       <td class="col-tel"><a href="tel:+34625679776">+34625679776</a></td>
       <td class="col-web"><a href="https://padeltopclub.es" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="barcelona">
-      <td class="num">241</td>
-      <td class="name">Padel Indoor Hospitalet</td>
+    <tr data-provincia="barcelona">      <td class="name">Padel Indoor Hospitalet</td>
       <td class="muni">L'Hospitalet de Llobregat</td>
       <td class="col-email"><a href="mailto:info@padelindoorhospitalet.com">info@padelindoorhospitalet.com</a></td>
       <td class="col-tel"><a href="tel:+34635721728">+34635721728</a></td>
       <td class="col-web"><a href="https://padelindoorhospitalet.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="barcelona">
-      <td class="num">242</td>
-      <td class="name">Padelnou</td>
+    <tr data-provincia="barcelona">      <td class="name">Padelnou</td>
       <td class="muni">L'Hospitalet de Llobregat</td>
       <td class="col-email"><a href="mailto:clubpadelnou@gmail.com">clubpadelnou@gmail.com</a></td>
       <td class="col-tel"><a href="tel:+34601984470">+34601984470</a></td>
       <td class="col-web"><span class="empty">—</span></td>
     </tr>
-    <tr data-provincia="barcelona">
-      <td class="num">243</td>
-      <td class="name">Padel Nuestro Hospitalet</td>
+    <tr data-provincia="barcelona">      <td class="name">Padel Nuestro Hospitalet</td>
       <td class="muni">L'Hospitalet de Llobregat</td>
       <td class="col-email"><a href="mailto:padelnuestroexpresshospitalet@gmail.com">padelnuestroexpresshospitalet@gmail.com</a></td>
       <td class="col-tel"><a href="tel:+34613224092">+34613224092</a></td>
       <td class="col-web"><span class="empty">—</span></td>
     </tr>
-    <tr data-provincia="barcelona">
-      <td class="num">244</td>
-      <td class="name">Badalona Padel Club</td>
+    <tr data-provincia="barcelona">      <td class="name">Badalona Padel Club</td>
       <td class="muni">Badalona</td>
       <td class="col-email"><a href="mailto:info@badalonapadelclub.com">info@badalonapadelclub.com</a></td>
       <td class="col-tel"><a href="tel:+34634849927">+34634849927</a></td>
       <td class="col-web"><a href="https://badalonapadelclub.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="barcelona">
-      <td class="num">245</td>
-      <td class="name">Tennis Club Badalona</td>
+    <tr data-provincia="barcelona">      <td class="name">Tennis Club Badalona</td>
       <td class="muni">Badalona</td>
       <td class="col-email"><a href="mailto:infoclub@tennisclubbadalona.org">infoclub@tennisclubbadalona.org</a></td>
       <td class="col-tel"><a href="tel:+34933952311">+34933952311</a></td>
       <td class="col-web"><a href="https://tennisclubbadalona.org" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="barcelona">
-      <td class="num">246</td>
-      <td class="name">Pàdel Indoor Badalona</td>
+    <tr data-provincia="barcelona">      <td class="name">Pàdel Indoor Badalona</td>
       <td class="muni">Badalona</td>
       <td class="col-email"><a href="mailto:info@padelindoorbadalona.com">info@padelindoorbadalona.com</a></td>
       <td class="col-tel"><a href="tel:+34619158665">+34619158665</a></td>
       <td class="col-web"><a href="https://padelindoorbadalona.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="barcelona">
-      <td class="num">247</td>
-      <td class="name">Direxis Pàdel</td>
+    <tr data-provincia="barcelona">      <td class="name">Direxis Pàdel</td>
       <td class="muni">Badalona</td>
       <td class="col-email"><span class="empty">—</span></td>
       <td class="col-tel"><a href="tel:+34930130399">+34930130399</a></td>
       <td class="col-web"><a href="https://direxispadel.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="barcelona">
-      <td class="num">248</td>
-      <td class="name">Club Padel Sabadell</td>
+    <tr data-provincia="barcelona">      <td class="name">Club Padel Sabadell</td>
       <td class="muni">Sabadell</td>
       <td class="col-email"><a href="mailto:info@clubpadelsabadell.com">info@clubpadelsabadell.com</a></td>
       <td class="col-tel"><a href="tel:+34937497026">+34937497026</a></td>
       <td class="col-web"><a href="https://clubpadelsabadell.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="barcelona">
-      <td class="num">249</td>
-      <td class="name">PADEL1 SABADELL</td>
+    <tr data-provincia="barcelona">      <td class="name">PADEL1 SABADELL</td>
       <td class="muni">Sabadell</td>
       <td class="col-email"><a href="mailto:info@padel1.com">info@padel1.com</a></td>
       <td class="col-tel"><a href="tel:+34937279467">+34937279467</a></td>
       <td class="col-web"><a href="https://padel1.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="barcelona">
-      <td class="num">250</td>
-      <td class="name">NTCpadel</td>
+    <tr data-provincia="barcelona">      <td class="name">NTCpadel</td>
       <td class="muni">Sabadell</td>
       <td class="col-email"><a href="mailto:info@ntcpadel.com">info@ntcpadel.com</a></td>
       <td class="col-tel"><a href="tel:+34627629493">+34627629493</a></td>
       <td class="col-web"><a href="https://ntcpadel.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="barcelona">
-      <td class="num">251</td>
-      <td class="name">FCV Padel</td>
+    <tr data-provincia="barcelona">      <td class="name">FCV Padel</td>
       <td class="muni">Terrassa</td>
       <td class="col-email"><a href="mailto:fcvpadel@gmail.com">fcvpadel@gmail.com</a></td>
       <td class="col-tel"><span class="empty">—</span></td>
       <td class="col-web"><span class="empty">—</span></td>
     </tr>
-    <tr data-provincia="barcelona">
-      <td class="num">252</td>
-      <td class="name">Terrassa Club De Padel</td>
+    <tr data-provincia="barcelona">      <td class="name">Terrassa Club De Padel</td>
       <td class="muni">Terrassa</td>
       <td class="col-email"><a href="mailto:administracion@terrassaclubdepadel.com">administracion@terrassaclubdepadel.com</a></td>
       <td class="col-tel"><a href="tel:+34931433949">+34931433949</a></td>
       <td class="col-web"><a href="https://terrassaclubdepadel.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="barcelona">
-      <td class="num">253</td>
-      <td class="name">Padel 7 Terrassa</td>
+    <tr data-provincia="barcelona">      <td class="name">Padel 7 Terrassa</td>
       <td class="muni">Terrassa</td>
       <td class="col-email"><a href="mailto:padel7esportiu@gmail.com">padel7esportiu@gmail.com</a></td>
       <td class="col-tel"><a href="tel:+34937798370">+34937798370</a></td>
       <td class="col-web"><span class="empty">—</span></td>
     </tr>
-    <tr data-provincia="barcelona">
-      <td class="num">254</td>
-      <td class="name">Real Club De Golf El Prat</td>
+    <tr data-provincia="barcelona">      <td class="name">Real Club De Golf El Prat</td>
       <td class="muni">Terrassa</td>
       <td class="col-email"><span class="empty">—</span></td>
       <td class="col-tel"><a href="tel:+34937281010">+34937281010</a></td>
       <td class="col-web"><span class="empty">—</span></td>
     </tr>
-    <tr data-provincia="barcelona">
-      <td class="num">255</td>
-      <td class="name">Terrassasports</td>
+    <tr data-provincia="barcelona">      <td class="name">Terrassasports</td>
       <td class="muni">Terrassa</td>
       <td class="col-email"><a href="mailto:info@terrassasports.com">info@terrassasports.com</a></td>
       <td class="col-tel"><a href="tel:+34937349500">+34937349500</a></td>
       <td class="col-web"><a href="https://terrassasports.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="barcelona">
-      <td class="num">256</td>
-      <td class="name">Beach Padel Club</td>
+    <tr data-provincia="barcelona">      <td class="name">Beach Padel Club</td>
       <td class="muni">Mataró</td>
       <td class="col-email"><a href="mailto:direccion@beachpadelclub.com">direccion@beachpadelclub.com</a></td>
       <td class="col-tel"><a href="tel:+34931749025">+34931749025</a></td>
       <td class="col-web"><a href="https://beachpadelclub.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="barcelona">
-      <td class="num">257</td>
-      <td class="name">Padel Indoor Mataró</td>
+    <tr data-provincia="barcelona">      <td class="name">Padel Indoor Mataró</td>
       <td class="muni">Mataró</td>
       <td class="col-email"><a href="mailto:info@padelindoormataro.es">info@padelindoormataro.es</a></td>
       <td class="col-tel"><a href="tel:+34930133903">+34930133903</a></td>
       <td class="col-web"><a href="https://padelindoormataro.es" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="barcelona">
-      <td class="num">258</td>
-      <td class="name">Spainsport Padel</td>
+    <tr data-provincia="barcelona">      <td class="name">Spainsport Padel</td>
       <td class="muni">Mataró</td>
       <td class="col-email"><a href="mailto:padel@spainsport.net">padel@spainsport.net</a></td>
       <td class="col-tel"><a href="tel:+34937506768">+34937506768</a></td>
       <td class="col-web"><a href="https://spainsport.net" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="barcelona">
-      <td class="num">259</td>
-      <td class="name">Club De Tenis Andrés Gimeno</td>
+    <tr data-provincia="barcelona">      <td class="name">Club De Tenis Andrés Gimeno</td>
       <td class="muni">Castelldefels</td>
       <td class="col-email"><a href="mailto:info@tenisgimeno.com">info@tenisgimeno.com</a></td>
       <td class="col-tel"><a href="tel:+34936652300">+34936652300</a></td>
       <td class="col-web"><a href="https://tenisgimeno.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="barcelona">
-      <td class="num">260</td>
-      <td class="name">CTC Wellness Club</td>
+    <tr data-provincia="barcelona">      <td class="name">CTC Wellness Club</td>
       <td class="muni">Castelldefels</td>
       <td class="col-email"><a href="mailto:info@ctcwellness.com">info@ctcwellness.com</a></td>
       <td class="col-tel"><a href="tel:+34936651285">+34936651285</a></td>
       <td class="col-web"><a href="https://ctcwellness.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="barcelona">
-      <td class="num">261</td>
-      <td class="name">Cube Fitness Club</td>
+    <tr data-provincia="barcelona">      <td class="name">Cube Fitness Club</td>
       <td class="muni">Manresa</td>
       <td class="col-email"><a href="mailto:cube@cube.cat">cube@cube.cat</a></td>
       <td class="col-tel"><a href="tel:+34938787559">+34938787559</a></td>
       <td class="col-web"><a href="https://cube.cat" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="barcelona">
-      <td class="num">262</td>
-      <td class="name">Club Tennis Manresa</td>
+    <tr data-provincia="barcelona">      <td class="name">Club Tennis Manresa</td>
       <td class="muni">Manresa</td>
       <td class="col-email"><a href="mailto:tennis@clubtennismanresa.com">tennis@clubtennismanresa.com</a></td>
       <td class="col-tel"><a href="tel:+34938772407">+34938772407</a></td>
       <td class="col-web"><a href="https://clubtennismanresa.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="barcelona">
-      <td class="num">263</td>
-      <td class="name">Barcelona Sports Academy</td>
+    <tr data-provincia="barcelona">      <td class="name">Barcelona Sports Academy</td>
       <td class="muni">Cabrils</td>
       <td class="col-email"><a href="mailto:info@barcelonasportsacademy.com">info@barcelonasportsacademy.com</a></td>
       <td class="col-tel"><a href="tel:+34657289188">+34657289188</a></td>
       <td class="col-web"><a href="https://barcelonasportsacademy.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="barcelona">
-      <td class="num">264</td>
-      <td class="name">BaPadel Barcelona Golf</td>
+    <tr data-provincia="barcelona">      <td class="name">BaPadel Barcelona Golf</td>
       <td class="muni">Sant Esteve Sesrovires</td>
       <td class="col-email"><span class="empty">—</span></td>
       <td class="col-tel"><a href="tel:+34937756800">+34937756800</a></td>
       <td class="col-web"><a href="https://bapadel.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="barcelona">
-      <td class="num">265</td>
-      <td class="name">Padel Barcelona El Prat</td>
+    <tr data-provincia="barcelona">      <td class="name">Padel Barcelona El Prat</td>
       <td class="muni">El Prat de Llobregat</td>
       <td class="col-email"><span class="empty">—</span></td>
       <td class="col-tel"><span class="empty">—</span></td>
       <td class="col-web"><a href="https://padelbarcelonaelprat.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="barcelona">
-      <td class="num">266</td>
-      <td class="name">Pàdel Tibidabo</td>
+    <tr data-provincia="barcelona">      <td class="name">Pàdel Tibidabo</td>
       <td class="muni">Barcelona</td>
       <td class="col-email"><span class="empty">—</span></td>
       <td class="col-tel"><a href="tel:+34678754045">+34678754045</a></td>
       <td class="col-web"><span class="empty">—</span></td>
     </tr>
-    <tr data-provincia="barcelona">
-      <td class="num">267</td>
-      <td class="name">Padel Training Barcelona</td>
+    <tr data-provincia="barcelona">      <td class="name">Padel Training Barcelona</td>
       <td class="muni">Viladecans</td>
       <td class="col-email"><span class="empty">—</span></td>
       <td class="col-tel"><a href="tel:+34605671355">+34605671355</a></td>
       <td class="col-web"><span class="empty">—</span></td>
     </tr>
-    <tr data-provincia="barcelona">
-      <td class="num">268</td>
-      <td class="name">Bela Padel Center Barcelona</td>
+    <tr data-provincia="barcelona">      <td class="name">Bela Padel Center Barcelona</td>
       <td class="muni">Barcelona</td>
       <td class="col-email"><span class="empty">—</span></td>
       <td class="col-tel"><span class="empty">—</span></td>
       <td class="col-web"><a href="https://belapadelcenter.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="barcelona">
-      <td class="num">269</td>
-      <td class="name">CN Barcelona (Padel)</td>
+    <tr data-provincia="barcelona">      <td class="name">CN Barcelona (Padel)</td>
       <td class="muni">Barcelona</td>
       <td class="col-email"><span class="empty">—</span></td>
       <td class="col-tel"><span class="empty">—</span></td>
       <td class="col-web"><a href="https://cnb.cat" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="girona">
-      <td class="num">270</td>
-      <td class="name">PADEL GIRONA UALA</td>
+    <tr data-provincia="girona">      <td class="name">PADEL GIRONA UALA</td>
       <td class="muni">Girona</td>
       <td class="col-email"><a href="mailto:propuestas@padelgirona.com">propuestas@padelgirona.com</a></td>
       <td class="col-tel"><a href="tel:+34662313098">+34662313098</a></td>
       <td class="col-web"><a href="https://padelgirona.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="girona">
-      <td class="num">271</td>
-      <td class="name">Gipàdel Padel Indoor</td>
+    <tr data-provincia="girona">      <td class="name">Gipàdel Padel Indoor</td>
       <td class="muni">Girona</td>
       <td class="col-email"><a href="mailto:hola@gipadel.com">hola@gipadel.com</a></td>
       <td class="col-tel"><a href="tel:+34872220808">+34872220808</a></td>
       <td class="col-web"><a href="https://gipadel.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="girona">
-      <td class="num">272</td>
-      <td class="name">Smash Pàdel Indoor</td>
+    <tr data-provincia="girona">      <td class="name">Smash Pàdel Indoor</td>
       <td class="muni">Girona</td>
       <td class="col-email"><a href="mailto:info@smash-padel.com">info@smash-padel.com</a></td>
       <td class="col-tel"><a href="tel:+34648620631">+34648620631</a></td>
       <td class="col-web"><a href="https://smash-padel.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="girona">
-      <td class="num">273</td>
-      <td class="name">Serres de Pals</td>
+    <tr data-provincia="girona">      <td class="name">Serres de Pals</td>
       <td class="muni">Pals</td>
       <td class="col-email"><span class="empty">—</span></td>
       <td class="col-tel"><span class="empty">—</span></td>
       <td class="col-web"><a href="https://serresdepals.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="lleida">
-      <td class="num">274</td>
-      <td class="name">Padel Indoor Lleida</td>
+    <tr data-provincia="lleida">      <td class="name">Padel Indoor Lleida</td>
       <td class="muni">Lleida</td>
       <td class="col-email"><a href="mailto:info@padelindoor.com">info@padelindoor.com</a></td>
       <td class="col-tel"><a href="tel:+34973194618">+34973194618</a></td>
       <td class="col-web"><a href="https://padelindoor.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="lleida">
-      <td class="num">275</td>
-      <td class="name">Club Natació Lleida</td>
+    <tr data-provincia="lleida">      <td class="name">Club Natació Lleida</td>
       <td class="muni">Lleida</td>
       <td class="col-email"><span class="empty">—</span></td>
       <td class="col-tel"><a href="tel:+34973243078">+34973243078</a></td>
       <td class="col-web"><a href="https://clubnataciolleida.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="lleida">
-      <td class="num">276</td>
-      <td class="name">Club Tennis Lleida</td>
+    <tr data-provincia="lleida">      <td class="name">Club Tennis Lleida</td>
       <td class="muni">Lleida</td>
       <td class="col-email"><span class="empty">—</span></td>
       <td class="col-tel"><span class="empty">—</span></td>
       <td class="col-web"><a href="https://padelink.cat" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="lleida">
-      <td class="num">277</td>
-      <td class="name">Golf Lleida & Country Club</td>
+    <tr data-provincia="lleida">      <td class="name">Golf Lleida & Country Club</td>
       <td class="muni">Lleida</td>
       <td class="col-email"><span class="empty">—</span></td>
       <td class="col-tel"><span class="empty">—</span></td>
       <td class="col-web"><a href="https://golflleida.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="tarragona">
-      <td class="num">278</td>
-      <td class="name">Club Esportiu Tarragona Padel Indoor (TPI)</td>
+    <tr data-provincia="tarragona">      <td class="name">Club Esportiu Tarragona Padel Indoor (TPI)</td>
       <td class="muni">Tarragona</td>
       <td class="col-email"><a href="mailto:mmartin@tarragonapadelindoor.es">mmartin@tarragonapadelindoor.es</a></td>
       <td class="col-tel"><a href="tel:+34638967632">+34638967632</a></td>
       <td class="col-web"><a href="https://tarragonapadelindoor.es" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="tarragona">
-      <td class="num">279</td>
-      <td class="name">Club Tennis Tarragona</td>
+    <tr data-provincia="tarragona">      <td class="name">Club Tennis Tarragona</td>
       <td class="muni">Tarragona</td>
       <td class="col-email"><a href="mailto:info@tennistarragona.com">info@tennistarragona.com</a></td>
       <td class="col-tel"><a href="tel:+34977208015">+34977208015</a></td>
       <td class="col-web"><a href="https://tennistarragona.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="tarragona">
-      <td class="num">280</td>
-      <td class="name">MesK Padel Tarragona</td>
+    <tr data-provincia="tarragona">      <td class="name">MesK Padel Tarragona</td>
       <td class="muni">Tarragona</td>
       <td class="col-email"><a href="mailto:pouspadel@gmail.com">pouspadel@gmail.com</a></td>
       <td class="col-tel"><span class="empty">—</span></td>
       <td class="col-web"><span class="empty">—</span></td>
     </tr>
-    <tr data-provincia="tarragona">
-      <td class="num">281</td>
-      <td class="name">Padel indoor Reus</td>
+    <tr data-provincia="tarragona">      <td class="name">Padel indoor Reus</td>
       <td class="muni">Reus</td>
       <td class="col-email"><a href="mailto:padelindooreus@gmail.com">padelindooreus@gmail.com</a></td>
       <td class="col-tel"><a href="tel:+34699088381">+34699088381</a></td>
       <td class="col-web"><span class="empty">—</span></td>
     </tr>
-    <tr data-provincia="tarragona">
-      <td class="num">282</td>
-      <td class="name">Padel Reus</td>
+    <tr data-provincia="tarragona">      <td class="name">Padel Reus</td>
       <td class="muni">Reus</td>
       <td class="col-email"><a href="mailto:padelreus@apuntat.com">padelreus@apuntat.com</a></td>
       <td class="col-tel"><a href="tel:+34977086636">+34977086636</a></td>
       <td class="col-web"><span class="empty">—</span></td>
     </tr>
-    <tr data-provincia="tarragona">
-      <td class="num">283</td>
-      <td class="name">Reus Deportiu</td>
+    <tr data-provincia="tarragona">      <td class="name">Reus Deportiu</td>
       <td class="muni">Reus</td>
       <td class="col-email"><a href="mailto:tennis_padel@reusdeportiu.cat">tennis_padel@reusdeportiu.cat</a></td>
       <td class="col-tel"><a href="tel:+34977331824">+34977331824</a></td>
       <td class="col-web"><a href="https://reusdeportiu.cat" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="tarragona">
-      <td class="num">284</td>
-      <td class="name">Padelx4 Reus</td>
+    <tr data-provincia="tarragona">      <td class="name">Padelx4 Reus</td>
       <td class="muni">Reus</td>
       <td class="col-email"><a href="mailto:info@padelx4reus.com">info@padelx4reus.com</a></td>
       <td class="col-tel"><span class="empty">—</span></td>
       <td class="col-web"><a href="https://padelx4reus.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="tarragona">
-      <td class="num">285</td>
-      <td class="name">Global Padel Sports</td>
+    <tr data-provincia="tarragona">      <td class="name">Global Padel Sports</td>
       <td class="muni">Reus</td>
       <td class="col-email"><a href="mailto:info@globalpadelsports.com">info@globalpadelsports.com</a></td>
       <td class="col-tel"><a href="tel:+34977271101">+34977271101</a></td>
       <td class="col-web"><a href="https://globalpadelsports.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="tarragona">
-      <td class="num">286</td>
-      <td class="name">Winner'Sport Padel</td>
+    <tr data-provincia="tarragona">      <td class="name">Winner'Sport Padel</td>
       <td class="muni">Reus</td>
       <td class="col-email"><a href="mailto:winnersport@apuntat.com">winnersport@apuntat.com</a></td>
       <td class="col-tel"><a href="tel:+34977104772">+34977104772</a></td>
       <td class="col-web"><span class="empty">—</span></td>
     </tr>
-    <tr data-provincia="tarragona">
-      <td class="num">287</td>
-      <td class="name">Club Tennis Reus Monterols</td>
+    <tr data-provincia="tarragona">      <td class="name">Club Tennis Reus Monterols</td>
       <td class="muni">Reus</td>
       <td class="col-email"><a href="mailto:info@tennismonterols.cat">info@tennismonterols.cat</a></td>
       <td class="col-tel"><a href="tel:+34977751560">+34977751560</a></td>
       <td class="col-web"><a href="https://tennismonterols.cat" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="tarragona">
-      <td class="num">288</td>
-      <td class="name">Club Tennis Tortosa</td>
+    <tr data-provincia="tarragona">      <td class="name">Club Tennis Tortosa</td>
       <td class="muni">Tortosa</td>
       <td class="col-email"><a href="mailto:info@clubtennistortosa.cat">info@clubtennistortosa.cat</a></td>
       <td class="col-tel"><a href="tel:+34977443006">+34977443006</a></td>
       <td class="col-web"><a href="https://clubtennistortosa.cat" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="tarragona">
-      <td class="num">289</td>
-      <td class="name">Pàdel Club Tortosa</td>
+    <tr data-provincia="tarragona">      <td class="name">Pàdel Club Tortosa</td>
       <td class="muni">Tortosa</td>
       <td class="col-email"><a href="mailto:tortosapadel@gmail.com">tortosapadel@gmail.com</a></td>
       <td class="col-tel"><a href="tel:+34637027693">+34637027693</a></td>
       <td class="col-web"><span class="empty">—</span></td>
     </tr>
-    <tr data-provincia="tarragona">
-      <td class="num">290</td>
-      <td class="name">Padelnou</td>
+    <tr data-provincia="tarragona">      <td class="name">Padelnou</td>
       <td class="muni">Hospitalet de l'Infant</td>
       <td class="col-email"><a href="mailto:clubpadelnou@gmail.com">clubpadelnou@gmail.com</a></td>
       <td class="col-tel"><a href="tel:+34877911439">+34877911439</a></td>
       <td class="col-web"><span class="empty">—</span></td>
     </tr>
-    <tr data-provincia="sevilla">
-      <td class="num">291</td>
-      <td class="name">Club Quiero Pádel</td>
+    <tr data-provincia="sevilla">      <td class="name">Club Quiero Pádel</td>
       <td class="muni">Sevilla</td>
       <td class="col-email"><span class="empty">—</span></td>
       <td class="col-tel"><a href="tel:672333414">672333414</a></td>
       <td class="col-web"><a href="https://quieropadel.com.es" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="sevilla">
-      <td class="num">292</td>
-      <td class="name">Racket Club Sevilla</td>
+    <tr data-provincia="sevilla">      <td class="name">Racket Club Sevilla</td>
       <td class="muni">Sevilla</td>
       <td class="col-email"><a href="mailto:administracion@racketclub.es">administracion@racketclub.es</a></td>
       <td class="col-tel"><a href="tel:648285347">648285347</a></td>
       <td class="col-web"><a href="https://racketclub.es" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="sevilla">
-      <td class="num">293</td>
-      <td class="name">Club Santa Clara</td>
+    <tr data-provincia="sevilla">      <td class="name">Club Santa Clara</td>
       <td class="muni">Sevilla</td>
       <td class="col-email"><a href="mailto:administracion@clubsantaclara.es">administracion@clubsantaclara.es</a></td>
       <td class="col-tel"><a href="tel:954256479">954256479</a></td>
       <td class="col-web"><a href="https://clubsantaclara.es" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="sevilla">
-      <td class="num">294</td>
-      <td class="name">Alavera Pádel</td>
+    <tr data-provincia="sevilla">      <td class="name">Alavera Pádel</td>
       <td class="muni">Sevilla</td>
       <td class="col-email"><a href="mailto:alaverapadel2015@gmail.com">alaverapadel2015@gmail.com</a></td>
       <td class="col-tel"><a href="tel:634280284">634280284</a></td>
       <td class="col-web"><span class="empty">—</span></td>
     </tr>
-    <tr data-provincia="sevilla">
-      <td class="num">295</td>
-      <td class="name">El Remate Club de Pádel</td>
+    <tr data-provincia="sevilla">      <td class="name">El Remate Club de Pádel</td>
       <td class="muni">Sevilla</td>
       <td class="col-email"><span class="empty">—</span></td>
       <td class="col-tel"><a href="tel:658090639">658090639</a></td>
       <td class="col-web"><a href="https://elrematepadelclub.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="sevilla">
-      <td class="num">296</td>
-      <td class="name">Sportme</td>
+    <tr data-provincia="sevilla">      <td class="name">Sportme</td>
       <td class="muni">Sevilla</td>
       <td class="col-email"><a href="mailto:administracion@sportme.es">administracion@sportme.es</a></td>
       <td class="col-tel"><a href="tel:954280198">954280198</a></td>
       <td class="col-web"><span class="empty">—</span></td>
     </tr>
-    <tr data-provincia="sevilla">
-      <td class="num">297</td>
-      <td class="name">Santé Sport & Social Club</td>
+    <tr data-provincia="sevilla">      <td class="name">Santé Sport & Social Club</td>
       <td class="muni">Sevilla</td>
       <td class="col-email"><a href="mailto:recepcion@clubsante.es">recepcion@clubsante.es</a></td>
       <td class="col-tel"><a href="tel:955940572">955940572</a></td>
       <td class="col-web"><a href="https://www.santesportsocialclub.es" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="sevilla">
-      <td class="num">298</td>
-      <td class="name">Real Club Pineda</td>
+    <tr data-provincia="sevilla">      <td class="name">Real Club Pineda</td>
       <td class="muni">Sevilla</td>
       <td class="col-email"><a href="mailto:informacion@rcpineda.com">informacion@rcpineda.com</a></td>
       <td class="col-tel"><a href="tel:954611400">954611400</a></td>
       <td class="col-web"><a href="https://rcpineda.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="malaga">
-      <td class="num">299</td>
-      <td class="name">Club de Tenis Málaga</td>
+    <tr data-provincia="malaga">      <td class="name">Club de Tenis Málaga</td>
       <td class="muni">Málaga</td>
       <td class="col-email"><span class="empty">—</span></td>
       <td class="col-tel"><a href="tel:952291092">952291092</a></td>
       <td class="col-web"><span class="empty">—</span></td>
     </tr>
-    <tr data-provincia="malaga">
-      <td class="num">300</td>
-      <td class="name">Club Pinos del Limonar</td>
+    <tr data-provincia="malaga">      <td class="name">Club Pinos del Limonar</td>
       <td class="muni">Málaga</td>
       <td class="col-email"><span class="empty">—</span></td>
       <td class="col-tel"><a href="tel:952600124">952600124</a></td>
       <td class="col-web"><span class="empty">—</span></td>
     </tr>
-    <tr data-provincia="malaga">
-      <td class="num">301</td>
-      <td class="name">Vals Sport Cónsul (El Cónsul)</td>
+    <tr data-provincia="malaga">      <td class="name">Vals Sport Cónsul (El Cónsul)</td>
       <td class="muni">Málaga</td>
       <td class="col-email"><a href="mailto:consul@valssport.com">consul@valssport.com</a></td>
       <td class="col-tel"><a href="tel:952003034">952003034</a></td>
       <td class="col-web"><a href="https://valssport.com/consul" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="malaga">
-      <td class="num">302</td>
-      <td class="name">David Lloyd Clubs</td>
+    <tr data-provincia="malaga">      <td class="name">David Lloyd Clubs</td>
       <td class="muni">Málaga</td>
       <td class="col-email"><span class="empty">—</span></td>
       <td class="col-tel"><span class="empty">—</span></td>
       <td class="col-web"><a href="https://www.davidlloyd.es" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="malaga">
-      <td class="num">303</td>
-      <td class="name">Centro Deportivo Inacua</td>
+    <tr data-provincia="malaga">      <td class="name">Centro Deportivo Inacua</td>
       <td class="muni">Málaga</td>
       <td class="col-email"><span class="empty">—</span></td>
       <td class="col-tel"><a href="tel:952172665">952172665</a></td>
       <td class="col-web"><a href="https://www.inacua.com/malaga" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="cadiz">
-      <td class="num">304</td>
-      <td class="name">Padel Zona Franca</td>
+    <tr data-provincia="cadiz">      <td class="name">Padel Zona Franca</td>
       <td class="muni">Cádiz</td>
       <td class="col-email"><span class="empty">—</span></td>
       <td class="col-tel"><a href="tel:618782911">618782911</a></td>
       <td class="col-web"><span class="empty">—</span></td>
     </tr>
-    <tr data-provincia="cordoba">
-      <td class="num">305</td>
-      <td class="name">La Catedral del Padel</td>
+    <tr data-provincia="cordoba">      <td class="name">La Catedral del Padel</td>
       <td class="muni">Córdoba</td>
       <td class="col-email"><span class="empty">—</span></td>
       <td class="col-tel"><a href="tel:681372925">681372925</a></td>
       <td class="col-web"><a href="https://lacatedraldelpadelec.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="cordoba">
-      <td class="num">306</td>
-      <td class="name">El Vial Padel</td>
+    <tr data-provincia="cordoba">      <td class="name">El Vial Padel</td>
       <td class="muni">Córdoba</td>
       <td class="col-email"><span class="empty">—</span></td>
       <td class="col-tel"><a href="tel:691923994">691923994</a></td>
       <td class="col-web"><span class="empty">—</span></td>
     </tr>
-    <tr data-provincia="cordoba">
-      <td class="num">307</td>
-      <td class="name">Khalifa Padel</td>
+    <tr data-provincia="cordoba">      <td class="name">Khalifa Padel</td>
       <td class="muni">Córdoba</td>
       <td class="col-email"><span class="empty">—</span></td>
       <td class="col-tel"><a href="tel:722422423">722422423</a></td>
       <td class="col-web"><span class="empty">—</span></td>
     </tr>
-    <tr data-provincia="granada">
-      <td class="num">308</td>
-      <td class="name">Campus Pádel Club</td>
+    <tr data-provincia="granada">      <td class="name">Campus Pádel Club</td>
       <td class="muni">Granada</td>
       <td class="col-email"><a href="mailto:info@campuspadelclub.es">info@campuspadelclub.es</a></td>
       <td class="col-tel"><a href="tel:630891907">630891907</a></td>
       <td class="col-web"><a href="https://campuspadelclub.es" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="granada">
-      <td class="num">309</td>
-      <td class="name">PadelSport Granada Indoor</td>
+    <tr data-provincia="granada">      <td class="name">PadelSport Granada Indoor</td>
       <td class="muni">Granada</td>
       <td class="col-email"><span class="empty">—</span></td>
       <td class="col-tel"><a href="tel:606145849">606145849</a></td>
       <td class="col-web"><a href="https://padelsportgranada.es" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="granada">
-      <td class="num">310</td>
-      <td class="name">Tecnopadel Granada</td>
+    <tr data-provincia="granada">      <td class="name">Tecnopadel Granada</td>
       <td class="muni">Granada</td>
       <td class="col-email"><span class="empty">—</span></td>
       <td class="col-tel"><span class="empty">—</span></td>
       <td class="col-web"><a href="https://tecnopadelgranada.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="almeria">
-      <td class="num">311</td>
-      <td class="name">ProPadel Indoor Club</td>
+    <tr data-provincia="almeria">      <td class="name">ProPadel Indoor Club</td>
       <td class="muni">Almería</td>
       <td class="col-email"><span class="empty">—</span></td>
       <td class="col-tel"><span class="empty">—</span></td>
       <td class="col-web"><a href="https://www.propadelindoorclub.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="almeria">
-      <td class="num">312</td>
-      <td class="name">Club de Mar Almería</td>
+    <tr data-provincia="almeria">      <td class="name">Club de Mar Almería</td>
       <td class="muni">Almería</td>
       <td class="col-email"><span class="empty">—</span></td>
       <td class="col-tel"><span class="empty">—</span></td>
       <td class="col-web"><a href="https://clubdemaralmeria.es" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="huelva">
-      <td class="num">313</td>
-      <td class="name">Pádel Indoor La Ría</td>
+    <tr data-provincia="huelva">      <td class="name">Pádel Indoor La Ría</td>
       <td class="muni">Huelva</td>
       <td class="col-email"><a href="mailto:padel.indoor.la.ria@gmail.com">padel.indoor.la.ria@gmail.com</a></td>
       <td class="col-tel"><a href="tel:622148278">622148278</a></td>
       <td class="col-web"><span class="empty">—</span></td>
     </tr>
-    <tr data-provincia="huelva">
-      <td class="num">314</td>
-      <td class="name">Pádel Indoor Huelva Puerto</td>
+    <tr data-provincia="huelva">      <td class="name">Pádel Indoor Huelva Puerto</td>
       <td class="muni">Huelva</td>
       <td class="col-email"><a href="mailto:padelhuelvapuerto@hotmail.com">padelhuelvapuerto@hotmail.com</a></td>
       <td class="col-tel"><a href="tel:959070795">959070795</a></td>
       <td class="col-web"><span class="empty">—</span></td>
     </tr>
-    <tr data-provincia="huelva">
-      <td class="num">315</td>
-      <td class="name">Panorámico Pádel Huelva</td>
+    <tr data-provincia="huelva">      <td class="name">Panorámico Pádel Huelva</td>
       <td class="muni">Huelva</td>
       <td class="col-email"><span class="empty">—</span></td>
       <td class="col-tel"><a href="tel:614447072">614447072</a></td>
       <td class="col-web"><span class="empty">—</span></td>
     </tr>
-    <tr data-provincia="huelva">
-      <td class="num">316</td>
-      <td class="name">Club de Pádel la Volea</td>
+    <tr data-provincia="huelva">      <td class="name">Club de Pádel la Volea</td>
       <td class="muni">Aljaraque</td>
       <td class="col-email"><a href="mailto:info@clubdepadellavolea.com">info@clubdepadellavolea.com</a></td>
       <td class="col-tel"><a href="tel:661356448">661356448</a></td>
       <td class="col-web"><a href="https://www.clubdepadellavolea.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="huelva">
-      <td class="num">317</td>
-      <td class="name">Bellavista Social Club</td>
+    <tr data-provincia="huelva">      <td class="name">Bellavista Social Club</td>
       <td class="muni">Huelva</td>
       <td class="col-email"><a href="mailto:bhctenispadel@gmail.com">bhctenispadel@gmail.com</a></td>
       <td class="col-tel"><a href="tel:645676985">645676985</a></td>
       <td class="col-web"><a href="https://golfbellavista.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="huelva">
-      <td class="num">318</td>
-      <td class="name">Las Américas</td>
+    <tr data-provincia="huelva">      <td class="name">Las Américas</td>
       <td class="muni">Huelva</td>
       <td class="col-email"><span class="empty">—</span></td>
       <td class="col-tel"><a href="tel:611595239">611595239</a></td>
       <td class="col-web"><span class="empty">—</span></td>
     </tr>
-    <tr data-provincia="jaen">
-      <td class="num">319</td>
-      <td class="name">Pádel Premium</td>
+    <tr data-provincia="jaen">      <td class="name">Pádel Premium</td>
       <td class="muni">Jaén</td>
       <td class="col-email"><span class="empty">—</span></td>
       <td class="col-tel"><a href="tel:953284109">953284109</a></td>
       <td class="col-web"><a href="https://www.padelpremium.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="jaen">
-      <td class="num">320</td>
-      <td class="name">Club de Pádel Andújar</td>
+    <tr data-provincia="jaen">      <td class="name">Club de Pádel Andújar</td>
       <td class="muni">Andújar</td>
       <td class="col-email"><a href="mailto:contacto@clubpadelandujar.com">contacto@clubpadelandujar.com</a></td>
       <td class="col-tel"><span class="empty">—</span></td>
       <td class="col-web"><a href="https://clubpadelandujar.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="jaen">
-      <td class="num">321</td>
-      <td class="name">Padel Indoor Jaén</td>
+    <tr data-provincia="jaen">      <td class="name">Padel Indoor Jaén</td>
       <td class="muni">Jaén</td>
       <td class="col-email"><span class="empty">—</span></td>
       <td class="col-tel"><span class="empty">—</span></td>
       <td class="col-web"><a href="https://www.padelindoorjaen.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="valencia">
-      <td class="num">322</td>
-      <td class="name">Pádel Club Valencia</td>
+    <tr data-provincia="valencia">      <td class="name">Pádel Club Valencia</td>
       <td class="muni">La Pobla de Vallbona</td>
       <td class="col-email"><span class="empty">—</span></td>
       <td class="col-tel"><a href="tel:633597286">633597286</a></td>
       <td class="col-web"><a href="https://padelclubvalencia.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="valencia">
-      <td class="num">323</td>
-      <td class="name">Pàdel Camp Túria</td>
+    <tr data-provincia="valencia">      <td class="name">Pàdel Camp Túria</td>
       <td class="muni">La Pobla de Vallbona</td>
       <td class="col-email"><a href="mailto:info@padelcampturia.com">info@padelcampturia.com</a></td>
       <td class="col-tel"><a href="tel:658883396">658883396</a></td>
       <td class="col-web"><a href="https://padelcampturia.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="valencia">
-      <td class="num">324</td>
-      <td class="name">Full Padel Club</td>
+    <tr data-provincia="valencia">      <td class="name">Full Padel Club</td>
       <td class="muni">La Pobla de Vallbona</td>
       <td class="col-email"><span class="empty">—</span></td>
       <td class="col-tel"><a href="tel:602229906">602229906</a></td>
       <td class="col-web"><a href="https://fullpadelclub.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="valencia">
-      <td class="num">325</td>
-      <td class="name">Pádel Élite 22 Paterna</td>
+    <tr data-provincia="valencia">      <td class="name">Pádel Élite 22 Paterna</td>
       <td class="muni">Paterna</td>
       <td class="col-email"><a href="mailto:079padelelite22@gmail.com">079padelelite22@gmail.com</a></td>
       <td class="col-tel"><a href="tel:699349079">699349079</a></td>
       <td class="col-web"><a href="https://padelelite22.matchpoint.com.es" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="valencia">
-      <td class="num">326</td>
-      <td class="name">Origen Pádel Club</td>
+    <tr data-provincia="valencia">      <td class="name">Origen Pádel Club</td>
       <td class="muni">Paterna</td>
       <td class="col-email"><a href="mailto:nuevoorigenpadel@gmail.com">nuevoorigenpadel@gmail.com</a></td>
       <td class="col-tel"><a href="tel:961344673">961344673</a></td>
       <td class="col-web"><a href="https://origenpadelclub.es" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="valencia">
-      <td class="num">327</td>
-      <td class="name">ONE PADEL VALENCIA</td>
+    <tr data-provincia="valencia">      <td class="name">ONE PADEL VALENCIA</td>
       <td class="muni">Paterna</td>
       <td class="col-email"><a href="mailto:recepciononepadel@gmail.com">recepciononepadel@gmail.com</a></td>
       <td class="col-tel"><span class="empty">—</span></td>
       <td class="col-web"><a href="https://onepadelvalencia.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="valencia">
-      <td class="num">328</td>
-      <td class="name">7Pádel</td>
+    <tr data-provincia="valencia">      <td class="name">7Pádel</td>
       <td class="muni">Valencia</td>
       <td class="col-email"><span class="empty">—</span></td>
       <td class="col-tel"><a href="tel:615071010">615071010</a></td>
       <td class="col-web"><a href="https://7padel.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="valencia">
-      <td class="num">329</td>
-      <td class="name">tuPádelValencia</td>
+    <tr data-provincia="valencia">      <td class="name">tuPádelValencia</td>
       <td class="muni">Valencia</td>
       <td class="col-email"><a href="mailto:info@tupadelvalencia.com">info@tupadelvalencia.com</a></td>
       <td class="col-tel"><span class="empty">—</span></td>
       <td class="col-web"><a href="https://tupadelvalencia.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="valencia">
-      <td class="num">330</td>
-      <td class="name">SUMA Pádel Club Valencia</td>
+    <tr data-provincia="valencia">      <td class="name">SUMA Pádel Club Valencia</td>
       <td class="muni">Alfafar/Alboraya</td>
       <td class="col-email"><a href="mailto:padelalfafar@sumafitnessclub.com">padelalfafar@sumafitnessclub.com</a></td>
       <td class="col-tel"><a href="tel:610237658">610237658</a></td>
       <td class="col-web"><a href="https://sumafitnessclub.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="alicante">
-      <td class="num">331</td>
-      <td class="name">Padel Club Alicante Indoor</td>
+    <tr data-provincia="alicante">      <td class="name">Padel Club Alicante Indoor</td>
       <td class="muni">Alicante</td>
       <td class="col-email"><a href="mailto:info@padelclubalicante.com">info@padelclubalicante.com</a></td>
       <td class="col-tel"><a href="tel:965287715">965287715</a></td>
       <td class="col-web"><a href="https://padelclubalicante.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="alicante">
-      <td class="num">332</td>
-      <td class="name">360 Pádel Elx</td>
+    <tr data-provincia="alicante">      <td class="name">360 Pádel Elx</td>
       <td class="muni">Elche</td>
       <td class="col-email"><span class="empty">—</span></td>
       <td class="col-tel"><a href="tel:660830840">660830840</a></td>
       <td class="col-web"><a href="https://clubespadel.com/alicante/elche/360-padel-elx" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="alicante">
-      <td class="num">333</td>
-      <td class="name">CH2 Racket La Marina</td>
+    <tr data-provincia="alicante">      <td class="name">CH2 Racket La Marina</td>
       <td class="muni">Benidorm</td>
       <td class="col-email"><span class="empty">—</span></td>
       <td class="col-tel"><a href="tel:666302820">666302820</a></td>
       <td class="col-web"><a href="https://ch2racket.es" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="alicante">
-      <td class="num">334</td>
-      <td class="name">Padel Palau Benidorm</td>
+    <tr data-provincia="alicante">      <td class="name">Padel Palau Benidorm</td>
       <td class="muni">Benidorm</td>
       <td class="col-email"><span class="empty">—</span></td>
       <td class="col-tel"><a href="tel:681347225">681347225</a></td>
       <td class="col-web"><span class="empty">—</span></td>
     </tr>
-    <tr data-provincia="alicante">
-      <td class="num">335</td>
-      <td class="name">Finca Guila</td>
+    <tr data-provincia="alicante">      <td class="name">Finca Guila</td>
       <td class="muni">Benidorm/Alfaz del Pi</td>
       <td class="col-email"><span class="empty">—</span></td>
       <td class="col-tel"><span class="empty">—</span></td>
       <td class="col-web"><a href="https://fincaguila.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="alicante">
-      <td class="num">336</td>
-      <td class="name">Club De Tenis Torrevieja</td>
+    <tr data-provincia="alicante">      <td class="name">Club De Tenis Torrevieja</td>
       <td class="muni">Torrevieja</td>
       <td class="col-email"><span class="empty">—</span></td>
       <td class="col-tel"><a href="tel:966722167">966722167</a></td>
       <td class="col-web"><a href="https://clubtenistorrevieja.es" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="alicante">
-      <td class="num">337</td>
-      <td class="name">Torrevieja Sports City</td>
+    <tr data-provincia="alicante">      <td class="name">Torrevieja Sports City</td>
       <td class="muni">Torrevieja</td>
       <td class="col-email"><a href="mailto:padeltorrevieja@gmail.com">padeltorrevieja@gmail.com</a></td>
       <td class="col-tel"><a href="tel:667113971">667113971</a></td>
       <td class="col-web"><a href="https://torreviejasportscity.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="castellon">
-      <td class="num">338</td>
-      <td class="name">Padel Center Castellón</td>
+    <tr data-provincia="castellon">      <td class="name">Padel Center Castellón</td>
       <td class="muni">Castellón</td>
       <td class="col-email"><a href="mailto:info@padelcentercastellon.com">info@padelcentercastellon.com</a></td>
       <td class="col-tel"><a href="tel:964202483">964202483</a></td>
       <td class="col-web"><a href="https://padelcentercastellon.com" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="castellon">
-      <td class="num">339</td>
-      <td class="name">Playpadel Castellón</td>
+    <tr data-provincia="castellon">      <td class="name">Playpadel Castellón</td>
       <td class="muni">Castellón</td>
       <td class="col-email"><a href="mailto:info@playpadelcastellon.es">info@playpadelcastellon.es</a></td>
       <td class="col-tel"><span class="empty">—</span></td>
       <td class="col-web"><a href="https://playpadelcastellon.es" target="_blank">↗ web</a></td>
     </tr>
-    <tr data-provincia="castellon">
-      <td class="num">340</td>
-      <td class="name">OKPadel & Fitness Castellón</td>
+    <tr data-provincia="castellon">      <td class="name">OKPadel & Fitness Castellón</td>
       <td class="muni">Castellón</td>
       <td class="col-email"><span class="empty">—</span></td>
       <td class="col-tel"><span class="empty">—</span></td>
