@@ -66,6 +66,28 @@
     grid-template-columns: 1fr 280px; gap: 24px; align-items: start;
   }
 
+  /* ── Tabs ── */
+  .tabs-nav { max-width: 1200px; margin: 24px auto 0; padding: 0 48px; }
+  .tab-group {
+    display: inline-flex; gap: 4px; padding: 4px;
+    background: #0a0d08; border: 1px solid #a7fd7e20; border-radius: 12px;
+  }
+  .tab-btn {
+    background: transparent; border: none; color: #6b7a68;
+    border-radius: 8px; padding: 9px 20px;
+    font-size: .75rem; font-weight: 700; letter-spacing: .06em;
+    text-transform: uppercase; cursor: pointer;
+    transition: background .15s, color .15s;
+  }
+  .tab-btn:hover { color: #c3d4c0; }
+  .tab-btn.active { background: #a7fd7e; color: #0a0d08; }
+  .tab-btn.active:hover { color: #0a0d08; }
+  @media (max-width: 600px) {
+    .tabs-nav { padding: 0 16px; }
+    .tab-group { display: flex; width: 100%; }
+    .tab-btn { flex: 1; padding: 10px 8px; }
+  }
+
   /* ── Table ── */
   .table-card {
     background: #0f160d; border: 1px solid #a7fd7e14;
@@ -246,9 +268,11 @@
   </div>
 </div>
 
-<div class="tabs-nav" style="max-width:1200px;margin:24px auto 0;padding:0 48px;display:flex;gap:8px;">
-  <button class="tab-btn active" id="tabBtnFed" onclick="showTab('federados')" style="background:#a7fd7e18;border:1px solid #a7fd7e40;color:#a7fd7e;border-radius:8px;padding:8px 18px;font-size:.75rem;font-weight:700;letter-spacing:.05em;text-transform:uppercase;cursor:pointer;">Clubs Federados</button>
-  <button class="tab-btn" id="tabBtnGeneral" onclick="showTab('general')" style="background:#0f160d;border:1px solid #a7fd7e14;color:#9ab896;border-radius:8px;padding:8px 18px;font-size:.75rem;font-weight:700;letter-spacing:.05em;text-transform:uppercase;cursor:pointer;">Otros Clubs</button>
+<div class="tabs-nav">
+  <div class="tab-group">
+    <button class="tab-btn active" id="tabBtnFed" onclick="showTab('federados')">Clubs Federados</button>
+    <button class="tab-btn" id="tabBtnGeneral" onclick="showTab('general')">Otros Clubs</button>
+  </div>
 </div>
 <div class="main" id="panelGeneral" style="display:none">
 
@@ -12549,13 +12573,11 @@ function showTab(tab) {
   var btnFed = document.getElementById("tabBtnFed");
   if (tab === "federados") {
     gen.style.display = "none"; fed.style.display = "block";
-    btnFed.style.background = "#a7fd7e18"; btnFed.style.color = "#a7fd7e"; btnFed.style.borderColor = "#a7fd7e40";
-    btnGen.style.background = "#0f160d"; btnGen.style.color = "#9ab896"; btnGen.style.borderColor = "#a7fd7e14";
+    btnFed.classList.add("active"); btnGen.classList.remove("active");
     buscarFed(document.getElementById("searchInputFed").value);
   } else {
     fed.style.display = "none"; gen.style.display = "grid";
-    btnGen.style.background = "#a7fd7e18"; btnGen.style.color = "#a7fd7e"; btnGen.style.borderColor = "#a7fd7e40";
-    btnFed.style.background = "#0f160d"; btnFed.style.color = "#9ab896"; btnFed.style.borderColor = "#a7fd7e14";
+    btnGen.classList.add("active"); btnFed.classList.remove("active");
   }
 }
 
