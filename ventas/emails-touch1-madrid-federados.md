@@ -20,6 +20,8 @@ Vi que eres presidente/a de Cde Net Sports en Madrid — imagino que entre cance
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -38,6 +40,8 @@ Vi que eres presidente/a de Club Ocapa en Madrid — imagino que entre cancelaci
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -56,6 +60,8 @@ Vi que eres presidente/a de Club R.e.p. en Madrid — imagino que entre cancelac
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -74,6 +80,8 @@ Vi que eres presidente/a de Padel University en Madrid — imagino que entre can
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -92,6 +100,8 @@ Vi que eres presidente/a de Set Point Padel Indoor en Madrid — imagino que ent
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -110,6 +120,8 @@ Vi que eres presidente/a de Snobissimo Padel en Madrid — imagino que entre can
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -128,6 +140,8 @@ Vi que eres presidente/a de Escuela De Tenis Alcala en Alcala De Henares — ima
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -146,6 +160,8 @@ Vi que eres presidente/a de Cde Pala Y Raqueta Alcalá en Alcalá De Henares —
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -164,6 +180,8 @@ Vi que eres presidente/a de Club Padel Indoor Alcala en Alcalá De Henares — i
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -182,6 +200,8 @@ Vi que eres presidente/a de Club De Golf La Moraleja en Alcobendas — imagino q
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -200,6 +220,8 @@ Vi que eres presidente/a de Club De Padel La Moraleja en Alcobendas — imagino 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -218,6 +240,8 @@ Vi que eres presidente/a de Club El Estudiante en Alcobendas — imagino que ent
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -236,6 +260,8 @@ Vi que eres presidente/a de Club Elemental Match Ball en Alcobendas — imagino 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -254,6 +280,8 @@ Vi que eres presidente/a de Ladeveze en Alcobendas — imagino que entre cancela
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -272,6 +300,8 @@ Vi que eres presidente/a de Padel Hangar Alcobendas en Alcobendas — imagino qu
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -290,6 +320,8 @@ Vi que eres presidente/a de Club Deportivo Alkor-villalkor en Alcorcon — imagi
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -308,6 +340,8 @@ Vi que eres presidente/a de Ondapadel en Alcorcon — imagino que entre cancelac
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -326,6 +360,8 @@ Vi que eres presidente/a de Cde Padel Sense en Alcorcón — imagino que entre c
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -344,6 +380,8 @@ Vi que eres presidente/a de Club Deportivo Parque De Lisboa en Alcorcón — ima
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -362,6 +400,8 @@ Vi que eres presidente/a de Mmpadel en Algete — imagino que entre cancelacione
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -380,6 +420,8 @@ Vi que eres presidente/a de Padel Sport Home en Algete — imagino que entre can
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -398,6 +440,8 @@ Vi que eres presidente/a de C.d.e Pádel Club Arganda en Arganda Del Rey — ima
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -416,6 +460,8 @@ Vi que eres presidente/a de Cdb Padel G24 en Arroyomolinos — imagino que entre
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -434,6 +480,8 @@ Vi que eres presidente/a de Sport Club G.p en Arroyomolinos — imagino que entr
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -452,6 +500,8 @@ Vi que eres presidente/a de P&t Duramonte Padel Tenis Becerril en Becerril De La
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -470,6 +520,8 @@ Vi que eres presidente/a de Atp Republic Space en Boadilla Del Monte — imagino
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -488,6 +540,8 @@ Vi que eres presidente/a de Cde Onlypadel en Boadilla Del Monte — imagino que 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -506,6 +560,8 @@ Vi que eres presidente/a de Cde Aupa en Boadilla Del Monte — imagino que entre
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -524,6 +580,8 @@ Vi que eres presidente/a de Cde Taylor Padel en Boadilla Del Monte — imagino q
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -542,6 +600,8 @@ Vi que eres presidente/a de Club Las Encinas De Boadilla en Boadilla Del Monte �
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -560,6 +620,8 @@ Vi que eres presidente/a de Gon Padel en Boadilla Del Monte — imagino que entr
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -578,6 +640,8 @@ Vi que eres presidente/a de Brunete Sport Club en Brunete — imagino que entre 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -596,6 +660,8 @@ Vi que eres presidente/a de Club + Qpadel Paracas en Calle Maria Moliner 10, 3º
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -614,6 +680,8 @@ Vi que eres presidente/a de Padel Indoor Cerceda (Pic) en Cerceda — imagino qu
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -632,6 +700,8 @@ Vi que eres presidente/a de Palas Ocio Padel Club en Cerceda — imagino que ent
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -650,6 +720,8 @@ Vi que eres presidente/a de Mv Padel Cercedilla en Cercedilla — imagino que en
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -668,6 +740,8 @@ Vi que eres presidente/a de Pyt Villalba en Collado Villalba — imagino que ent
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -686,6 +760,8 @@ Vi que eres presidente/a de Cde Punto De Oro en Colmenar Viejo — imagino que e
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -704,6 +780,8 @@ Vi que eres presidente/a de El Cuarto Set en Colmenar Viejo — imagino que entr
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -722,6 +800,8 @@ Vi que eres presidente/a de Platinium Padel en Colmenar Viejo — imagino que en
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -740,6 +820,8 @@ Vi que eres presidente/a de Pádel De Precisión en Colmenarejo — imagino que 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -758,6 +840,8 @@ Vi que eres presidente/a de Cd. Tenis Y Padel Coslada en Coslada — imagino que
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -776,6 +860,8 @@ Vi que eres presidente/a de Urban Padel Club en Coslada — imagino que entre ca
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -794,6 +880,8 @@ Vi que eres presidente/a de Cde Padel G2 en Daganzo De Arriba — imagino que en
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -812,6 +900,8 @@ Vi que eres presidente/a de Sac.p.f. Pádel Y Pickleball De Fuenlabrada en Fuenl
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -830,6 +920,8 @@ Vi que eres presidente/a de Get Indoor Padel en Getafe — imagino que entre can
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -848,6 +940,8 @@ Vi que eres presidente/a de Mg Indoor Padel Club en Getafe — imagino que entre
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -866,6 +960,8 @@ Vi que eres presidente/a de Padel Sport Indoor Getafe en Getafe — imagino que 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -884,6 +980,8 @@ Vi que eres presidente/a de Conpas Padel Academy en Guadarrama — imagino que e
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -902,6 +1000,8 @@ Vi que eres presidente/a de La Nave Padelcenter en Guadarrama — imagino que en
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -920,6 +1020,8 @@ Vi que eres presidente/a de Cde Academicos Del Padel Hoyo De Manzanares en Hoyo 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -938,6 +1040,8 @@ Vi que eres presidente/a de Nx3 Padelindoor en Humanes — imagino que entre can
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -956,6 +1060,8 @@ Vi que eres presidente/a de Club De Tenis La Moraleja en La Moraleja — imagino
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -974,6 +1080,8 @@ Vi que eres presidente/a de Club Monte Rozas en Las Rozas — imagino que entre 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -992,6 +1100,8 @@ Vi que eres presidente/a de Duin Sports Las Rozas en Las Rozas — imagino que e
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -1010,6 +1120,8 @@ Vi que eres presidente/a de Maspadel en Las Rozas — imagino que entre cancelac
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -1028,6 +1140,8 @@ Vi que eres presidente/a de Las Rozas Padel Center en Las Rozas De Madrid — im
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -1046,6 +1160,8 @@ Vi que eres presidente/a de Single Love Padel Team en Las Rozas De Madrid — im
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -1064,6 +1180,8 @@ Vi que eres presidente/a de 4 Ever 1 en Madrid — imagino que entre cancelacion
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -1082,6 +1200,8 @@ Vi que eres presidente/a de Ad Sporting De Hortaleza en Madrid — imagino que e
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -1100,6 +1220,8 @@ Vi que eres presidente/a de C.d. 2 + en Madrid — imagino que entre cancelacion
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -1118,6 +1240,8 @@ Vi que eres presidente/a de C.d. Elemental Tres-olivos Montecarmelo en Madrid �
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -1136,6 +1260,8 @@ Vi que eres presidente/a de C.d.e. Sisukas en Madrid — imagino que entre cance
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -1154,6 +1280,8 @@ Vi que eres presidente/a de Cde Argaña en Madrid — imagino que entre cancelac
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -1172,6 +1300,8 @@ Vi que eres presidente/a de Cde Avanti en Madrid — imagino que entre cancelaci
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -1190,6 +1320,8 @@ Vi que eres presidente/a de Cde Cuatro Raquetas Aravaca en Madrid — imagino qu
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -1208,6 +1340,8 @@ Vi que eres presidente/a de Cde Denebulosas Padel en Madrid — imagino que entr
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -1226,6 +1360,8 @@ Vi que eres presidente/a de Cde Equipo Moraleja en Madrid — imagino que entre 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -1244,6 +1380,8 @@ Vi que eres presidente/a de Cde M3 Sport en Madrid — imagino que entre cancela
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -1262,6 +1400,8 @@ Vi que eres presidente/a de Cde Ubeat en Madrid — imagino que entre cancelacio
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -1280,6 +1420,8 @@ Vi que eres presidente/a de Cde X3 Padel en Madrid — imagino que entre cancela
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -1298,6 +1440,8 @@ Vi que eres presidente/a de Chamartin F.c. en Madrid — imagino que entre cance
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -1316,6 +1460,8 @@ Vi que eres presidente/a de Ciudad De La Raqueta en Madrid — imagino que entre
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -1334,6 +1480,8 @@ Vi que eres presidente/a de Club Alameda en Madrid — imagino que entre cancela
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -1352,6 +1500,8 @@ Vi que eres presidente/a de Club De Padel Y Tenis Fuencarral en Madrid — imagi
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -1370,6 +1520,8 @@ Vi que eres presidente/a de Club De Tenis Chamartin en Madrid — imagino que en
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -1388,6 +1540,8 @@ Vi que eres presidente/a de Club Deportivo Brezo Osuna en Madrid — imagino que
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -1406,6 +1560,8 @@ Vi que eres presidente/a de Club Deportivo El Valle en Madrid — imagino que en
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -1424,6 +1580,8 @@ Vi que eres presidente/a de Club Deportivo Somontes en Madrid — imagino que en
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -1442,6 +1600,8 @@ Vi que eres presidente/a de Club Mirasierra Asociacion Civil en Madrid — imagi
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -1460,6 +1620,8 @@ Vi que eres presidente/a de Crvz & Pdl en Madrid — imagino que entre cancelaci
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -1478,6 +1640,8 @@ Vi que eres presidente/a de David Lloyd Aravaca en Madrid — imagino que entre 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -1496,6 +1660,8 @@ Vi que eres presidente/a de Föch Club en Madrid — imagino que entre cancelaci
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -1514,6 +1680,8 @@ Vi que eres presidente/a de Frikis Legends en Madrid — imagino que entre cance
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -1532,6 +1700,8 @@ Vi que eres presidente/a de La Masó Sport Club en Madrid — imagino que entre 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -1550,6 +1720,8 @@ Vi que eres presidente/a de La Union Padel Club en Madrid — imagino que entre 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -1568,6 +1740,8 @@ Vi que eres presidente/a de Madrid Central Padel en Madrid — imagino que entre
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -1586,6 +1760,8 @@ Vi que eres presidente/a de Makingpadel en Madrid — imagino que entre cancelac
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -1604,6 +1780,8 @@ Vi que eres presidente/a de Padel Lord en Madrid — imagino que entre cancelaci
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -1622,6 +1800,8 @@ Vi que eres presidente/a de Padel Ociogim en Madrid — imagino que entre cancel
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -1640,6 +1820,8 @@ Vi que eres presidente/a de Padel Y Tenis Olivar De La Hinojosa en Madrid — im
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -1658,6 +1840,8 @@ Vi que eres presidente/a de Padelspirit Club en Madrid — imagino que entre can
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -1676,6 +1860,8 @@ Vi que eres presidente/a de Real Club De Campo Villa De Madrid en Madrid — ima
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -1694,6 +1880,8 @@ Vi que eres presidente/a de Real Club De La Puerta De Hierro en Madrid — imagi
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -1712,6 +1900,8 @@ Vi que eres presidente/a de San Jose Del Parque en Madrid — imagino que entre 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -1730,6 +1920,8 @@ Vi que eres presidente/a de Scet El Tiro en Madrid — imagino que entre cancela
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -1748,6 +1940,8 @@ Vi que eres presidente/a de School Padel Center en Madrid — imagino que entre 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -1766,6 +1960,8 @@ Vi que eres presidente/a de Club Escuela De Tenis Majadahonda en Majadahonda —
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -1784,6 +1980,8 @@ Vi que eres presidente/a de Club Internacional De Tenis en Majadahonda — imagi
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -1802,6 +2000,8 @@ Vi que eres presidente/a de Nw Padel en Majadahonda — imagino que entre cancel
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -1820,6 +2020,8 @@ Vi que eres presidente/a de R3 Mejorada Padel en Mejorada Del Campo — imagino 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -1838,6 +2040,8 @@ Vi que eres presidente/a de Cde Monteclaro en Mjadahonda — imagino que entre c
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -1856,6 +2060,8 @@ Vi que eres presidente/a de A5 Padel en Mostoles — imagino que entre cancelaci
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -1874,6 +2080,8 @@ Vi que eres presidente/a de Coimbra Padel en Mostoles — imagino que entre canc
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -1892,6 +2100,8 @@ Vi que eres presidente/a de Novopadel en Mostoles — imagino que entre cancelac
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -1910,6 +2120,8 @@ Vi que eres presidente/a de Padel 2.0 en Mostoles — imagino que entre cancelac
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -1928,6 +2140,8 @@ Vi que eres presidente/a de Cde Princesa en Móstoles — imagino que entre canc
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -1946,6 +2160,8 @@ Vi que eres presidente/a de Volea Pádel Indoor en Navalcarnero — imagino que 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -1964,6 +2180,8 @@ Vi que eres presidente/a de Miramadrid Padel Club en Paracuellos Del Jarama — 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -1982,6 +2200,8 @@ Vi que eres presidente/a de Pintopadel Club Deportivo Los Angeles en Pinto — i
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -2000,6 +2220,8 @@ Vi que eres presidente/a de Sompadel en Polideportivo Municipal Rio Perales — 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -2018,6 +2240,8 @@ Vi que eres presidente/a de Club Padel Pozuelo en Pozuelo De Alarcon — imagino
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -2036,6 +2260,8 @@ Vi que eres presidente/a de David Lloyd La Finca en Pozuelo De Alarcon — imagi
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -2054,6 +2280,8 @@ Vi que eres presidente/a de Padel Winner en Pozuelo De Alarcon — imagino que e
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -2072,6 +2300,8 @@ Vi que eres presidente/a de Pozuelo Padel Club en Pozuelo De Alarcon — imagino
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -2090,6 +2320,8 @@ Vi que eres presidente/a de Somosaguas Padel Club en Pozuelo De Alarcon — imag
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -2108,6 +2340,8 @@ Vi que eres presidente/a de Club De Pádel Bularas en Pozuelo De Alarcón — im
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -2126,6 +2360,8 @@ Vi que eres presidente/a de Mad4padel en Pozuelo De Alarcón — imagino que ent
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -2144,6 +2380,8 @@ Vi que eres presidente/a de Pirikikis Padel en Pozuelo De Alarcón — imagino q
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -2162,6 +2400,8 @@ Vi que eres presidente/a de Indoor Padel Training en Rivas Vaciamadrid — imagi
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -2180,6 +2420,8 @@ Vi que eres presidente/a de Rivapadel Sport Club en Rivas Vaciamadrid — imagin
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -2198,6 +2440,8 @@ Vi que eres presidente/a de Blue Padel Rivas en Rivas-vaciamadrid — imagino qu
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -2216,6 +2460,8 @@ Vi que eres presidente/a de Club R.a.c.e. en S. S. Reyes — imagino que entre c
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -2234,6 +2480,8 @@ Vi que eres presidente/a de Espacio Herreria Padel en S.lorenzo Del Escorial —
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -2252,6 +2500,8 @@ Vi que eres presidente/a de Club De Tenis Y Padel San Sebastian De Los Reyes en 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -2270,6 +2520,8 @@ Vi Club Deportivo Elemental 11 en S.s. Reyes — imagino que entre cancelaciones
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -2288,6 +2540,8 @@ Vi que eres presidente/a de Padel Sport Lab en San Sebastian De Los Reyes — im
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -2306,6 +2560,8 @@ Vi que eres presidente/a de Babel en San Sebastián De Los Reyes — imagino que
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -2324,6 +2580,8 @@ Vi que eres presidente/a de Cd Jarama en San Sebastián De Los Reyes — imagino
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -2342,6 +2600,8 @@ Vi que eres presidente/a de Norte Sport Club en San Sebastián De Los Reyes — 
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -2360,6 +2620,8 @@ Vi que eres presidente/a de Club Padel Soto Torrejon en Torrejon De Ardoz — im
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -2378,6 +2640,8 @@ Vi que eres presidente/a de Padel People Torrelodones en Torrelodones — imagin
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -2396,6 +2660,8 @@ Vi que eres presidente/a de Padel Sport Center Tres Cantos en Tres Cantos — im
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -2414,6 +2680,8 @@ Vi que eres presidente/a de Padel Team 3c en Tres Cantos — imagino que entre c
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -2432,6 +2700,8 @@ Vi que eres presidente/a de Padel Tricantino en Tres Cantos — imagino que entr
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -2450,6 +2720,8 @@ Vi que eres presidente/a de Vip Padel en Valdemorillo — imagino que entre canc
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -2468,6 +2740,8 @@ Vi que eres presidente/a de Club De Padel Family en Valdemoro — imagino que en
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -2486,6 +2760,8 @@ Vi que eres presidente/a de Padel Indoor Rio en Velilla De San Antonio — imagi
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -2504,6 +2780,8 @@ Vi que eres presidente/a de Cdb Club De Padel Y Tenis Villa Del Prado en Villa D
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -2522,6 +2800,8 @@ Vi que eres presidente/a de Indoor Enjoy&padel en Villalbilla — imagino que en
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -2540,6 +2820,8 @@ Vi que eres presidente/a de Tac Tec Padel Villalbilla en Villalbilla — imagino
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -2558,6 +2840,8 @@ Vi que eres presidente/a de Cd Sek en Villanueva De La Cañada — imagino que e
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
@@ -2576,6 +2860,8 @@ Vi que eres presidente/a de Club Villa Padel en Villaviciosa De Odon — imagino
 Trabajamos con escuelas de pádel que han automatizado justo eso: cobro automático (Redsys) y una "bolsa de clases" que convierte cada cancelación en un hueco que se rellena solo. En la práctica libera unas 20h/semana de gestión.
 
 ¿Te interesa que te cuente cómo funciona en dos minutos?
+
+www.epadelschool.com
 ```
 
 ---
