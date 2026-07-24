@@ -66,7 +66,7 @@ Asunto: `bolsa de horas`
 >
 > ¿Te interesa que te lo enseñe en dos minutos?
 >
-> www.epadelschool.com
+> https://epadelschool.com
 
 *(Cambio de enfoque: se abre con un dato de industria, no con "vi que estáis en X" — ese patrón de apertura es justo el que delata automatización masiva, según la propia skill `cold-email`.)*
 
