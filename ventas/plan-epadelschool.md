@@ -53,22 +53,24 @@ Variables: `{{club}}`, `{{localidad}}`
 
 ---
 
-**Touch 1 — Día 0**
-Asunto: `bolsa de horas`
+**Decisión de fondo (v3):** el argumento no es "cobros" — eso es un síntoma. El argumento sólido es la **recolocación automática de alumnos por nivel** cuando alguien cancela, sin intervención manual. Eso es lo que de verdad libera al club: WhatsApps de "¿cuándo recupero mi clase?", el profesor contestando lo mismo diez veces al día, y los Excels kilométricos de seguimiento. El objetivo del email no es vender, es **conseguir una llamada** — el producto convence viéndolo funcionar, no leyéndolo.
 
-> Hola,
+**Touch 1 — Día 0**
+Asunto: `recuperar clase`
+
+> Hola equipo de {{club}},
 >
-> La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+> Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 >
-> En {{club}} ({{localidad}}) imagino que no sois una excepción.
+> Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 >
-> Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+> Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 >
-> ¿Te interesa que te lo enseñe en dos minutos?
+> ¿Te lo enseño en dos minutos?
 >
 > https://epadelschool.com
 
-*(Cambio de enfoque: se abre con un dato de industria, no con "vi que estáis en X" — ese patrón de apertura es justo el que delata automatización masiva, según la propia skill `cold-email`.)*
+**Qué hacer si responden**: ver [embudo-respuestas.md](embudo-respuestas.md) — plantillas listas para cada tipo de respuesta, todas apuntando a cerrar una llamada de 15-20 min.
 
 ---
 

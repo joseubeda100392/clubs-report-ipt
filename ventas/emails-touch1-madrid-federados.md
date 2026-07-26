@@ -1,6 +1,6 @@
 # Touch 1 — Madrid Federados (143 clubes)
 
-Asunto a usar en todos: `bolsa de horas`
+Asunto a usar en todos: `recuperar clase`
 
 Copia el bloque completo (Para / Asunto / Cuerpo) y pégalo en el webmail. Marca cada uno según lo envías.
 
@@ -10,18 +10,18 @@ Copia el bloque completo (Para / Asunto / Cuerpo) y pégalo en el webmail. Marca
 
 - [ ] Enviado
 **Para:** netsportsescuela@gmail.com
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Cde Net Sports,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Cde Net Sports (Madrid) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -32,18 +32,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** guayart@gmail.com
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Club Ocapa,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Club Ocapa (Madrid) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -54,18 +54,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** ramarpublicidad@telefonica.net
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Club R.e.p.,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Club R.e.p. (Madrid) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -76,18 +76,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** gutidani@gmail.com
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Padel University,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Padel University (Madrid) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -98,18 +98,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** contacto@setpoint.es
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Set Point Padel Indoor,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Set Point Padel Indoor (Madrid) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -120,18 +120,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** angeltorreshinojosa@gmail.com
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Snobissimo Padel,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Snobissimo Padel (Madrid) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -142,18 +142,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** cetalcala@gmail.com
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Escuela De Tenis Alcala,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Escuela De Tenis Alcala (Alcala De Henares) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -164,18 +164,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** palaraquetaalcala@gmail.com
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Cde Pala Y Raqueta Alcalá,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Cde Pala Y Raqueta Alcalá (Alcalá De Henares) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -186,18 +186,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** info@padelindooralcala.es
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Club Padel Indoor Alcala,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Club Padel Indoor Alcala (Alcalá De Henares) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -208,18 +208,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** deportes@golflamoraleja.com
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Club De Golf La Moraleja,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Club De Golf La Moraleja (Alcobendas) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -230,18 +230,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** informacion@clubpadelmoraleja.es
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Club De Padel La Moraleja,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Club De Padel La Moraleja (Alcobendas) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -252,18 +252,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** padel@clubelestudiante.com
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Club El Estudiante,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Club El Estudiante (Alcobendas) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -274,18 +274,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** equipomatchball@gmail.com
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Club Elemental Match Ball,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Club Elemental Match Ball (Alcobendas) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -296,18 +296,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** info@ladeveze-padel.com
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Ladeveze,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Ladeveze (Alcobendas) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -318,18 +318,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** info@padelhangar.es
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Padel Hangar Alcobendas,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Padel Hangar Alcobendas (Alcobendas) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -340,18 +340,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** polideportivo@villalkor.com
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Club Deportivo Alkor-villalkor,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Club Deportivo Alkor-villalkor (Alcorcon) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -362,18 +362,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** info@ondapadel.es
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Ondapadel,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Ondapadel (Alcorcon) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -384,18 +384,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** quinigol@hotmail.com
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Cde Padel Sense,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Cde Padel Sense (Alcorcón) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -406,18 +406,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** asociacion@parquelisboa.com
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Club Deportivo Parque De Lisboa,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Club Deportivo Parque De Lisboa (Alcorcón) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -428,18 +428,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** mmpadel.santodomingo@gmail.com
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Mmpadel,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Mmpadel (Algete) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -450,18 +450,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** info@padelsporthome.com
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Padel Sport Home,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Padel Sport Home (Algete) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -472,18 +472,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** padelclubarganda@hotmail.com
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de C.d.e Pádel Club Arganda,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En C.d.e Pádel Club Arganda (Arganda Del Rey) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -494,18 +494,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** forumlex@forumlex.es
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Cdb Padel G24,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Cdb Padel G24 (Arroyomolinos) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -516,18 +516,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** Molano048@gmail.con
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Sport Club G.p,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Sport Club G.p (Arroyomolinos) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -538,18 +538,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** direccion@pytduramonte.com
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de P&t Duramonte Padel Tenis Becerril,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En P&t Duramonte Padel Tenis Becerril (Becerril De La Sierra) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -560,18 +560,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** rperalta@republicspace.com
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Atp Republic Space,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Atp Republic Space (Boadilla Del Monte) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -582,18 +582,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** javlopez@telefonica.net
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Cde Onlypadel,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Cde Onlypadel (Boadilla Del Monte) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -604,18 +604,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** info@mentema.es
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Cde Aupa,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Cde Aupa (Boadilla Del Monte) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -626,18 +626,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** msastre@taylorpadel.es
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Cde Taylor Padel,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Cde Taylor Padel (Boadilla Del Monte) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -648,18 +648,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** informacion@clublasencinas.com
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Club Las Encinas De Boadilla,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Club Las Encinas De Boadilla (Boadilla Del Monte) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -670,18 +670,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** gonxohuer@gmail.com
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Gon Padel,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Gon Padel (Boadilla Del Monte) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -692,18 +692,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** brunete.sport.club@gmail.com
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Brunete Sport Club,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Brunete Sport Club (Brunete) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -714,18 +714,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** franciscocv2@gmail.com
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Club + Qpadel Paracas,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Club + Qpadel Paracas (Calle Maria Moliner 10, 3º Centro) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -736,18 +736,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** info@padelindoorcerceda.es
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Padel Indoor Cerceda (Pic),
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Padel Indoor Cerceda (Pic) (Cerceda) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -758,18 +758,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** info@palasociopadelclub.es
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Palas Ocio Padel Club,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Palas Ocio Padel Club (Cerceda) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -780,18 +780,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** mvpadelcercedilla@hotmail.com
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Mv Padel Cercedilla,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Mv Padel Cercedilla (Cercedilla) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -802,18 +802,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** info@pytvillalba.com
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Pyt Villalba,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Pyt Villalba (Collado Villalba) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -824,18 +824,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** marsa313@hotmail.com
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Cde Punto De Oro,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Cde Punto De Oro (Colmenar Viejo) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -846,18 +846,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** elena.losada@elcuartoset.com
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de El Cuarto Set,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En El Cuarto Set (Colmenar Viejo) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -868,18 +868,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** info@platiniumpadel.com
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Platinium Padel,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Platinium Padel (Colmenar Viejo) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -890,18 +890,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** info@padelprecision.com
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Pádel De Precisión,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Pádel De Precisión (Colmenarejo) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -912,18 +912,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** tenispadelcoslada@gmail.com
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Cd. Tenis Y Padel Coslada,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Cd. Tenis Y Padel Coslada (Coslada) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -934,18 +934,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** info@padelbularas.com
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Urban Padel Club,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Urban Padel Club (Coslada) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -956,18 +956,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** info@g2padelindoor.es
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Cde Padel G2,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Cde Padel G2 (Daganzo De Arriba) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -978,18 +978,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** clubpadelfuenla@gmail.com
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Sac.p.f. Pádel Y Pickleball De Fuenlabrada,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Sac.p.f. Pádel Y Pickleball De Fuenlabrada (Fuenlabrada) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -1000,18 +1000,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** ruben@getindoorpadel.net
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Get Indoor Padel,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Get Indoor Padel (Getafe) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -1022,18 +1022,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** info@mgpadel.com
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Mg Indoor Padel Club,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Mg Indoor Padel Club (Getafe) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -1044,18 +1044,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** info@padelsportindoorgetafe.com
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Padel Sport Indoor Getafe,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Padel Sport Indoor Getafe (Getafe) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -1066,18 +1066,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** info@conpasacademy.com
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Conpas Padel Academy,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Conpas Padel Academy (Guadarrama) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -1088,18 +1088,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** info@lanavepadelcenter.com
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de La Nave Padelcenter,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En La Nave Padelcenter (Guadarrama) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -1110,18 +1110,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** jmelenchonb@gmail
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Cde Academicos Del Padel Hoyo De Manzanares,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Cde Academicos Del Padel Hoyo De Manzanares (Hoyo De Manzanares) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -1132,18 +1132,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** nx3padelindoor@gmail.com
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Nx3 Padelindoor,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Nx3 Padelindoor (Humanes) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -1154,18 +1154,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** tenismoraleja@tenismoraleja.es
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Club De Tenis La Moraleja,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Club De Tenis La Moraleja (La Moraleja) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -1176,18 +1176,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** padel@clubmr.com
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Club Monte Rozas,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Club Monte Rozas (Las Rozas) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -1198,18 +1198,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** angel_ramirez_rubio@hotmail.com
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Duin Sports Las Rozas,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Duin Sports Las Rozas (Las Rozas) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -1220,18 +1220,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** info@maspadel.com
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Maspadel,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Maspadel (Las Rozas) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -1242,18 +1242,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** oscarveraramos@gmail.com
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Las Rozas Padel Center,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Las Rozas Padel Center (Las Rozas De Madrid) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -1264,18 +1264,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** rastamper@hotmail.com
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Single Love Padel Team,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Single Love Padel Team (Las Rozas De Madrid) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -1286,18 +1286,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** 4ever1.padel@gmail.com
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de 4 Ever 1,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En 4 Ever 1 (Madrid) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -1308,18 +1308,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** c.sporting3@gmail.com
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Ad Sporting De Hortaleza,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Ad Sporting De Hortaleza (Madrid) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -1330,18 +1330,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** club3olivos@hotmail.com
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de C.d. 2 +,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En C.d. 2 + (Madrid) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -1352,18 +1352,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** mariogonzalezdelrey@gmail.com
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de C.d. Elemental Tres-olivos Montecarmelo,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En C.d. Elemental Tres-olivos Montecarmelo (Madrid) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -1374,18 +1374,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** mariavallejorodriguez@gmail.com
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de C.d.e. Sisukas,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En C.d.e. Sisukas (Madrid) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -1396,18 +1396,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** contacto@argana.es
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Cde Argaña,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Cde Argaña (Madrid) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -1418,18 +1418,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** david.brabender@teamyoufirst.com
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Cde Avanti,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Cde Avanti (Madrid) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -1440,18 +1440,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** cde4raquetas.aravaca@gmail.com
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Cde Cuatro Raquetas Aravaca,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Cde Cuatro Raquetas Aravaca (Madrid) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -1462,18 +1462,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** cdedenebulosas@gmail.com
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Cde Denebulosas Padel,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Cde Denebulosas Padel (Madrid) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -1484,18 +1484,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** teresabreton@gmail.com
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Cde Equipo Moraleja,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Cde Equipo Moraleja (Madrid) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -1506,18 +1506,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** info@M3padelacademy.com
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Cde M3 Sport,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Cde M3 Sport (Madrid) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -1528,18 +1528,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** info@ubeat.es
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Cde Ubeat,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Cde Ubeat (Madrid) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -1550,18 +1550,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** ana.tiessen@hotmail.com
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Cde X3 Padel,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Cde X3 Padel (Madrid) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -1572,18 +1572,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** info@chamartinfc.com
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Chamartin F.c.,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Chamartin F.c. (Madrid) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -1594,18 +1594,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** inigo.jofre@ciudadraqueta.com
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Ciudad De La Raqueta,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Ciudad De La Raqueta (Madrid) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -1616,18 +1616,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** info@clubalameda.com
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Club Alameda,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Club Alameda (Madrid) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -1638,18 +1638,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** info@cpt-fuencarral.com
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Club De Padel Y Tenis Fuencarral,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Club De Padel Y Tenis Fuencarral (Madrid) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -1660,18 +1660,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** deportiva@ctchamartin.es
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Club De Tenis Chamartin,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Club De Tenis Chamartin (Madrid) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -1682,18 +1682,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** info@club-brezo-osuna.com
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Club Deportivo Brezo Osuna,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Club Deportivo Brezo Osuna (Madrid) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -1704,18 +1704,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** padel@clubdeportivoelvalle.com
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Club Deportivo El Valle,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Club Deportivo El Valle (Madrid) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -1726,18 +1726,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** padelsomontes@ilunion.com
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Club Deportivo Somontes,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Club Deportivo Somontes (Madrid) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -1748,18 +1748,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** informacion@clubmirasierra.com
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Club Mirasierra Asociacion Civil,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Club Mirasierra Asociacion Civil (Madrid) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -1770,18 +1770,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** clubcrvzpdl@gmail.com
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Crvz & Pdl,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Crvz & Pdl (Madrid) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -1792,18 +1792,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** racquets.aravaca@davidlloyd.es
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de David Lloyd Aravaca,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En David Lloyd Aravaca (Madrid) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -1814,18 +1814,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** s.alarcon@grupoarea.es
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Föch Club,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Föch Club (Madrid) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -1836,18 +1836,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** cortijo@gmail.com
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Frikis Legends,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Frikis Legends (Madrid) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -1858,18 +1858,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** info@lamasosportclub.es
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de La Masó Sport Club,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En La Masó Sport Club (Madrid) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -1880,18 +1880,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** launionclubpadel@gmail.com
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de La Union Padel Club,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En La Union Padel Club (Madrid) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -1902,18 +1902,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** maegroup2016@gmail.com
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Madrid Central Padel,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Madrid Central Padel (Madrid) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -1924,18 +1924,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** makingpadel@momosportsclub.com
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Makingpadel,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Makingpadel (Madrid) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -1946,18 +1946,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** lorenzogozalopardo@gmail.com
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Padel Lord,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Padel Lord (Madrid) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -1968,18 +1968,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** tomas@ociogim.com
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Padel Ociogim,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Padel Ociogim (Madrid) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -1990,18 +1990,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** go@golfolivar.com
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Padel Y Tenis Olivar De La Hinojosa,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Padel Y Tenis Olivar De La Hinojosa (Madrid) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -2012,18 +2012,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** mlillopolaina@gmail.com
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Padelspirit Club,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Padelspirit Club (Madrid) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -2034,18 +2034,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** pablo.pita@ccvm.es
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Real Club De Campo Villa De Madrid,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Real Club De Campo Villa De Madrid (Madrid) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -2056,18 +2056,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** pilarrecio@rcphierro.com
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Real Club De La Puerta De Hierro,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Real Club De La Puerta De Hierro (Madrid) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -2078,18 +2078,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** escueladetenis.jmo@gmail.com
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de San Jose Del Parque,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En San Jose Del Parque (Madrid) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -2100,18 +2100,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** alinage@gmail.com
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Scet El Tiro,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Scet El Tiro (Madrid) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -2122,18 +2122,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** info@schoolpadelcenter.com
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de School Padel Center,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En School Padel Center (Madrid) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -2144,18 +2144,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** crisanto@cetmajadahonda.com
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Club Escuela De Tenis Majadahonda,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Club Escuela De Tenis Majadahonda (Majadahonda) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -2166,18 +2166,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** info@clubinternacional.es
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Club Internacional De Tenis,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Club Internacional De Tenis (Majadahonda) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -2188,18 +2188,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** achucarronacho68@gmail.com
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Nw Padel,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Nw Padel (Majadahonda) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -2210,18 +2210,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** info@r3mejoradapadel.com
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de R3 Mejorada Padel,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En R3 Mejorada Padel (Mejorada Del Campo) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -2232,18 +2232,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** anochde@gmail.com
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Cde Monteclaro,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Cde Monteclaro (Mjadahonda) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -2254,18 +2254,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** lisandro_rios@hotmail.com
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de A5 Padel,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En A5 Padel (Mostoles) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -2276,18 +2276,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** coimbrapadel@gmail.com
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Coimbra Padel,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Coimbra Padel (Mostoles) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -2298,18 +2298,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** fernando@padeltorre.com
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Novopadel,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Novopadel (Mostoles) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -2320,18 +2320,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** info@padeldospuntocero.com
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Padel 2.0,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Padel 2.0 (Mostoles) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -2342,18 +2342,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** jonyhernandezerenas@hotmail.com
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Cde Princesa,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Cde Princesa (Móstoles) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -2364,18 +2364,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** alberto@volea.es
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Volea Pádel Indoor,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Volea Pádel Indoor (Navalcarnero) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -2386,18 +2386,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** miramadridpadelclub@gmail.com
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Miramadrid Padel Club,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Miramadrid Padel Club (Paracuellos Del Jarama) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -2408,18 +2408,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** isidorogomez70@gmail.com
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Pintopadel Club Deportivo Los Angeles,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Pintopadel Club Deportivo Los Angeles (Pinto) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -2430,18 +2430,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** SOMPADEL@HOTMAIL.COM
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Sompadel,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Sompadel (Polideportivo Municipal Rio Perales) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -2452,18 +2452,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** clubpadelpozuelo@yahoo.es
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Club Padel Pozuelo,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Club Padel Pozuelo (Pozuelo De Alarcon) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -2474,18 +2474,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** juan.jaudenes@reebokclub.com
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de David Lloyd La Finca,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En David Lloyd La Finca (Pozuelo De Alarcon) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -2496,18 +2496,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** ugebaena@gmail.com
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Padel Winner,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Padel Winner (Pozuelo De Alarcon) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -2518,18 +2518,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** info@pozuelopadelclub.es
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Pozuelo Padel Club,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Pozuelo Padel Club (Pozuelo De Alarcon) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -2540,18 +2540,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** SOMOSAGUASPADELCLUB@GMAIL.COM
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Somosaguas Padel Club,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Somosaguas Padel Club (Pozuelo De Alarcon) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -2562,18 +2562,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** competicionespadelbularas@gmail.com
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Club De Pádel Bularas,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Club De Pádel Bularas (Pozuelo De Alarcón) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -2584,18 +2584,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** info@mad4padel.es
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Mad4padel,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Mad4padel (Pozuelo De Alarcón) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -2606,18 +2606,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** c.martinezlara77@gmail.com
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Pirikikis Padel,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Pirikikis Padel (Pozuelo De Alarcón) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -2628,18 +2628,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** info@padeltraining.com
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Indoor Padel Training,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Indoor Padel Training (Rivas Vaciamadrid) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -2650,18 +2650,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** rivapadel@gmail.com
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Rivapadel Sport Club,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Rivapadel Sport Club (Rivas Vaciamadrid) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -2672,18 +2672,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** info@bluepadelrivas.es
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Blue Padel Rivas,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Blue Padel Rivas (Rivas-vaciamadrid) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -2694,18 +2694,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** act_deportivas_complejo@race.es
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Club R.a.c.e.,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Club R.a.c.e. (S. S. Reyes) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -2716,18 +2716,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** padel&tenis@espacioherreria.club
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Espacio Herreria Padel,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Espacio Herreria Padel (S.lorenzo Del Escorial) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -2738,18 +2738,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** clubdetenisypadelsanse@gmail.com
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Club De Tenis Y Padel San Sebastian De Los Reyes,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Club De Tenis Y Padel San Sebastian De Los Reyes (S.s. Reyes) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -2760,18 +2760,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** mlarrumbide@grupo-11.com
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Club Deportivo Elemental 11,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Club Deportivo Elemental 11 (S.s. Reyes) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -2782,18 +2782,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** padelsportlab@gmail.com
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Padel Sport Lab,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Padel Sport Lab (San Sebastian De Los Reyes) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -2804,18 +2804,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** pepachozas@gmail.com
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Babel,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Babel (San Sebastián De Los Reyes) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -2826,18 +2826,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** administracion@cdjarama.es
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Cd Jarama,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Cd Jarama (San Sebastián De Los Reyes) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -2848,18 +2848,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** direccion@nortereal.com
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Norte Sport Club,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Norte Sport Club (San Sebastián De Los Reyes) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -2870,18 +2870,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** info@padelsototorrejon.com
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Club Padel Soto Torrejon,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Club Padel Soto Torrejon (Torrejon De Ardoz) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -2892,18 +2892,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** info@padelpeopletorrelodones.com
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Padel People Torrelodones,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Padel People Torrelodones (Torrelodones) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -2914,18 +2914,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** oscar@psctrescantos.es
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Padel Sport Center Tres Cantos,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Padel Sport Center Tres Cantos (Tres Cantos) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -2936,18 +2936,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** mamel8484@gmail.com
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Padel Team 3c,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Padel Team 3c (Tres Cantos) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -2958,18 +2958,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** alberto@opensportsl.com
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Padel Tricantino,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Padel Tricantino (Tres Cantos) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -2980,18 +2980,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** contacto@valdemorilloindoorpadel.com
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Vip Padel,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Vip Padel (Valdemorillo) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -3002,18 +3002,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** info@padelfamily.es
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Club De Padel Family,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Club De Padel Family (Valdemoro) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -3024,18 +3024,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** padelindoorrio@gmail.com
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Padel Indoor Rio,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Padel Indoor Rio (Velilla De San Antonio) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -3046,18 +3046,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** clubpadeltenisvdp@gmail.com
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Cdb Club De Padel Y Tenis Villa Del Prado,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Cdb Club De Padel Y Tenis Villa Del Prado (Villa Del Prado) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -3068,18 +3068,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** info@enjoyandpadel.com
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Indoor Enjoy&padel,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Indoor Enjoy&padel (Villalbilla) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -3090,18 +3090,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** tactectennis@gmail.com
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Tac Tec Padel Villalbilla,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Tac Tec Padel Villalbilla (Villalbilla) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -3112,18 +3112,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** jllesma@ucjc.edu
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Cd Sek,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Cd Sek (Villanueva De La Cañada) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
@@ -3134,18 +3134,18 @@ https://epadelschool.com
 
 - [ ] Enviado
 **Para:** villapadel@telefonica.net
-**Asunto:** bolsa de horas
+**Asunto:** recuperar clase
 
 ```
-Hola,
+Hola equipo de Club Villa Padel,
 
-La mayoría de escuelas de pádel pierden entre 15 y 20 horas a la semana solo en cuadrar cobros por Bizum o transferencia y recolocar clases que alguien canceló a última hora.
+Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
 
-En Club Villa Padel (Villaviciosa De Odon) imagino que no sois una excepción.
+Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
 
-Llevamos un tiempo resolviendo justo eso: cobro automático y una bolsa de horas que rellena sola los huecos que deja una cancelación. En la práctica, esas 15-20h desaparecen de la gestión semanal.
+Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
 
-¿Te interesa que te lo enseñe en dos minutos?
+¿Te lo enseño en dos minutos?
 
 https://epadelschool.com
 ```
