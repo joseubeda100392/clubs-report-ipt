@@ -55,16 +55,16 @@ Variables: `{{club}}`, `{{localidad}}`
 
 **Decisión de fondo (v3):** el argumento no es "cobros" — eso es un síntoma. El argumento sólido es la **recolocación automática de alumnos por nivel** cuando alguien cancela, sin intervención manual. Eso es lo que de verdad libera al club: WhatsApps de "¿cuándo recupero mi clase?", el profesor contestando lo mismo diez veces al día, y los Excels kilométricos de seguimiento. El objetivo del email no es vender, es **conseguir una llamada** — el producto convence viéndolo funcionar, no leyéndolo.
 
-**Touch 1 — Día 0**
+**Touch 1 — Día 0** (v4, definitiva)
 Asunto: `recuperar clase`
 
 > Hola equipo de {{club}},
 >
-> Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+> Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 >
-> Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+> Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 >
-> Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+> El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 >
 > ¿Te lo enseño en dos minutos?
 >

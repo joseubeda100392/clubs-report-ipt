@@ -6,7 +6,7 @@ Copia el bloque completo (Para / Asunto / Cuerpo) y pégalo en el webmail. Marca
 
 ---
 
-## 1. Cde Net Sports (Madrid)
+## 1. Cde Net Sports (—)
 
 - [ ] Enviado
 **Para:** netsportsescuela@gmail.com
@@ -15,11 +15,11 @@ Copia el bloque completo (Para / Asunto / Cuerpo) y pégalo en el webmail. Marca
 ```
 Hola equipo de Cde Net Sports,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -28,7 +28,7 @@ https://epadelschool.com
 
 ---
 
-## 2. Club Ocapa (Madrid)
+## 2. Club Ocapa (—)
 
 - [ ] Enviado
 **Para:** guayart@gmail.com
@@ -37,11 +37,11 @@ https://epadelschool.com
 ```
 Hola equipo de Club Ocapa,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -50,7 +50,7 @@ https://epadelschool.com
 
 ---
 
-## 3. Club R.e.p. (Madrid)
+## 3. Club R.e.p. (—)
 
 - [ ] Enviado
 **Para:** ramarpublicidad@telefonica.net
@@ -59,11 +59,11 @@ https://epadelschool.com
 ```
 Hola equipo de Club R.e.p.,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -72,7 +72,7 @@ https://epadelschool.com
 
 ---
 
-## 4. Padel University (Madrid)
+## 4. Padel University (—)
 
 - [ ] Enviado
 **Para:** gutidani@gmail.com
@@ -81,11 +81,11 @@ https://epadelschool.com
 ```
 Hola equipo de Padel University,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -94,7 +94,7 @@ https://epadelschool.com
 
 ---
 
-## 5. Set Point Padel Indoor (Madrid)
+## 5. Set Point Padel Indoor (—)
 
 - [ ] Enviado
 **Para:** contacto@setpoint.es
@@ -103,11 +103,11 @@ https://epadelschool.com
 ```
 Hola equipo de Set Point Padel Indoor,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -116,7 +116,7 @@ https://epadelschool.com
 
 ---
 
-## 6. Snobissimo Padel (Madrid)
+## 6. Snobissimo Padel (—)
 
 - [ ] Enviado
 **Para:** angeltorreshinojosa@gmail.com
@@ -125,11 +125,11 @@ https://epadelschool.com
 ```
 Hola equipo de Snobissimo Padel,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -147,11 +147,11 @@ https://epadelschool.com
 ```
 Hola equipo de Escuela De Tenis Alcala,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -169,11 +169,11 @@ https://epadelschool.com
 ```
 Hola equipo de Cde Pala Y Raqueta Alcalá,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -191,11 +191,11 @@ https://epadelschool.com
 ```
 Hola equipo de Club Padel Indoor Alcala,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -213,11 +213,11 @@ https://epadelschool.com
 ```
 Hola equipo de Club De Golf La Moraleja,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -235,11 +235,11 @@ https://epadelschool.com
 ```
 Hola equipo de Club De Padel La Moraleja,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -257,11 +257,11 @@ https://epadelschool.com
 ```
 Hola equipo de Club El Estudiante,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -279,11 +279,11 @@ https://epadelschool.com
 ```
 Hola equipo de Club Elemental Match Ball,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -301,11 +301,11 @@ https://epadelschool.com
 ```
 Hola equipo de Ladeveze,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -323,11 +323,11 @@ https://epadelschool.com
 ```
 Hola equipo de Padel Hangar Alcobendas,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -345,11 +345,11 @@ https://epadelschool.com
 ```
 Hola equipo de Club Deportivo Alkor-villalkor,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -367,11 +367,11 @@ https://epadelschool.com
 ```
 Hola equipo de Ondapadel,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -389,11 +389,11 @@ https://epadelschool.com
 ```
 Hola equipo de Cde Padel Sense,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -411,11 +411,11 @@ https://epadelschool.com
 ```
 Hola equipo de Club Deportivo Parque De Lisboa,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -433,11 +433,11 @@ https://epadelschool.com
 ```
 Hola equipo de Mmpadel,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -455,11 +455,11 @@ https://epadelschool.com
 ```
 Hola equipo de Padel Sport Home,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -477,11 +477,11 @@ https://epadelschool.com
 ```
 Hola equipo de C.d.e Pádel Club Arganda,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -499,11 +499,11 @@ https://epadelschool.com
 ```
 Hola equipo de Cdb Padel G24,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -521,11 +521,11 @@ https://epadelschool.com
 ```
 Hola equipo de Sport Club G.p,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -543,11 +543,11 @@ https://epadelschool.com
 ```
 Hola equipo de P&t Duramonte Padel Tenis Becerril,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -565,11 +565,11 @@ https://epadelschool.com
 ```
 Hola equipo de Atp Republic Space,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -587,11 +587,11 @@ https://epadelschool.com
 ```
 Hola equipo de Cde Onlypadel,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -609,11 +609,11 @@ https://epadelschool.com
 ```
 Hola equipo de Cde Aupa,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -631,11 +631,11 @@ https://epadelschool.com
 ```
 Hola equipo de Cde Taylor Padel,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -653,11 +653,11 @@ https://epadelschool.com
 ```
 Hola equipo de Club Las Encinas De Boadilla,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -675,11 +675,11 @@ https://epadelschool.com
 ```
 Hola equipo de Gon Padel,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -697,11 +697,11 @@ https://epadelschool.com
 ```
 Hola equipo de Brunete Sport Club,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -719,11 +719,11 @@ https://epadelschool.com
 ```
 Hola equipo de Club + Qpadel Paracas,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -741,11 +741,11 @@ https://epadelschool.com
 ```
 Hola equipo de Padel Indoor Cerceda (Pic),
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -763,11 +763,11 @@ https://epadelschool.com
 ```
 Hola equipo de Palas Ocio Padel Club,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -785,11 +785,11 @@ https://epadelschool.com
 ```
 Hola equipo de Mv Padel Cercedilla,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -807,11 +807,11 @@ https://epadelschool.com
 ```
 Hola equipo de Pyt Villalba,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -829,11 +829,11 @@ https://epadelschool.com
 ```
 Hola equipo de Cde Punto De Oro,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -851,11 +851,11 @@ https://epadelschool.com
 ```
 Hola equipo de El Cuarto Set,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -873,11 +873,11 @@ https://epadelschool.com
 ```
 Hola equipo de Platinium Padel,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -895,11 +895,11 @@ https://epadelschool.com
 ```
 Hola equipo de Pádel De Precisión,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -917,11 +917,11 @@ https://epadelschool.com
 ```
 Hola equipo de Cd. Tenis Y Padel Coslada,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -939,11 +939,11 @@ https://epadelschool.com
 ```
 Hola equipo de Urban Padel Club,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -961,11 +961,11 @@ https://epadelschool.com
 ```
 Hola equipo de Cde Padel G2,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -983,11 +983,11 @@ https://epadelschool.com
 ```
 Hola equipo de Sac.p.f. Pádel Y Pickleball De Fuenlabrada,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -1005,11 +1005,11 @@ https://epadelschool.com
 ```
 Hola equipo de Get Indoor Padel,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -1027,11 +1027,11 @@ https://epadelschool.com
 ```
 Hola equipo de Mg Indoor Padel Club,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -1049,11 +1049,11 @@ https://epadelschool.com
 ```
 Hola equipo de Padel Sport Indoor Getafe,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -1071,11 +1071,11 @@ https://epadelschool.com
 ```
 Hola equipo de Conpas Padel Academy,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -1093,11 +1093,11 @@ https://epadelschool.com
 ```
 Hola equipo de La Nave Padelcenter,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -1115,11 +1115,11 @@ https://epadelschool.com
 ```
 Hola equipo de Cde Academicos Del Padel Hoyo De Manzanares,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -1137,11 +1137,11 @@ https://epadelschool.com
 ```
 Hola equipo de Nx3 Padelindoor,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -1159,11 +1159,11 @@ https://epadelschool.com
 ```
 Hola equipo de Club De Tenis La Moraleja,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -1181,11 +1181,11 @@ https://epadelschool.com
 ```
 Hola equipo de Club Monte Rozas,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -1203,11 +1203,11 @@ https://epadelschool.com
 ```
 Hola equipo de Duin Sports Las Rozas,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -1225,11 +1225,11 @@ https://epadelschool.com
 ```
 Hola equipo de Maspadel,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -1247,11 +1247,11 @@ https://epadelschool.com
 ```
 Hola equipo de Las Rozas Padel Center,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -1269,11 +1269,11 @@ https://epadelschool.com
 ```
 Hola equipo de Single Love Padel Team,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -1291,11 +1291,11 @@ https://epadelschool.com
 ```
 Hola equipo de 4 Ever 1,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -1313,11 +1313,11 @@ https://epadelschool.com
 ```
 Hola equipo de Ad Sporting De Hortaleza,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -1335,11 +1335,11 @@ https://epadelschool.com
 ```
 Hola equipo de C.d. 2 +,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -1357,11 +1357,11 @@ https://epadelschool.com
 ```
 Hola equipo de C.d. Elemental Tres-olivos Montecarmelo,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -1379,11 +1379,11 @@ https://epadelschool.com
 ```
 Hola equipo de C.d.e. Sisukas,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -1401,11 +1401,11 @@ https://epadelschool.com
 ```
 Hola equipo de Cde Argaña,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -1423,11 +1423,11 @@ https://epadelschool.com
 ```
 Hola equipo de Cde Avanti,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -1445,11 +1445,11 @@ https://epadelschool.com
 ```
 Hola equipo de Cde Cuatro Raquetas Aravaca,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -1467,11 +1467,11 @@ https://epadelschool.com
 ```
 Hola equipo de Cde Denebulosas Padel,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -1489,11 +1489,11 @@ https://epadelschool.com
 ```
 Hola equipo de Cde Equipo Moraleja,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -1511,11 +1511,11 @@ https://epadelschool.com
 ```
 Hola equipo de Cde M3 Sport,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -1533,11 +1533,11 @@ https://epadelschool.com
 ```
 Hola equipo de Cde Ubeat,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -1555,11 +1555,11 @@ https://epadelschool.com
 ```
 Hola equipo de Cde X3 Padel,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -1577,11 +1577,11 @@ https://epadelschool.com
 ```
 Hola equipo de Chamartin F.c.,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -1599,11 +1599,11 @@ https://epadelschool.com
 ```
 Hola equipo de Ciudad De La Raqueta,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -1621,11 +1621,11 @@ https://epadelschool.com
 ```
 Hola equipo de Club Alameda,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -1643,11 +1643,11 @@ https://epadelschool.com
 ```
 Hola equipo de Club De Padel Y Tenis Fuencarral,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -1665,11 +1665,11 @@ https://epadelschool.com
 ```
 Hola equipo de Club De Tenis Chamartin,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -1687,11 +1687,11 @@ https://epadelschool.com
 ```
 Hola equipo de Club Deportivo Brezo Osuna,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -1709,11 +1709,11 @@ https://epadelschool.com
 ```
 Hola equipo de Club Deportivo El Valle,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -1731,11 +1731,11 @@ https://epadelschool.com
 ```
 Hola equipo de Club Deportivo Somontes,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -1753,11 +1753,11 @@ https://epadelschool.com
 ```
 Hola equipo de Club Mirasierra Asociacion Civil,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -1775,11 +1775,11 @@ https://epadelschool.com
 ```
 Hola equipo de Crvz & Pdl,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -1797,11 +1797,11 @@ https://epadelschool.com
 ```
 Hola equipo de David Lloyd Aravaca,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -1819,11 +1819,11 @@ https://epadelschool.com
 ```
 Hola equipo de Föch Club,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -1841,11 +1841,11 @@ https://epadelschool.com
 ```
 Hola equipo de Frikis Legends,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -1863,11 +1863,11 @@ https://epadelschool.com
 ```
 Hola equipo de La Masó Sport Club,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -1885,11 +1885,11 @@ https://epadelschool.com
 ```
 Hola equipo de La Union Padel Club,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -1907,11 +1907,11 @@ https://epadelschool.com
 ```
 Hola equipo de Madrid Central Padel,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -1929,11 +1929,11 @@ https://epadelschool.com
 ```
 Hola equipo de Makingpadel,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -1951,11 +1951,11 @@ https://epadelschool.com
 ```
 Hola equipo de Padel Lord,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -1973,11 +1973,11 @@ https://epadelschool.com
 ```
 Hola equipo de Padel Ociogim,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -1995,11 +1995,11 @@ https://epadelschool.com
 ```
 Hola equipo de Padel Y Tenis Olivar De La Hinojosa,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -2017,11 +2017,11 @@ https://epadelschool.com
 ```
 Hola equipo de Padelspirit Club,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -2039,11 +2039,11 @@ https://epadelschool.com
 ```
 Hola equipo de Real Club De Campo Villa De Madrid,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -2061,11 +2061,11 @@ https://epadelschool.com
 ```
 Hola equipo de Real Club De La Puerta De Hierro,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -2083,11 +2083,11 @@ https://epadelschool.com
 ```
 Hola equipo de San Jose Del Parque,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -2105,11 +2105,11 @@ https://epadelschool.com
 ```
 Hola equipo de Scet El Tiro,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -2127,11 +2127,11 @@ https://epadelschool.com
 ```
 Hola equipo de School Padel Center,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -2149,11 +2149,11 @@ https://epadelschool.com
 ```
 Hola equipo de Club Escuela De Tenis Majadahonda,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -2171,11 +2171,11 @@ https://epadelschool.com
 ```
 Hola equipo de Club Internacional De Tenis,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -2193,11 +2193,11 @@ https://epadelschool.com
 ```
 Hola equipo de Nw Padel,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -2215,11 +2215,11 @@ https://epadelschool.com
 ```
 Hola equipo de R3 Mejorada Padel,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -2237,11 +2237,11 @@ https://epadelschool.com
 ```
 Hola equipo de Cde Monteclaro,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -2259,11 +2259,11 @@ https://epadelschool.com
 ```
 Hola equipo de A5 Padel,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -2281,11 +2281,11 @@ https://epadelschool.com
 ```
 Hola equipo de Coimbra Padel,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -2303,11 +2303,11 @@ https://epadelschool.com
 ```
 Hola equipo de Novopadel,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -2325,11 +2325,11 @@ https://epadelschool.com
 ```
 Hola equipo de Padel 2.0,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -2347,11 +2347,11 @@ https://epadelschool.com
 ```
 Hola equipo de Cde Princesa,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -2369,11 +2369,11 @@ https://epadelschool.com
 ```
 Hola equipo de Volea Pádel Indoor,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -2391,11 +2391,11 @@ https://epadelschool.com
 ```
 Hola equipo de Miramadrid Padel Club,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -2413,11 +2413,11 @@ https://epadelschool.com
 ```
 Hola equipo de Pintopadel Club Deportivo Los Angeles,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -2435,11 +2435,11 @@ https://epadelschool.com
 ```
 Hola equipo de Sompadel,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -2457,11 +2457,11 @@ https://epadelschool.com
 ```
 Hola equipo de Club Padel Pozuelo,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -2479,11 +2479,11 @@ https://epadelschool.com
 ```
 Hola equipo de David Lloyd La Finca,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -2501,11 +2501,11 @@ https://epadelschool.com
 ```
 Hola equipo de Padel Winner,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -2523,11 +2523,11 @@ https://epadelschool.com
 ```
 Hola equipo de Pozuelo Padel Club,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -2545,11 +2545,11 @@ https://epadelschool.com
 ```
 Hola equipo de Somosaguas Padel Club,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -2567,11 +2567,11 @@ https://epadelschool.com
 ```
 Hola equipo de Club De Pádel Bularas,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -2589,11 +2589,11 @@ https://epadelschool.com
 ```
 Hola equipo de Mad4padel,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -2611,11 +2611,11 @@ https://epadelschool.com
 ```
 Hola equipo de Pirikikis Padel,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -2633,11 +2633,11 @@ https://epadelschool.com
 ```
 Hola equipo de Indoor Padel Training,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -2655,11 +2655,11 @@ https://epadelschool.com
 ```
 Hola equipo de Rivapadel Sport Club,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -2677,11 +2677,11 @@ https://epadelschool.com
 ```
 Hola equipo de Blue Padel Rivas,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -2699,11 +2699,11 @@ https://epadelschool.com
 ```
 Hola equipo de Club R.a.c.e.,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -2721,11 +2721,11 @@ https://epadelschool.com
 ```
 Hola equipo de Espacio Herreria Padel,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -2743,11 +2743,11 @@ https://epadelschool.com
 ```
 Hola equipo de Club De Tenis Y Padel San Sebastian De Los Reyes,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -2765,11 +2765,11 @@ https://epadelschool.com
 ```
 Hola equipo de Club Deportivo Elemental 11,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -2787,11 +2787,11 @@ https://epadelschool.com
 ```
 Hola equipo de Padel Sport Lab,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -2809,11 +2809,11 @@ https://epadelschool.com
 ```
 Hola equipo de Babel,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -2831,11 +2831,11 @@ https://epadelschool.com
 ```
 Hola equipo de Cd Jarama,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -2853,11 +2853,11 @@ https://epadelschool.com
 ```
 Hola equipo de Norte Sport Club,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -2875,11 +2875,11 @@ https://epadelschool.com
 ```
 Hola equipo de Club Padel Soto Torrejon,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -2897,11 +2897,11 @@ https://epadelschool.com
 ```
 Hola equipo de Padel People Torrelodones,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -2919,11 +2919,11 @@ https://epadelschool.com
 ```
 Hola equipo de Padel Sport Center Tres Cantos,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -2941,11 +2941,11 @@ https://epadelschool.com
 ```
 Hola equipo de Padel Team 3c,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -2963,11 +2963,11 @@ https://epadelschool.com
 ```
 Hola equipo de Padel Tricantino,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -2985,11 +2985,11 @@ https://epadelschool.com
 ```
 Hola equipo de Vip Padel,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -3007,11 +3007,11 @@ https://epadelschool.com
 ```
 Hola equipo de Club De Padel Family,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -3029,11 +3029,11 @@ https://epadelschool.com
 ```
 Hola equipo de Padel Indoor Rio,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -3051,11 +3051,11 @@ https://epadelschool.com
 ```
 Hola equipo de Cdb Club De Padel Y Tenis Villa Del Prado,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -3073,11 +3073,11 @@ https://epadelschool.com
 ```
 Hola equipo de Indoor Enjoy&padel,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -3095,11 +3095,11 @@ https://epadelschool.com
 ```
 Hola equipo de Tac Tec Padel Villalbilla,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -3117,11 +3117,11 @@ https://epadelschool.com
 ```
 Hola equipo de Cd Sek,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
@@ -3139,11 +3139,11 @@ https://epadelschool.com
 ```
 Hola equipo de Club Villa Padel,
 
-Cuando un alumno falta a clase, ¿quién decide dónde recolocarlo para que no pierda nivel? Normalmente alguien cuadrando un Excel a mano, mientras el WhatsApp se llena de "¿cuándo recupero mi clase?" que le llegan al profesor a todas horas.
+Cuando un alumno avisa de que va a faltar a su clase de grupo, ¿qué pasa con ese hueco? O se queda vacío sin que nadie se entere a tiempo, o alguien pierde diez minutos preguntando por otros grupos a ver quién es de ese nivel y además tiene una clase pendiente de recuperar.
 
-Automatizamos justo eso: cuando alguien cancela, el propio sistema lo reubica en otra clase de su mismo nivel, sin que nadie toque nada. Cero Excel, cero WhatsApp, cero profesor de guardia contestando lo mismo diez veces al día.
+Automatizamos justo eso: en cuanto un alumno avisa de que falta, el sistema publica el hueco al momento a todos los alumnos de su mismo nivel — lo puede coger quien recupera una clase, quien tiene bonos que gastar, o cualquier alumno de la escuela que quiera jugar esa hora suelta y pagarla. La clase se llena sola, sin que nadie del club levante un dedo.
 
-Lo que cambia de verdad: quien gestiona el club dedica ese tiempo a gestionar el club, no a recolocar gente.
+El resultado: cero huecos vacíos, cero tiempo perdido cuadrando quién puede rellenar qué, y un club que factura cada hora de pista en vez de regalarla.
 
 ¿Te lo enseño en dos minutos?
 
