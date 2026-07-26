@@ -38,11 +38,11 @@ No discutas que "no funciona" — reformula qué es lo que específicamente NO h
 
 ## 4. Objeción — precio ("¿cuánto cuesta?", "es caro")
 
-Directo, sin rodeos, y siempre reconduce a la llamada — que decidan viendo el producto, no solo el precio.
+Directo, sin rodeos — y aquí sí sacamos la oferta, porque es exactamente la objeción que está diseñada para resolver.
 
-> 99€/mes, todo incluido, sin permanencia ni coste de alta.
+> 99€/mes, todo incluido, sin permanencia ni coste de alta. Y para que no tengas que decidir a ciegas: el primer mes va gratis, con soporte incluido, para probarlo con vuestros alumnos reales.
 >
-> Antes de que decidas si es caro o barato, mejor verlo funcionar — si libera aunque sea unas horas de recolocar gente a mano cada semana, ya se paga solo. ¿Miramos 15 minutos esta semana?
+> Si en ese mes no os aporta nada, lo dejáis y no ha costado un euro. ¿Miramos 15 minutos esta semana para montarlo?
 
 ---
 
@@ -64,7 +64,17 @@ Cierre educado, sin insistir — protege la reputación de envío para el resto 
 
 ---
 
-## 7. Reglas generales para todas las respuestas
+## 7. Cierre en la llamada — el mes gratis es la herramienta de cierre, no el gancho del email
+
+La lógica de la campaña: el email consigue la llamada, la llamada enseña el producto, **la oferta cierra la venta**. No se malgasta en el primer correo.
+
+Al final de la demo, cuando ya han visto cómo funciona la recolocación automática:
+
+> Os doy de alta ya con el primer mes gratis y con soporte directo conmigo — así lo probáis con vuestros propios alumnos y grupos reales, sin arriesgar nada. Si al mes no os convence, lo dejáis sin más.
+
+Por qué funciona: quita el único freno real (arriesgar dinero en algo que no han probado) justo en el momento en que ya han visto el valor con sus propios ojos — no antes.
+
+## 8. Reglas generales para todas las respuestas
 
 - Responder en **menos de 24h** — es la ventana donde de verdad se agenda la llamada; pasado ese tiempo el interés se enfría.
 - Nunca mandar más de una pregunta por respuesta — un único "¿qué tal X día?" es más fácil de contestar que dar tres opciones a elegir.
